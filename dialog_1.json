@@ -1,0 +1,2302 @@
+[
+    {
+        "userId": 1,
+        "text": "Hi!"
+    },
+    {
+        "userId": 2,
+        "text": "Hello, how is your day?"
+    },
+    {
+        "userId": 1,
+        "text": "It's good. It's raining a bit, but I am enjoying a good book. How about you?"
+    },
+    {
+        "userId": 2,
+        "text": "It's good, I just got back from walking my dog What book did you read?"
+    },
+    {
+        "userId": 1,
+        "text": "I'm reading the Three Body Problem. Ever heard of it?"
+    },
+    {
+        "userId": 2,
+        "text": "No, what is it about?"
+    },
+    {
+        "userId": 1,
+        "text": "It's a sci-fi book about aliens and a type of virtual reality. Pique your interest at all?"
+    },
+    {
+        "userId": 2,
+        "text": "Slightly, I typically read fiction but I can curious what type of virtual reality is discussed in the book"
+    },
+    {
+        "userId": 1,
+        "text": "Cool. This virtual reality is a based on life on an alien planet. There is a twist though. Do you want me to spoil it for you?"
+    },
+    {
+        "userId": 2,
+        "text": "Yes!"
+    },
+    {
+        "userId": 1,
+        "text": "The virtual reality is actually based on a real alien civilization! And that civilization is coming to attack earth! dun dun dun dunnnnnnn"
+    },
+    {
+        "userId": 2,
+        "text": "Woah! That is fascinating! I will have to pick up a copy of the book to read."
+    },
+    {
+        "userId": 1,
+        "text": "There are other twists as well, so I haven't spoiled the whole thing! To be honest I am not a fan of spoilers"
+    },
+    {
+        "userId": 2,
+        "text": "Thanks for not spoiling it completely but you gave a really intriguing description that makes me want to read it now. I will have to pick it up after work"
+    },
+    {
+        "userId": 1,
+        "text": "The audi book is also very good! Ever give those a try?"
+    },
+    {
+        "userId": 2,
+        "text": "I only gave those a try when I had a concussion and could not read. I enjoy having a physical book in hand and reading at the pace I prefer. Do you listen to a lot of audi books?"
+    },
+    {
+        "userId": 1,
+        "text": "Hi!"
+    },
+    {
+        "userId": 2,
+        "text": "Hey, how's it going?"
+    },
+    {
+        "userId": 1,
+        "text": "It's good! How is your day?"
+    },
+    {
+        "userId": 2,
+        "text": "My day is good. A bit sad that it gets dark so early but oh well. Did you do anything fun over the weekend?"
+    },
+    {
+        "userId": 1,
+        "text": "Yes, the darkness can be a bit depressing. This weekend I went rock climbing! It was great! How about yourself?"
+    },
+    {
+        "userId": 2,
+        "text": "Rock climbing sounds fun! I had a pretty low-key weekend. Ended up going to watch a movie."
+    },
+    {
+        "userId": 1,
+        "text": "Oh nice! What movie?"
+    },
+    {
+        "userId": 2,
+        "text": "Knives Out. It had Daniel Craig and one of the famous Captain America \"Chris\" person (I can't keep track of all of the famous Chris names)."
+    },
+    {
+        "userId": 1,
+        "text": "Hahah yes, they all look the same! I saw that very same movie over Thanksgiving break. Lots of twists and turns!"
+    },
+    {
+        "userId": 2,
+        "text": "Cool. So if it weren't so dark and cold outside, what kind of activities would you do?"
+    },
+    {
+        "userId": 1,
+        "text": "Hmm good question. Evening runs can be fun, but it can be a little scary when it's dark out!"
+    },
+    {
+        "userId": 2,
+        "text": "Yeah, sunlight is good. I wish I could live part-time in different parts of the world to have summer all year round. Have you ever visited the southern hemisphere?"
+    },
+    {
+        "userId": 1,
+        "text": "Yes! I've been to Australia. It was very nice; I regret not going to see the southern lights. Me personally, I like winter. But I'd prefer it to be more brief than it actually is here... Where are you from originally?"
+    },
+    {
+        "userId": 2,
+        "text": "I've always wanted to go to Australia. I'm originally from the US."
+    },
+    {
+        "userId": 1,
+        "text": "Ahh me too! You should definitely try to visit Australia at least once!"
+    },
+    {
+        "userId": 2,
+        "text": "Will do! Bye."
+    },
+    {
+        "userId": 1,
+        "text": "Hi!"
+    },
+    {
+        "userId": 2,
+        "text": "What's your name?"
+    },
+    {
+        "userId": 1,
+        "text": "My name is pikachu. it’s nice to meet you! What are you up to this month?"
+    },
+    {
+        "userId": 2,
+        "text": "Nice to meet you pikachu! pikachu, pikachu, pikachu? (That meant, I'm literally catching Pokemons on my phone right now!) What're you up to lately?"
+    },
+    {
+        "userId": 1,
+        "text": "I’m trying to organize my life and start the new year ready to go! What about you?"
+    },
+    {
+        "userId": 2,
+        "text": "Wow, that's impressive. Admit I'm just trying to take each day and week as they come."
+    },
+    {
+        "userId": 1,
+        "text": "What do you do to unwind?"
+    },
+    {
+        "userId": 2,
+        "text": "Honestly, I like to catch Pokemons on my phone a lot. That must be upsetting since your name is pikachu though...sorry..."
+    },
+    {
+        "userId": 1,
+        "text": "Oddly enough, I also catch Pokémon on my phone. I used to do it more, but it just never ends. I used to do it everyday. Now I mostly catch them when I travel somewhere exotic."
+    },
+    {
+        "userId": 2,
+        "text": "Oooh, that is more fun, but I don't travel that much these days so I'm grateful when I spot a Pokemon to catch where ever I happen to be. Do you have a favorite Pokemon? Mine is the cute pink JIgglypuff!"
+    },
+    {
+        "userId": 1,
+        "text": "In the game, i use vaporeon a lot. But I think pikachu is the cutest, that’s why I changed my name to match. Lately, I think baby Yoda is the cutest though. Have you seen baby yoda?"
+    },
+    {
+        "userId": 2,
+        "text": "I have heard of him and seen him here and there, but admit I don't have Disney+, so I only heard baby yoda is super cute and popular. Maybe I'll binge watch The Mandalorian in a couple of years like I did Game of Thrones..."
+    },
+    {
+        "userId": 1,
+        "text": "What is your favorite show to watch right now?"
+    },
+    {
+        "userId": 2,
+        "text": "Admit I really like watching Modern Family and Mix-ish. Reruns and new episodes. I find them cleverly written. What're you watching these days on TV?"
+    },
+    {
+        "userId": 1,
+        "text": "I was watching cat rescue videos on YouTube a lot. There sure are a lot of stray cat babies that get stuck in pipes and gutters in South Korea."
+    },
+    {
+        "userId": 2,
+        "text": "Oh dear, I never imagined that happening. Poor things, but good to hear they're being rescued."
+    },
+    {
+        "userId": 1,
+        "text": "Do you like cats or dogs better? Do you have any pets?"
+    },
+    {
+        "userId": 2,
+        "text": "I used to have a cat, hamster and fighting fish, but they've all lived long lives and gone to pet heaven, but I sure miss them."
+    },
+    {
+        "userId": 1,
+        "text": "Hi!"
+    },
+    {
+        "userId": 2,
+        "text": "hi there! it's a lovely day to chat with you"
+    },
+    {
+        "userId": 1,
+        "text": "Isn't it just! What are you up to today?"
+    },
+    {
+        "userId": 2,
+        "text": "ah I'm waiting to finish work earlier to meet my son at home 🙂"
+    },
+    {
+        "userId": 1,
+        "text": "Oh, excellent! What does your son like to do for fun?"
+    },
+    {
+        "userId": 2,
+        "text": "ah he's like to ride his little bicycle around the house and asks me to follow 🙂 what are you up to today?"
+    },
+    {
+        "userId": 1,
+        "text": "I'm taking a fake sick day from work so I can go to the movies."
+    },
+    {
+        "userId": 2,
+        "text": "haha that sounds like a good plan. who are you going with? 🙂"
+    },
+    {
+        "userId": 1,
+        "text": "Just by myself. I love seeing movies by myself, it's the best."
+    },
+    {
+        "userId": 2,
+        "text": "haha no one will interrupt you!"
+    },
+    {
+        "userId": 1,
+        "text": "Exactly. Exactly! Plus, I don't have to share the popcorn with anyone. What's your favorite movie?"
+    },
+    {
+        "userId": 2,
+        "text": "haha, popcorn for yourself. my favorite movie is Avatar! what about you?"
+    },
+    {
+        "userId": 1,
+        "text": "Get out of town! It's Avatar too. What are the odds!?"
+    },
+    {
+        "userId": 2,
+        "text": "haha it's a great movie that I haven't found anything of the same quality"
+    },
+    {
+        "userId": 1,
+        "text": "Yes. Can't wait for the sequels."
+    },
+    {
+        "userId": 2,
+        "text": "Hi!"
+    },
+    {
+        "userId": 1,
+        "text": "hello there, nice seeing you"
+    },
+    {
+        "userId": 2,
+        "text": "Likewise.... wanted to know if you and the kids would want to join us for Disneyland trip around Christmas?"
+    },
+    {
+        "userId": 1,
+        "text": "oh wow, that sounds like so much fun! definitely count us in. what is your plan?"
+    },
+    {
+        "userId": 2,
+        "text": "Tentative plan is to drive to LA on 23rd and then stay at the Disney resort for 2 nights. I heard Christmas eve they have loads of fun events."
+    },
+    {
+        "userId": 1,
+        "text": "awesome, I think I won't tell my kids and surprise them last second. How bad do you think the traffic is going to be?"
+    },
+    {
+        "userId": 2,
+        "text": "Great idea! I will probably do the same. Surprise surprise.... Traffic might be a little harsh."
+    },
+    {
+        "userId": 1,
+        "text": "Yeah... thats a shame but nothing we can do about it. What do you plan to do about dinner the 24th? Do the rooms in the resort have kitchens?"
+    },
+    {
+        "userId": 2,
+        "text": "Good point. I am not sure about that. Let me inquire about that. If not, then we can look for an Airbnb closeby. Does that work?"
+    },
+    {
+        "userId": 1,
+        "text": "Yeah, I think so. It might be a tough decision though, if we want to have a nice dinner then we have to leave the parks early to start cooking. Another option is to have dinner at a restaurant."
+    },
+    {
+        "userId": 2,
+        "text": "but I would think everything is closed on christmas eve"
+    },
+    {
+        "userId": 1,
+        "text": "Thats true. Hotels with restaurants sometimes offer dinners for christmas and new year's eve. We should call and ask about it."
+    },
+    {
+        "userId": 2,
+        "text": "Sure, I can take a lead on that. What are you getting for your <REDACTED_TERM> year old this time?"
+    },
+    {
+        "userId": 1,
+        "text": "I was thinking on getting a large set of standard legos. What will you get for yours?"
+    },
+    {
+        "userId": 2,
+        "text": "Likewise. My son is crazy about legos."
+    },
+    {
+        "userId": 1,
+        "text": "hopefully they don't lose any in the trip. Its going to be hard to explain to them how santa managed to find us in the hotel!"
+    },
+    {
+        "userId": 2,
+        "text": "Hi!"
+    },
+    {
+        "userId": 1,
+        "text": "Hi! How's your day going?"
+    },
+    {
+        "userId": 2,
+        "text": "I'm doing well. having many meetings today 🙂"
+    },
+    {
+        "userId": 1,
+        "text": "Haha, nice"
+    },
+    {
+        "userId": 2,
+        "text": "what are you up to?"
+    },
+    {
+        "userId": 1,
+        "text": "Lots of meetings as well 🙂 Do you have any fun plans for Thanksgiving?"
+    },
+    {
+        "userId": 2,
+        "text": "we're gonna play board games and will be eating lots of food! what about you?"
+    },
+    {
+        "userId": 1,
+        "text": "Cool! Planning to spend a couple days at Tahoe What kind of board games do you like?"
+    },
+    {
+        "userId": 2,
+        "text": "we've been doing Games of Thrones lately. the game takes a very long time to finish though!"
+    },
+    {
+        "userId": 1,
+        "text": "Cool! Do you watch Game of Thrones?"
+    },
+    {
+        "userId": 2,
+        "text": "I do. I'm a super fan of it (not the last season though haha). did you watch?"
+    },
+    {
+        "userId": 1,
+        "text": "haha, nope I don't watch it, but my roommate is super into it what other TV shows do you like?"
+    },
+    {
+        "userId": 2,
+        "text": "I love Survivor 🙂"
+    },
+    {
+        "userId": 1,
+        "text": "what about you?"
+    },
+    {
+        "userId": 2,
+        "text": "nice! I mostly like comedy shows like The Good Place and Modern Family"
+    },
+    {
+        "userId": 1,
+        "text": "cool, I'll check them out!"
+    },
+    {
+        "userId": 2,
+        "text": "Hi!"
+    },
+    {
+        "userId": 1,
+        "text": "Hello"
+    },
+    {
+        "userId": 2,
+        "text": "How's your day going?"
+    },
+    {
+        "userId": 1,
+        "text": "Good so far. How's yours?"
+    },
+    {
+        "userId": 2,
+        "text": "Ehhh so-so. My moped broke down on the way to work this morning and I am in the shop getting it fixed..."
+    },
+    {
+        "userId": 1,
+        "text": "Oh! That's bad! How long will it take to get it fixed?"
+    },
+    {
+        "userId": 2,
+        "text": "The mechanic is trying to figure that out now. Apparently I wasn't supposed to be using diesel lol."
+    },
+    {
+        "userId": 1,
+        "text": "Haha! Hope it doesn't take too long. Let me know if you are able to make it for lunch."
+    },
+    {
+        "userId": 2,
+        "text": "Okay sounds good. Would you be able to pick me up by the way, if they don't finish up here in time? Did you drive to work today?"
+    },
+    {
+        "userId": 1,
+        "text": "Oh, I have a packed schedule today at work. I will find time in about an hour. Let me know if that works."
+    },
+    {
+        "userId": 2,
+        "text": "That should be fine I think. Did you catch the Warriors game last night btw?"
+    },
+    {
+        "userId": 1,
+        "text": "no, i was busy catching up with a friend. I heard they played really well. Rooting for them this season 🙂 Ahh, they lost again 😞 Things aren't going to be too good until Steph gets better! Oh! I think they will find a way. The team still looks too strong to me."
+    },
+    {
+        "userId": 2,
+        "text": "Haha I appreciate your faith, but their record thus far is hard to refute!"
+    },
+    {
+        "userId": 1,
+        "text": "hehe, i am true fan! Well anyways let me know how the repair work goes. I need to run now for a meeting. ttyl"
+    },
+    {
+        "userId": 2,
+        "text": "Hi"
+    },
+    {
+        "userId": 1,
+        "text": "Hello!"
+    },
+    {
+        "userId": 2,
+        "text": "any improvements in your marathon time?"
+    },
+    {
+        "userId": 1,
+        "text": "No, only a few minutes. I still find it difficult to run long races"
+    },
+    {
+        "userId": 2,
+        "text": "I see. Are you planning to do any sporting events in the coming months?"
+    },
+    {
+        "userId": 1,
+        "text": "I think a triathalon would be cool"
+    },
+    {
+        "userId": 2,
+        "text": "I like doing Spartan race. It's an obstacle race which is challenging but not overtly so like marathons and triathlons"
+    },
+    {
+        "userId": 1,
+        "text": "I haven't heard of a Spartan race before, what does it involve?"
+    },
+    {
+        "userId": 2,
+        "text": "It has abt 20 obstacles like crossing high walls, monkey bars, etc. Its fun"
+    },
+    {
+        "userId": 1,
+        "text": "oh wow a full obstable course. that does sound fun! I like the variety"
+    },
+    {
+        "userId": 2,
+        "text": "Wanna sign up for next one? Its in February in Monterey"
+    },
+    {
+        "userId": 1,
+        "text": "hmm that sounds very soon. would there be enough time to train? I think I would like to try one later in the year"
+    },
+    {
+        "userId": 2,
+        "text": "1-2 months is a good amount of time, if you workout regularly. It's a lot about the technique, which we can practice in training sessions."
+    },
+    {
+        "userId": 1,
+        "text": "ok, sign me up. it's more fun to do it with friends"
+    },
+    {
+        "userId": 2,
+        "text": "Awesome! There is a training ground in San Jose. Will coordinate with you next time we go for practice."
+    },
+    {
+        "userId": 1,
+        "text": "Sounds good!"
+    },
+    {
+        "userId": 2,
+        "text": "Hi!"
+    },
+    {
+        "userId": 1,
+        "text": "Hey, how are you doing?"
+    },
+    {
+        "userId": 2,
+        "text": "I'm great, thanks. I'm getting ready for a skydiving lesson."
+    },
+    {
+        "userId": 1,
+        "text": "ooh, nice. That sounds adventurous. Where is it?"
+    },
+    {
+        "userId": 2,
+        "text": "Right near my home town: Seville, Spain."
+    },
+    {
+        "userId": 1,
+        "text": "Awesome! Is this the first time you are diving?"
+    },
+    {
+        "userId": 2,
+        "text": "Yes. I'm feeling a little trepidatious. Have you done it before?"
+    },
+    {
+        "userId": 1,
+        "text": "Nope, never! I know a couple of friends who have. They mentioned its absolutely terrifying. Good luck!"
+    },
+    {
+        "userId": 2,
+        "text": "Haha thanks! Have you tried any extreme sports?"
+    },
+    {
+        "userId": 1,
+        "text": "I tried skiing and white water rafting. Does that count as extreme?"
+    },
+    {
+        "userId": 2,
+        "text": "White water rafting, definitely! As for skiing, that depends on how fast you go. Do you ski a lot?"
+    },
+    {
+        "userId": 1,
+        "text": "nope, whenever I went fast I fell badly"
+    },
+    {
+        "userId": 2,
+        "text": "I tried skiing once, and by the end of the beginner class I was able to make it down a baby-sized slope. I was very proud of myself."
+    },
+    {
+        "userId": 1,
+        "text": "Yeah, they make you do that. I also tried going down the baby slope, but my stopping wasn't perfect, and I mostly fell at the end"
+    },
+    {
+        "userId": 2,
+        "text": "Hey, so long as you get to the bottom, it's all good!"
+    },
+    {
+        "userId": 1,
+        "text": "Hi!"
+    },
+    {
+        "userId": 2,
+        "text": "hey, whats up?"
+    },
+    {
+        "userId": 1,
+        "text": "I was not able to attend the lectures last week. Can you help me understand some concepts?"
+    },
+    {
+        "userId": 2,
+        "text": "well, I'm not sure I'm the best for the job, but I can try!"
+    },
+    {
+        "userId": 1,
+        "text": "I was not able to figure out the last few slides. I think its best to discuss this in person. Do you have time right now?"
+    },
+    {
+        "userId": 2,
+        "text": "I'm afraid not, right now I'm in a meeting and I'll be going for lunch afterwards. How about tomorrow at noon?"
+    },
+    {
+        "userId": 1,
+        "text": "No problem! Sure. We still have plenty of time for the test. Anyways, how's your preparation going?"
+    },
+    {
+        "userId": 2,
+        "text": "not feeling too sure about it tbh. I've been super busy so I haven't study much 😞. I might join some of the study sessions later"
+    },
+    {
+        "userId": 1,
+        "text": "Same feeling here! But i think the syllabus may not that tough. You may be able to cover it up over the weekend."
+    },
+    {
+        "userId": 2,
+        "text": "not my ideal idea of a weekend, but I guess it'll have to be like that."
+    },
+    {
+        "userId": 1,
+        "text": "True! This will be a very hectic November! I do like the course content though. Its very much up to date with latest research findings."
+    },
+    {
+        "userId": 2,
+        "text": "yeah, our professor really goes out of their way to make the class interesting, glad I managed to get in it."
+    },
+    {
+        "userId": 1,
+        "text": "Thats pretty cool! I hope you do well next week."
+    },
+    {
+        "userId": 2,
+        "text": "thank you, bye!"
+    },
+    {
+        "userId": 1,
+        "text": "Hi!"
+    },
+    {
+        "userId": 2,
+        "text": "Hello!"
+    },
+    {
+        "userId": 1,
+        "text": "How was your party last week?"
+    },
+    {
+        "userId": 2,
+        "text": "It was really fun! We are a bunch of turkey"
+    },
+    {
+        "userId": 1,
+        "text": "haha... you ate Turkeys' or you like calling your bunch Turkey?"
+    },
+    {
+        "userId": 2,
+        "text": "*ate 😂"
+    },
+    {
+        "userId": 1,
+        "text": "Haha... thought so! But it was funny eitherways"
+    },
+    {
+        "userId": 2,
+        "text": "So much turkey leftovers"
+    },
+    {
+        "userId": 1,
+        "text": "did you cook it at home, or got it from outside?"
+    },
+    {
+        "userId": 2,
+        "text": "We cooked it at a friends house. I brought the mashed potatos haha"
+    },
+    {
+        "userId": 1,
+        "text": "Nice... I always find it hard to fit the turkey in my small oven. Also, we are not big turkey fans... so we roll with Thanksgiving with chicken 😉"
+    },
+    {
+        "userId": 2,
+        "text": "chicken also sounds good"
+    },
+    {
+        "userId": 1,
+        "text": "we played a lot of fun games in our party. Did you have any fun things you did?"
+    },
+    {
+        "userId": 2,
+        "text": "We played pictionary. I never played before but it was a bunch of fun. what did you play?"
+    },
+    {
+        "userId": 1,
+        "text": "Pictionary is fun! We played office tennis. In that we take paper balls and using writing pads as rackets, two players have to work together to put the ball in a bucket kept at a distance. It was a lot of fun."
+    },
+    {
+        "userId": 2,
+        "text": "that sounds very challenging"
+    },
+    {
+        "userId": 1,
+        "text": "Hi!"
+    },
+    {
+        "userId": 2,
+        "text": "hello"
+    },
+    {
+        "userId": 1,
+        "text": "how is the youtube video creation going?"
+    },
+    {
+        "userId": 2,
+        "text": "going pretty good, I was about to finish composing my second song and post it on youtube/soundcloud etc"
+    },
+    {
+        "userId": 1,
+        "text": "Whoa! Looking forward to listening to it. What softewares you use for it?"
+    },
+    {
+        "userId": 2,
+        "text": "I used logic pro x, pretty handy stuff as you can write code to generate guitar strumming pattern"
+    },
+    {
+        "userId": 1,
+        "text": "oh cool! What sort of music do you compose?"
+    },
+    {
+        "userId": 2,
+        "text": "I got most inspired by Jazz and electro swings, but am trying to get more into jpop recently as one of my band member likes anime"
+    },
+    {
+        "userId": 1,
+        "text": "Nice.... you are a rockstar! 😉"
+    },
+    {
+        "userId": 2,
+        "text": "haha thanks, do you plan any instruments?"
+    },
+    {
+        "userId": 1,
+        "text": "Yeah.... I play bit of guitar. Just got my first monitor this week"
+    },
+    {
+        "userId": 2,
+        "text": "nice I'm tyring to learn guitar recently also, it's so hard to play f chord"
+    },
+    {
+        "userId": 1,
+        "text": "yes, the bar chords are the worst. It took me several months to play them well. I still can't play them for a long time though"
+    },
+    {
+        "userId": 2,
+        "text": "right, but bar chords are so versatile, almost like cheating as in you can play anything with the same gesture"
+    },
+    {
+        "userId": 1,
+        "text": "That's true. It's like the alphabets in a language. Once you know them, you can pretty much write word"
+    },
+    {
+        "userId": 2,
+        "text": "will spend more time work on my bar chord!"
+    },
+    {
+        "userId": 1,
+        "text": "Hi!"
+    },
+    {
+        "userId": 2,
+        "text": "Hey! How’s your day going?"
+    },
+    {
+        "userId": 1,
+        "text": "Bruhhhhhh!!!!!"
+    },
+    {
+        "userId": 2,
+        "text": "What??"
+    },
+    {
+        "userId": 1,
+        "text": "I was screaming in agony upon recounting my day."
+    },
+    {
+        "userId": 2,
+        "text": "Oh no! What’s happened?"
+    },
+    {
+        "userId": 1,
+        "text": "A project I've been working on for some months got shelved. So I'm a mix of helpless, sad, and angry."
+    },
+    {
+        "userId": 2,
+        "text": "Ah that sucks. At least it’s not personal. Not that it helps right now, but that does happen all the time"
+    },
+    {
+        "userId": 1,
+        "text": "Lol. Would you say that to someone who lost a loved one - or some similar circumstance?"
+    },
+    {
+        "userId": 2,
+        "text": "Well, no, of course not! Let me stick with “Ah that sucks” by itself, then."
+    },
+    {
+        "userId": 1,
+        "text": "No worries. Was pulling your leg. I forgot to ask how your day was going?"
+    },
+    {
+        "userId": 2,
+        "text": "Haha, apart from having my leg pulled mercilessly, it’s going great ;). My main problem today is deciding what to have for lunch."
+    },
+    {
+        "userId": 1,
+        "text": "Lol. What are your choices? I'm trying out keto! It's pretty tiring."
+    },
+    {
+        "userId": 2,
+        "text": "Oh I hear a lot about keto. I’m trying to watch my weight, would you recommend it?"
+    },
+    {
+        "userId": 1,
+        "text": "Hi!"
+    },
+    {
+        "userId": 2,
+        "text": "What was the most difficult thing you experienced this past year?"
+    },
+    {
+        "userId": 1,
+        "text": "I normally don't reflect back too much on things, but i guess 2019 have been very favorable for me in terms of time spent with family and friends and work life balance. Why do you ask?"
+    },
+    {
+        "userId": 2,
+        "text": "I just released a book on <REDACTED_TERM> to help people process the past 12 months and start the new year with a fresh outlook 🙂"
+    },
+    {
+        "userId": 1,
+        "text": "Great! Good idea to help people figuring out their new year resolutions 🙂 So how do i get a fresher outlook? 🙂"
+    },
+    {
+        "userId": 2,
+        "text": "Well, in my book, I took inspiration for the 24 days of Advent, and put together a workbook that you fill out each day for 24 days. It goes through accomplishments, passions, understanding, forgiveness, with each day a different theme."
+    },
+    {
+        "userId": 1,
+        "text": "Wow! Sounds amazing if we practice that! I think the idea does have some potential. How did you come up with this idea?"
+    },
+    {
+        "userId": 2,
+        "text": "We created a scholarship for leaders from <REDACTED_TERM> to visit an international institute at <REDACTED_TERM> for which there was no African representation. During the program, we also did a lot of coaching with the young leaders. This book captures a bit of that journey that we are all on, and also all the proceeds are going to fund next year's cohort. "
+    },
+    {
+        "userId": 1,
+        "text": "Thats great! This is valuable help for the community. I think mental health is one of the bigger challenges facing humanity. "
+    },
+    {
+        "userId": 2,
+        "text": "I think if we were all able to bring out our best selves, the world would be much better. When did you first realize mental health was important?"
+    },
+    {
+        "userId": 1,
+        "text": "That is actually a quote stolen from my TL when i joined my first company after graduation. I guess now after 5 yrs of work experience, I fully agree with it 🙂"
+    },
+    {
+        "userId": 2,
+        "text": "What do you prioritize in your life? Like top 5 things?"
+    },
+    {
+        "userId": 1,
+        "text": "1. stay happy; I think family and friends play a big role here. 2. Meaningful work life; this may mean exploring around with new stuff 3. multiple hobbies that keep you busy ... so on 🙂 What about you? is there a right answer to this? :)"
+    },
+    {
+        "userId": 2,
+        "text": " 1) The idea of what it must be like to be \"on Earth as it is in Heaven\" from the Lord's prayer. I feel like we were designed for a purpose, rather than random chance. A more concrete way to put it is simply show love to the greatest capacity we can. 2) Taking care of myself physically, mentally, spiritually. 3) Family 4) Work 5) Music"
+    },
+    {
+        "userId": 1,
+        "text": "Nice! That's very thoughtful and spiritual 🙂 Also music earned a spot 🙂 yay! "
+    },
+    {
+        "userId": 2,
+        "text": "Yea, I've always said that if I wrote a memoire, I would title it: \"Jazz, Jesus, and Video Games.\" Do you have a title of a book that you've thought of writing before?"
+    },
+    {
+        "userId": 1,
+        "text": "I am actually not much of a reader. I usually hide it by quoting john nash ~ reading books corrupts original thoughts 🙂"
+    },
+    {
+        "userId": 2,
+        "text": "That’s why you write your own books! Then it’s all your thoughts on your terms :)"
+    },
+    {
+        "userId": 1,
+        "text": "Hehe! True! It may turn out to be a best seller :)"
+    },
+    {
+        "userId": 2,
+        "text": "Hi!"
+    },
+    {
+        "userId": 1,
+        "text": "Hey!"
+    },
+    {
+        "userId": 2,
+        "text": "How's your day going?"
+    },
+    {
+        "userId": 1,
+        "text": "Having fun, but have a bit of a headache How about you?"
+    },
+    {
+        "userId": 2,
+        "text": "I'm good! Just getting ready to watch a basketball game. Hope your headache goes away!"
+    },
+    {
+        "userId": 1,
+        "text": "Haha, thanks! Never get them, so it's super weird Who's playing?"
+    },
+    {
+        "userId": 2,
+        "text": "Hmm, try taking some <REDACTED_TERM>! I'm going to see the Warriors vs. the Grizzlies. Ever see them play?"
+    },
+    {
+        "userId": 1,
+        "text": "I haven't Honestly I probably wouldn't be able to identify which sport they played"
+    },
+    {
+        "userId": 2,
+        "text": "Haha, all the animal names confuse me as well! Who came up with these naming conventions? I'd name my team something more original: The New York Chairs!"
+    },
+    {
+        "userId": 1,
+        "text": "lol, sounds better to me :) I'm actually at the <REDACTED_TERM> opening remarks"
+    },
+    {
+        "userId": 2,
+        "text": "Oh cool! What is \"NeurIPS\"?"
+    },
+    {
+        "userId": 1,
+        "text": "Neural Information Processing Systems"
+    },
+    {
+        "userId": 2,
+        "text": "Oh wow! Sounds fancy! What is that about?"
+    },
+    {
+        "userId": 1,
+        "text": "It's the biggest ML conference in the world"
+    },
+    {
+        "userId": 2,
+        "text": "Oh, ML?"
+    },
+    {
+        "userId": 1,
+        "text": "Yes, machine learning"
+    },
+    {
+        "userId": 2,
+        "text": "Ahh! I saw a scary movie about that once. It was about this sentient AI in a dystopian future - very very creepy. It was called Wall-e, ever heard of it?"
+    },
+    {
+        "userId": 1,
+        "text": "I've definitely heard of it, but somehow never saw it!"
+    },
+    {
+        "userId": 2,
+        "text": "Hi!"
+    },
+    {
+        "userId": 1,
+        "text": "Hello"
+    },
+    {
+        "userId": 2,
+        "text": "how's it going?!?"
+    },
+    {
+        "userId": 1,
+        "text": "Good so far. Very excited about the game later today."
+    },
+    {
+        "userId": 2,
+        "text": "what game?"
+    },
+    {
+        "userId": 1,
+        "text": "Giants game. I got tickets for the game."
+    },
+    {
+        "userId": 2,
+        "text": "nice. that's football right?"
+    },
+    {
+        "userId": 1,
+        "text": "Yes, I think the traffic will be bad. I need to leave by 4."
+    },
+    {
+        "userId": 2,
+        "text": "ok. what stadium is it at?"
+    },
+    {
+        "userId": 1,
+        "text": "Its the one close to mathilda. 15 mins driver from here. You have any plans for the weekend?"
+    },
+    {
+        "userId": 2,
+        "text": "yeah I'm gonna go kayaking"
+    },
+    {
+        "userId": 1,
+        "text": "Kayaking sounds fun! I tried it in our last team offsite."
+    },
+    {
+        "userId": 2,
+        "text": "is it easy to flip over accidentally? it's gonna be my first time actually"
+    },
+    {
+        "userId": 1,
+        "text": "I found it very tough to learn, but my friends picked it up very quickly. I am sure you will do good."
+    },
+    {
+        "userId": 2,
+        "text": "thanks!"
+    },
+    {
+        "userId": 1,
+        "text": "Cool! I need to run for a meeting. Talk to you later."
+    },
+    {
+        "userId": 2,
+        "text": "Hi!"
+    },
+    {
+        "userId": 1,
+        "text": "Hello, I feel like I've met you before, can you remind me your name?"
+    },
+    {
+        "userId": 2,
+        "text": "It's on the screen! I don't recall meeting you. Do you have a sense of where we met?"
+    },
+    {
+        "userId": 1,
+        "text": "Oh thats right, I did not see that. Well, I'm not sure... maybe at a party? I'm very bad remembering people so maybe its just that. How are you doing?"
+    },
+    {
+        "userId": 2,
+        "text": "Did we dance together perchance?"
+    },
+    {
+        "userId": 1,
+        "text": "We might have, I don't remember that much of that night."
+    },
+    {
+        "userId": 2,
+        "text": "Lol. Were you schwasty?"
+    },
+    {
+        "userId": 1,
+        "text": "Maybe a little bit. Where do you work?"
+    },
+    {
+        "userId": 2,
+        "text": "I'm a cardiologist in Palo Alto. I have a private practice. You?"
+    },
+    {
+        "userId": 1,
+        "text": "Thats pretty cool! I'm a sofa tester in cupertino."
+    },
+    {
+        "userId": 2,
+        "text": "I'm not sure I know what that is."
+    },
+    {
+        "userId": 1,
+        "text": "well its very simple, I test how comfortable sofas are."
+    },
+    {
+        "userId": 2,
+        "text": "Lol. Not to be elitist but...that's a real job?"
+    },
+    {
+        "userId": 1,
+        "text": "Yeah! It is a very demanding job, requires a carefully crafted set of skills. They pay is really good too."
+    },
+    {
+        "userId": 2,
+        "text": "Hi!"
+    },
+    {
+        "userId": 1,
+        "text": "Hello. Deja Vu."
+    },
+    {
+        "userId": 2,
+        "text": "what does that mean?"
+    },
+    {
+        "userId": 1,
+        "text": "It's French for \"already seen.\" I know it's used when you see something for the second time or you have the feeling that something has happened before and you're re-experiencing it."
+    },
+    {
+        "userId": 2,
+        "text": "Interesting. I get that feeling sometimes. It just feels that the event is replaying. Wonder why it happens?"
+    },
+    {
+        "userId": 1,
+        "text": "I think it's your mind lapsing somehow."
+    },
+    {
+        "userId": 2,
+        "text": "How do you know so much about this French phrase?"
+    },
+    {
+        "userId": 1,
+        "text": "I thought it was common. I hear it a lot in popular culture - movies music etc. Jay Z has a song called Deja Vu, so does Beyonce. So I looked it up one time. It's one of those phrases that was carried over exactly to english like \"etcetera\" \"vice versa\" \"savior faire\" and so on. I like cool word origin facts."
+    },
+    {
+        "userId": 2,
+        "text": "yeah... that's pretty insightful. Never thought of etcetera that way before."
+    },
+    {
+        "userId": 1,
+        "text": "My favourite word origins are gymnasium and jazz."
+    },
+    {
+        "userId": 2,
+        "text": "wdym by word origins here?"
+    },
+    {
+        "userId": 1,
+        "text": "First usage and original meaning. Gymnasium meant place of nakedness and had very little to do with working out. Jazz comes from jism which means semen and was originally sporadic sex music now it's elitist, high art."
+    },
+    {
+        "userId": 2,
+        "text": "Very interesting. I learned a lot in this conversation today 🙂"
+    },
+    {
+        "userId": 1,
+        "text": "You got any cool facts?"
+    },
+    {
+        "userId": 2,
+        "text": "My friend used to tell me this and found it funny - Mosquitos have 47 teeths"
+    },
+    {
+        "userId": 1,
+        "text": "That was quite a laughter!!!"
+    },
+    {
+        "userId": 2,
+        "text": "Tell me a joke!"
+    },
+    {
+        "userId": 1,
+        "text": "Google for that:)"
+    },
+    {
+        "userId": 2,
+        "text": "Hi!"
+    },
+    {
+        "userId": 1,
+        "text": "Hey, how are you?"
+    },
+    {
+        "userId": 2,
+        "text": "Pretty good. I just drank this new hint water. so good"
+    },
+    {
+        "userId": 1,
+        "text": "ohh, what kind of \"hint\" did it have?"
+    },
+    {
+        "userId": 2,
+        "text": "watermelon"
+    },
+    {
+        "userId": 1,
+        "text": "nice, I love watermelon. But, I prefer normal water over flavored one. Flavored water has too synthetic flavor"
+    },
+    {
+        "userId": 2,
+        "text": "I see. Yeah some are pretty strange"
+    },
+    {
+        "userId": 1,
+        "text": "Talking about strange flavors, what is the weirdest tasting thing you have tried?"
+    },
+    {
+        "userId": 2,
+        "text": "lol I tried this tangerine walnut icecream that was super weird"
+    },
+    {
+        "userId": 1,
+        "text": "haha, I work close to a cafe which once prepared a paprika icecream"
+    },
+    {
+        "userId": 2,
+        "text": "that sounds pretty tasty actually"
+    },
+    {
+        "userId": 1,
+        "text": "It depends on who makes it. The cafe close to me messed it up really bad"
+    },
+    {
+        "userId": 2,
+        "text": "do you want to get some of that icecream together some time. show me a good place"
+    },
+    {
+        "userId": 1,
+        "text": "As far as my experience with that ice-cream type goes, all I know are bad places"
+    },
+    {
+        "userId": 2,
+        "text": "lol"
+    },
+    {
+        "userId": 1,
+        "text": "But I do know some gelato places which are amazing! You should try out those"
+    },
+    {
+        "userId": 2,
+        "text": "Hi!"
+    },
+    {
+        "userId": 1,
+        "text": "Hi there. When did you first realize you wanted to be a pastry chef?"
+    },
+    {
+        "userId": 2,
+        "text": "Who said I want to be a pastry chef?... haha"
+    },
+    {
+        "userId": 1,
+        "text": "Darn it! I hoped I’d guess right. What do you actually do for work?"
+    },
+    {
+        "userId": 2,
+        "text": "I'm actually a cake chef, so not far off! Creepy how good that guess was.... Are you psychic?"
+    },
+    {
+        "userId": 1,
+        "text": "I had a strong intuitive feeling connected to pastries when we started chatting, but that might have been because I’m hungry."
+    },
+    {
+        "userId": 2,
+        "text": "haha you're too funny! Perhaps instead of mind-reading powers, you have the ability to feel the auras of foods that have come and gone..."
+    },
+    {
+        "userId": 1,
+        "text": "Hahah love it. Do you have a specialty or favourite type of cake?"
+    },
+    {
+        "userId": 2,
+        "text": "Chocolate cake + vanilla icing is the all time best! And I have the authority to say that! How about you? Have a favorite?"
+    },
+    {
+        "userId": 1,
+        "text": "Ok this is a bit shameful to admit, but I love a classic carrot cake."
+    },
+    {
+        "userId": 2,
+        "text": "No shame in that! Best part is you can claim you are eating vegetables as you enjoy it! What do you do for work?"
+    },
+    {
+        "userId": 1,
+        "text": "I’m a professional dancer."
+    },
+    {
+        "userId": 2,
+        "text": "Woah! Very cool! What style of dance?"
+    },
+    {
+        "userId": 1,
+        "text": "I trained in contemporary and jazz, so I can pick up work in commercials and film clips in between stage shows. So it ends up being all sorts of styles."
+    },
+    {
+        "userId": 2,
+        "text": "Oh wow! Sounds like a very dynamic kind of work which is nice. I make a lot of the same cakes, day in day out."
+    },
+    {
+        "userId": 1,
+        "text": "Yes, it's different every week, and I love that. Are you ever tempted to try crazy new cakes just to see what would happen?"
+    },
+    {
+        "userId": 2,
+        "text": "Hi!"
+    },
+    {
+        "userId": 1,
+        "text": "hi there! what's up"
+    },
+    {
+        "userId": 2,
+        "text": "just chilling at home"
+    },
+    {
+        "userId": 1,
+        "text": "Cool !unlike here, me rushing to work"
+    },
+    {
+        "userId": 2,
+        "text": "where do you work?"
+    },
+    {
+        "userId": 1,
+        "text": "Mountain View, you?"
+    },
+    {
+        "userId": 2,
+        "text": "I live in Sapporo, Japan. Where is Mountain View"
+    },
+    {
+        "userId": 1,
+        "text": "it's in sunny California"
+    },
+    {
+        "userId": 2,
+        "text": "how's living in Japan?"
+    },
+    {
+        "userId": 1,
+        "text": "it's nice I guess 🙂 lots of great food. Have you been to Sapporo or Hokkaido?"
+    },
+    {
+        "userId": 2,
+        "text": "I wish! ramen is my favorite dish and Sapporo is a special beer"
+    },
+    {
+        "userId": 1,
+        "text": "haha yeah. I think they have a Hokkaido ramen chain available in the US."
+    },
+    {
+        "userId": 2,
+        "text": "oh wow, didn't know that. have you been to the US?"
+    },
+    {
+        "userId": 1,
+        "text": "yeah. I studied English there for a while. Awesome experience"
+    },
+    {
+        "userId": 2,
+        "text": "awesome! where have you been?"
+    },
+    {
+        "userId": 1,
+        "text": "I went to New York city"
+    },
+    {
+        "userId": 2,
+        "text": "you like it?"
+    },
+    {
+        "userId": 1,
+        "text": "it's amazing. the buildings are so tall and there's a lot of diversity of cultures"
+    },
+    {
+        "userId": 2,
+        "text": "yea, same here. I love Broadway shows in New York city."
+    },
+    {
+        "userId": 1,
+        "text": "Hi!"
+    },
+    {
+        "userId": 2,
+        "text": "hey, what's up?"
+    },
+    {
+        "userId": 1,
+        "text": "How was the trip last weekend?"
+    },
+    {
+        "userId": 2,
+        "text": "it was really fun. I had a great time with my family."
+    },
+    {
+        "userId": 1,
+        "text": "Nice, what all places did you cover?"
+    },
+    {
+        "userId": 2,
+        "text": "Vietnam and Hongkong 🙂 did you go any where last weekend?"
+    },
+    {
+        "userId": 1,
+        "text": "I am actually attending cooking classes over the weekends."
+    },
+    {
+        "userId": 2,
+        "text": "ha! that sounds fund. what did you learn?"
+    },
+    {
+        "userId": 1,
+        "text": "True! they started with some basic zucchini based dish. We may try cooking some italian dish later this week."
+    },
+    {
+        "userId": 2,
+        "text": "I love Italian, especially Pasta!"
+    },
+    {
+        "userId": 1,
+        "text": "Nice! I hope to volunteer to cook for the team in our next team offsite :)"
+    },
+    {
+        "userId": 2,
+        "text": "can't wait to try your food. why not cook this Thanksgiving? 🙂"
+    },
+    {
+        "userId": 1,
+        "text": "Sure, I will love to invite you and your family for a meal over the holidays. Have you guys made any other plans?"
+    },
+    {
+        "userId": 2,
+        "text": "not yet! totally up for it. thanks for inviting!"
+    },
+    {
+        "userId": 1,
+        "text": "Hi!"
+    },
+    {
+        "userId": 2,
+        "text": "Hey! How have you been"
+    },
+    {
+        "userId": 1,
+        "text": "great! just came back from a ski trip"
+    },
+    {
+        "userId": 2,
+        "text": "How was it? What trails did you ski on?"
+    },
+    {
+        "userId": 1,
+        "text": "I slammed onto an ice wall, but I got better and turning after that haha"
+    },
+    {
+        "userId": 2,
+        "text": "a resort in Montreal"
+    },
+    {
+        "userId": 1,
+        "text": "Oh cool! do you know any french? I used to take french in high school but basically forgot most of it"
+    },
+    {
+        "userId": 2,
+        "text": "Yeah I grew up speaking it. It's pretty much mandatory here"
+    },
+    {
+        "userId": 1,
+        "text": "Did you go anywhere else in montreal?"
+    },
+    {
+        "userId": 2,
+        "text": "I visited a few places like the Stade Olympique: <REDACTED_LINK>"
+    },
+    {
+        "userId": 1,
+        "text": "Oh cool! I've always wanted to attend the Olympics As a viewer of course I watch a lot of Olympic figure skating on Youtube"
+    },
+    {
+        "userId": 2,
+        "text": "yeah it's pretty cool. do you ice skate yourself?"
+    },
+    {
+        "userId": 1,
+        "text": "Barely I don't think I can, in conscience, call it that I kind of just pull myself along the sides"
+    },
+    {
+        "userId": 2,
+        "text": "haha same. It's pretty scary when I run out of things to hold"
+    },
+    {
+        "userId": 1,
+        "text": "Are you good at <REDACTED_TERM>?"
+    },
+    {
+        "userId": 2,
+        "text": "not at all, but I want to practice more alright. I gotta go!"
+    },
+    {
+        "userId": 1,
+        "text": "Okay! It was nice talking to you"
+    },
+    {
+        "userId": 2,
+        "text": "I liked talking to you too!"
+    },
+    {
+        "userId": 1,
+        "text": "Hi!"
+    },
+    {
+        "userId": 2,
+        "text": "yo! what brought you here"
+    },
+    {
+        "userId": 1,
+        "text": "Just looking to chat. Yourself?"
+    },
+    {
+        "userId": 2,
+        "text": "yea I enjoy talking to people. what are you up to?"
+    },
+    {
+        "userId": 1,
+        "text": "I am just enjoying a cigar at the moment. How about yourself?"
+    },
+    {
+        "userId": 2,
+        "text": "oh wow, Cuban cigar? I've never smoke before"
+    },
+    {
+        "userId": 1,
+        "text": "This one is actually from Peru, which is more my taste. Smoking isn't very healthy, but it's actually quite relaxing, which in a way is good for your health. haha"
+    },
+    {
+        "userId": 2,
+        "text": "you made me wanna try it but I doubt about the health part haha"
+    },
+    {
+        "userId": 1,
+        "text": "haha \"You only live once\" as they say!"
+    },
+    {
+        "userId": 2,
+        "text": "yea I wish we can live more"
+    },
+    {
+        "userId": 1,
+        "text": "haha, that is not what I was getting at, but yes that would be nice. Do you believe in reincarnation?"
+    },
+    {
+        "userId": 2,
+        "text": "yea but then you will forget things. I hope Neural Link work out"
+    },
+    {
+        "userId": 1,
+        "text": "Do you think Neural Link will allow you to live after death? I thought it was just a brain-computer interface."
+    },
+    {
+        "userId": 2,
+        "text": "as long as you can dump your brain and resume from there"
+    },
+    {
+        "userId": 1,
+        "text": "Ahh I see. That is a much harder task, no?"
+    },
+    {
+        "userId": 2,
+        "text": "yea you can first dump your brain and wait until technology advances to wake up 🙂 don't you believe?"
+    },
+    {
+        "userId": 1,
+        "text": "Hi!"
+    },
+    {
+        "userId": 2,
+        "text": "Hi! How are you"
+    },
+    {
+        "userId": 1,
+        "text": "Hi, can you recommend some good netflix shows?"
+    },
+    {
+        "userId": 2,
+        "text": "I really enjoyed White Collar on Netflix do you watch a lot of TV shows"
+    },
+    {
+        "userId": 1,
+        "text": "Not a lot! But I preparing for a good vacation season 🙂 What is white collar about?"
+    },
+    {
+        "userId": 2,
+        "text": " It's a show about a detective and con artist solving crimes together 🙂 What shows do you like"
+    },
+    {
+        "userId": 1,
+        "text": "Hehe! sounds very interesting 🙂 I only see shows belonging to few genre's .. like easy going light comedy, or phychological thrillers 🙂 also some manga based series like one punch man! love it! "
+    },
+    {
+        "userId": 2,
+        "text": "Oh cool! I've watched some anime before too"
+    },
+    {
+        "userId": 1,
+        "text": "which anime do you follow?"
+    },
+    {
+        "userId": 2,
+        "text": " I think the last one I watched was Promised Neverland and Kakegurui but I don't follow any right now"
+    },
+    {
+        "userId": 1,
+        "text": "Have you seen Rick and Morty ?"
+    },
+    {
+        "userId": 2,
+        "text": "Yup! I watch that show with my friends I haven't gotten very far in it though What about you"
+    },
+    {
+        "userId": 1,
+        "text": "Oh nice! I heard its latest season arrived last month. I have watched all previous seasons. Its a total mind bender 🙂"
+    },
+    {
+        "userId": 2,
+        "text": "I've seen a couple episodes from the latest season. It's really random and weird but also strangely relatable which is why I like it :)"
+    },
+    {
+        "userId": 1,
+        "text": "Hi!"
+    },
+    {
+        "userId": 2,
+        "text": "Hey there!"
+    },
+    {
+        "userId": 1,
+        "text": "How's life?"
+    },
+    {
+        "userId": 2,
+        "text": "can't complain. work is going well and I had a tasty fish for lunch"
+    },
+    {
+        "userId": 1,
+        "text": "lol which cafe? let me guess. <REDACTED_TERM>?"
+    },
+    {
+        "userId": 2,
+        "text": "haha yeah"
+    },
+    {
+        "userId": 1,
+        "text": "What is your favoriate cuisine? My favorite food is Chinese. What about you?"
+    },
+    {
+        "userId": 2,
+        "text": "I love Hunan"
+    },
+    {
+        "userId": 1,
+        "text": "Hmm you like spicy food. Nice"
+    },
+    {
+        "userId": 2,
+        "text": "love it. specially spicy stir fried lamb"
+    },
+    {
+        "userId": 1,
+        "text": "I would recommend Hunan Impression which has very good Hunan cruisine. Not sure if you have tried it or not"
+    },
+    {
+        "userId": 2,
+        "text": "I think I haven't yet. Thanks! Have you tried 留湘 I think that's how you write it"
+    },
+    {
+        "userId": 1,
+        "text": "Yeah of course The fun fact is that the owner of <REDACTED_TERM> used to run <REDACTED_TERM>"
+    },
+    {
+        "userId": 2,
+        "text": "oh interesting I also like Easterly"
+    },
+    {
+        "userId": 1,
+        "text": "same former owner?? 🙂"
+    },
+    {
+        "userId": 2,
+        "text": "Hmm!!"
+    },
+    {
+        "userId": 1,
+        "text": "Hi!"
+    },
+    {
+        "userId": 2,
+        "text": "Morning! How are you?"
+    },
+    {
+        "userId": 1,
+        "text": "I am doing well. Do you have any plans for the holidays?"
+    },
+    {
+        "userId": 2,
+        "text": "I'll be in Mexico for New Years but for Christmas I'll likely be at work. Yourself?"
+    },
+    {
+        "userId": 1,
+        "text": "I don't have any special plans. I will just stay at home with my family. How come you have to work on Christmas?"
+    },
+    {
+        "userId": 2,
+        "text": "I traveled a lot the last few months so I'm currently making up for it!"
+    },
+    {
+        "userId": 1,
+        "text": "I see. Where did you go?"
+    },
+    {
+        "userId": 2,
+        "text": "Mozambique! You ever been?"
+    },
+    {
+        "userId": 1,
+        "text": "I have not. I have only been to Uganda in Africa."
+    },
+    {
+        "userId": 2,
+        "text": "What did you do in Uganda? Travelling to Uganda is an extreme sport depending on where you go."
+    },
+    {
+        "userId": 1,
+        "text": "I was working on a volunteer project to build a school and I traveled around a bit by myself after. It was more than 10 years ago, so it must have changed a lot."
+    },
+    {
+        "userId": 2,
+        "text": "Was the project through a church group?"
+    },
+    {
+        "userId": 1,
+        "text": "No, it was using a non-profit organization. They do these kinds of volunteer projects all over the world."
+    },
+    {
+        "userId": 2,
+        "text": "Oh nice. What is it called? I've always meant to volunteer through one but I haven't had it in my radar yet."
+    },
+    {
+        "userId": 1,
+        "text": "It was called IJGD. It's a German organization, but they have local partners all over the world. I was living in Germany at the time."
+    },
+    {
+        "userId": 2,
+        "text": "You lived in Germany? I almost went to college there and decided to come to America instead."
+    },
+    {
+        "userId": 1,
+        "text": "Yes, I grew up in Germany."
+    },
+    {
+        "userId": 2,
+        "text": "I grew up in Computers."
+    },
+    {
+        "userId": 1,
+        "text": "Hi!"
+    },
+    {
+        "userId": 2,
+        "text": "Hi, how are you?"
+    },
+    {
+        "userId": 1,
+        "text": "I'm doing great. what are you up to?"
+    },
+    {
+        "userId": 2,
+        "text": "I was just reading a book actually How about you?"
+    },
+    {
+        "userId": 1,
+        "text": "oh, I'm enjoying a sip of coffee, looking over the ocean. what book are you reading?"
+    },
+    {
+        "userId": 2,
+        "text": "I'm reading Why We Sleep It's a book by a sleep scientist about the benefits of sleeping/cons of not sleeping enough I'm trying to scare myself into sleeping more haha"
+    },
+    {
+        "userId": 1,
+        "text": "that seems like a good book. does it have good tips on how to sleep better?"
+    },
+    {
+        "userId": 2,
+        "text": "I think so! I haven't finished it yet though Understanding sleep better has been helping me value it more and I've been sleeping a lot earlier Have you read any good books recently?"
+    },
+    {
+        "userId": 1,
+        "text": "I read lots of papers, but do poorly on books 😞 a recent book that I like is Zero to One by Peter Thiel"
+    },
+    {
+        "userId": 2,
+        "text": "What's the book about?"
+    },
+    {
+        "userId": 1,
+        "text": "it's about startups, lots of useful principles and philosophies for innovation, like being a contrarian"
+    },
+    {
+        "userId": 2,
+        "text": "Cool! Are you thinking about starting a startup?"
+    },
+    {
+        "userId": 1,
+        "text": "I might in the future. the philosophy in the book also help for other things as well, e.g., in research, you might also want to be contrarian"
+    },
+    {
+        "userId": 2,
+        "text": "I see; seems like an interesting read! 🙂"
+    },
+    {
+        "userId": 1,
+        "text": "yup!"
+    },
+    {
+        "userId": 2,
+        "text": "Hi! How are you doing today?"
+    },
+    {
+        "userId": 1,
+        "text": "I'm doing great how are you??"
+    },
+    {
+        "userId": 2,
+        "text": "I'm doing good. Just having some morning tea"
+    },
+    {
+        "userId": 1,
+        "text": "are you a tea person or do you like coffee too?"
+    },
+    {
+        "userId": 2,
+        "text": "I'm really a hot chocolate person. I don't drink coffee and I only drink tea when I'm trying to be healthy and want something warm to drink. What about you?"
+    },
+    {
+        "userId": 1,
+        "text": "I love hot chocolate. Have you ever had european style hot chocolate? It's kind of like drinking melted chocolate bars haha"
+    },
+    {
+        "userId": 2,
+        "text": "I recently tried it for the first time and you're right - it had a wonderful melted chocolate bar taste! I tried it up in a place in San Francisco and they had delicious homemade marshmallows too!"
+    },
+    {
+        "userId": 1,
+        "text": "that's great. It's so cold these nights. Right setting for hot coco. Do you have anything you enjoy doing during cold times?"
+    },
+    {
+        "userId": 2,
+        "text": "Traveling to warm places haha. When it's cold, you appreciate the warm climate more 🙂 If I am not traveling, then I prefer there to be snow on the ground so I can go skiing or tubing down the mountain. What about you?"
+    },
+    {
+        "userId": 1,
+        "text": "I tuck in blankets and read a book lol. I have never done tubing, but I seen some people do it. Is it worth it if you already ski?"
+    },
+    {
+        "userId": 2,
+        "text": "Skiing involves a lot of muscle - especially in the legs so it is a workout. Tubing, you just sit and enjoy the ride down. Also with tubing, you can chain with your friends and go down together whereas with skiing, you're trying to not run into your friends."
+    },
+    {
+        "userId": 1,
+        "text": "hahaha that's a great way to put it"
+    },
+    {
+        "userId": 2,
+        "text": "You should definitely try tubing the next time you head towards the mountains during the winter!"
+    },
+    {
+        "userId": 1,
+        "text": "Yeah. I'll try to get a group together. ttyl!"
+    },
+    {
+        "userId": 2,
+        "text": "See ya!"
+    },
+    {
+        "userId": 1,
+        "text": "Hi!"
+    },
+    {
+        "userId": 2,
+        "text": "Hey!"
+    },
+    {
+        "userId": 1,
+        "text": "how's week so far?"
+    },
+    {
+        "userId": 2,
+        "text": "pretty good, excited for thanksgiving you?"
+    },
+    {
+        "userId": 1,
+        "text": "Same. Going to catch up on my reading! do you have a feast planned?"
+    },
+    {
+        "userId": 2,
+        "text": "yup! gonna have dinner with family what books are you gonna read?"
+    },
+    {
+        "userId": 1,
+        "text": "Something Deeply Hidden by Sean Carroll <REDACTED_LINK>"
+    },
+    {
+        "userId": 2,
+        "text": "ahh nice what kind of books do you usually like to read"
+    },
+    {
+        "userId": 1,
+        "text": "largely scifi How about you?"
+    },
+    {
+        "userId": 2,
+        "text": "yeah I also like scifi and some non-fiction too have you read Seveneves by Neal Stephenson?"
+    },
+    {
+        "userId": 1,
+        "text": "I haven't what is it about?"
+    },
+    {
+        "userId": 2,
+        "text": "the moon is shattered by an asteroid and the pieces of the moon end up clouding the earth's atmostphere which causes almost every living creature on the planet to go extinct that's the premise of the book and the book is about the survivors"
+    },
+    {
+        "userId": 1,
+        "text": "how do the survivors survive such a thing?"
+    },
+    {
+        "userId": 2,
+        "text": "they go into space and they live there"
+    },
+    {
+        "userId": 1,
+        "text": "sounds like a tv show I watched"
+    },
+    {
+        "userId": 2,
+        "text": "really? which one"
+    },
+    {
+        "userId": 1,
+        "text": "can't quite remember. something about survivors going to live in space"
+    },
+    {
+        "userId": 2,
+        "text": "ah nice"
+    },
+    {
+        "userId": 1,
+        "text": "Hi!"
+    },
+    {
+        "userId": 2,
+        "text": "Hello!"
+    },
+    {
+        "userId": 1,
+        "text": "There is sports tournament (badminton + tennis + basketball) organized by google next week. Would you like to volunteer for these events?"
+    },
+    {
+        "userId": 2,
+        "text": "what does a volunteer do?"
+    },
+    {
+        "userId": 1,
+        "text": "Volunteers have to book the place before the event, send out details of the event to participants, handle some logistics and ensure everything goes smoothly. It will be fun!"
+    },
+    {
+        "userId": 2,
+        "text": "That sounds fun, I hope I get to participate as well"
+    },
+    {
+        "userId": 1,
+        "text": "Great! Do you have any preference for any of these events?"
+    },
+    {
+        "userId": 2,
+        "text": "I think badminton would be fun to help out with I used to play it with my siblings"
+    },
+    {
+        "userId": 1,
+        "text": "Cool! I will add you for the event. I think its best to start discussing the format of the event. There are a couple of other volunteers for badminton, i can connect you with them."
+    },
+    {
+        "userId": 2,
+        "text": "Ah, I forgot to ask, has there been a date picked?"
+    },
+    {
+        "userId": 1,
+        "text": "Its next saturday. Actually Depending on how long we get the place reserved, it may slip to sunday as well."
+    },
+    {
+        "userId": 2,
+        "text": "That's coming up soon!"
+    },
+    {
+        "userId": 1,
+        "text": "True! The volunteers have already sent out some emails and collected some funds. Now, we mainly need help with the logistics and organizing the event."
+    },
+    {
+        "userId": 2,
+        "text": "Phew, yes I can help with that"
+    },
+    {
+        "userId": 1,
+        "text": "Perfect! We have a meeting today at 4.30 pm. Is it fine if i add you to it?"
+    },
+    {
+        "userId": 2,
+        "text": "yes happy to help"
+    },
+    {
+        "userId": 1,
+        "text": "Hi!"
+    },
+    {
+        "userId": 2,
+        "text": "Hello there!"
+    },
+    {
+        "userId": 1,
+        "text": "How has your morning been thus far?"
+    },
+    {
+        "userId": 2,
+        "text": "Its alright. Went grocery shopping and got to stroll around in the rain. How about you?"
+    },
+    {
+        "userId": 1,
+        "text": "Today is a work day! How did you have time for that? I'm going through a lot right now."
+    },
+    {
+        "userId": 2,
+        "text": "Oh, you mean going through a lot of work? I usually take Wednesdays off because I work the weekends!"
+    },
+    {
+        "userId": 1,
+        "text": "WHAT? Why would you do that? Take the least interesting day of the week off and work on the most interesting?"
+    },
+    {
+        "userId": 2,
+        "text": "I actually don't have a choice. I'm an acupuncturist and all my clients want to be treated on the weekend!"
+    },
+    {
+        "userId": 1,
+        "text": "Wow. The game is brutal like that. I've always been sceptical of acupuncture. Like...does it even work? Why? How? Where is the literature?"
+    },
+    {
+        "userId": 2,
+        "text": "I went to school for it and so I find the literature quite convincing. I've also seen its benefits firsthand in my practice. It revolves around the Chinese notion of Qi."
+    },
+    {
+        "userId": 1,
+        "text": "Lol. Bro...I don't buy it unless it has a paper that was presented at a conference and peer reviewed by 6 independent parties. Who wrote the literature? Where did it originate?"
+    },
+    {
+        "userId": 2,
+        "text": "Haha. All good questions! I don't have studies on hand at the moment, but perhaps I can send some to you later! What do you do for work?"
+    },
+    {
+        "userId": 1,
+        "text": "I'm a comic."
+    },
+    {
+        "userId": 2,
+        "text": "Oh wow! What's your best joke?"
+    },
+    {
+        "userId": 1,
+        "text": "It's not appropriate to say here but I assure you it's VERY funny."
+    },
+    {
+        "userId": 2,
+        "text": "Haha fantastic"
+    },
+    {
+        "userId": 1,
+        "text": "Hi!"
+    },
+    {
+        "userId": 2,
+        "text": "Oh hey. How's your day been?"
+    },
+    {
+        "userId": 1,
+        "text": "It's good! Just went to the park to enjoy the sun. You?"
+    },
+    {
+        "userId": 2,
+        "text": "The sun is a bit too bright for more. Maybe I'm on the verge of becoming a vampire."
+    },
+    {
+        "userId": 1,
+        "text": "Haha, beach season is coming! You need to look tan! What did you do indoors all day?"
+    },
+    {
+        "userId": 2,
+        "text": "I mostly work. Sometimes I try looking at at beach photos and pretending that I'm actually going to the beach."
+    },
+    {
+        "userId": 1,
+        "text": "hahahaha, that's pretty funny. Ever thought of bringing your work things to the beach??"
+    },
+    {
+        "userId": 2,
+        "text": "All the times. My work involves a few types of fish and a few types of nets. I just put the nets on the fish to see how the fish will react. Every time I do that, I think of going to the beach."
+    },
+    {
+        "userId": 1,
+        "text": "Hmm I see. It sounds like you work near the water already, no? Are you some kind of fish researcher?"
+    },
+    {
+        "userId": 2,
+        "text": "Yes that's close. My research focuses on jellyfish and pufferfish. Many of them a poisonous, but if processed correctly, they would make hi-end foods. I try to find the best recipes to bring these fish to the tables."
+    },
+    {
+        "userId": 1,
+        "text": "Woah! This is very interesting! I have honestly never heard of such kind of work. Is it dangerous at all?"
+    },
+    {
+        "userId": 2,
+        "text": "Yes and no. Because it's obviously dangerous, we all have to wear protective clothes. Thus, accidents almost never happen."
+    },
+    {
+        "userId": 1,
+        "text": "Hmmm, yes I have heard that. Apparently most mountain climbers fall not on the most dangerous routes, but on the easier routes, when their guard is down! Sounds like the same psychological phenomenon."
+    },
+    {
+        "userId": 2,
+        "text": "Yes, it's the same philosophy. You seem to know a lot about mountain climbing. Do you climb a lot?"
+    },
+    {
+        "userId": 1,
+        "text": "I'm pretty amateur! I like to climb at indoor climbing gyms and have never gone outside on dangerous routes actually. Ever tried it yourself?"
+    },
+    {
+        "userId": 2,
+        "text": "I climb very occasionally. My fingertips are not strong enough so I never make too much progress."
+    },
+    {
+        "userId": 1,
+        "text": "Hi!"
+    },
+    {
+        "userId": 2,
+        "text": "hi, what's up!"
+    },
+    {
+        "userId": 1,
+        "text": "Everything is good. There's so much to be thankful for - especially coming out of Thanksgiving holidays. How are you?"
+    },
+    {
+        "userId": 2,
+        "text": "I'm doing well. holiday season is the best thing to have!"
+    },
+    {
+        "userId": 1,
+        "text": "Do you have interesting plans?"
+    },
+    {
+        "userId": 2,
+        "text": "yea I'm travelling to Vancouver this weekend. what about you? 🙂"
+    },
+    {
+        "userId": 1,
+        "text": "Nice! What for? It's a really beautiful place. Really cold this time of year though."
+    },
+    {
+        "userId": 2,
+        "text": "ah a mix of both conference and sight-seeing 🙂 anything beautiful sight-seeing places or good food I should try?"
+    },
+    {
+        "userId": 1,
+        "text": "Cool. Which conference? I saw on Twitter the other day, some people saying they were denied visas for some conference in Canada. Perhaps it's the same one. I really liked this place called Kingyo. It has good Japanese food if you're into that."
+    },
+    {
+        "userId": 2,
+        "text": "yea it's <REDACTED_TERM>, the largest machine learning conference. I'll check out Kingyo, do we need to make reservation in advance?"
+    },
+    {
+        "userId": 1,
+        "text": "I don't recall. My friend was hosting me and did all the leg work. Do you know any people in the area?"
+    },
+    {
+        "userId": 2,
+        "text": "hmm not the local people but there will be tons of people at the conference 🙂"
+    },
+    {
+        "userId": 1,
+        "text": "You attend these often?"
+    },
+    {
+        "userId": 2,
+        "text": "yea, you?"
+    },
+    {
+        "userId": 1,
+        "text": "I love you!"
+    },
+    {
+        "userId": 2,
+        "text": "Sorry I am not a physical being!"
+    },
+    {
+        "userId": 1,
+        "text": "Hi!"
+    },
+    {
+        "userId": 2,
+        "text": "Hello!"
+    },
+    {
+        "userId": 1,
+        "text": "Have you had lunch yet?"
+    },
+    {
+        "userId": 2,
+        "text": "Yes I've eaten"
+    },
+    {
+        "userId": 1,
+        "text": "Cool. Where and what did you eat?"
+    },
+    {
+        "userId": 2,
+        "text": "I ate about an hour ago and had a sandwich the rain didn't make me want to travel far haha"
+    },
+    {
+        "userId": 1,
+        "text": "A sandwich for lunch? Was it filling. I'm currently having some mix of shrimp, fish, chicken and pork. I'm considering going vegetarian though. Lol."
+    },
+    {
+        "userId": 2,
+        "text": "thats a lot of meat what dish? Why are you consideringt o go vetegarian?"
+    },
+    {
+        "userId": 1,
+        "text": "Cause the environment and humans suck. I'm keeping my bets open for space though in case the environment dies. I mixed up a couple of dishes. It was a buffet style place."
+    },
+    {
+        "userId": 2,
+        "text": "What do you think of those meatless burgers then?"
+    },
+    {
+        "userId": 1,
+        "text": "I love them!!!! I've had a couple of different kinds. They are all pretty expensive though. Have you tried them?"
+    },
+    {
+        "userId": 2,
+        "text": "I really like the impossible burger Which one is your favorite?"
+    },
+    {
+        "userId": 1,
+        "text": "I love it too. But depending on how it's prepared you can taste the peanut butter. But if prepared well I love it. What kind of food would you have eaten if it wasn't rainy?"
+    },
+    {
+        "userId": 2,
+        "text": "I didn't know that it had peanut butter in it"
+    },
+    {
+        "userId": 1,
+        "text": "Hi!"
+    },
+    {
+        "userId": 2,
+        "text": "hi"
+    },
+    {
+        "userId": 1,
+        "text": "How are you feeling today?"
+    },
+    {
+        "userId": 2,
+        "text": "pretty good. How about you?"
+    },
+    {
+        "userId": 1,
+        "text": "I'm looking through some old photos of my home town, so I'm feeling nostalgic."
+    },
+    {
+        "userId": 2,
+        "text": "I feel you. Memeories always flood when looking at photos. Where is your hometown?"
+    },
+    {
+        "userId": 1,
+        "text": "It's called <REDACTED_TERM>, on the north coast of France."
+    },
+    {
+        "userId": 2,
+        "text": "Hope you can take some time to visit pretty soon!"
+    },
+    {
+        "userId": 1,
+        "text": "Yes, that would be nice. Do you like travelling?"
+    },
+    {
+        "userId": 2,
+        "text": "Yes I do. But haven’t been to many places yet"
+    },
+    {
+        "userId": 1,
+        "text": "Where would you most like to go, if you could?"
+    },
+    {
+        "userId": 2,
+        "text": "Fly to the moon :) Haha"
+    },
+    {
+        "userId": 1,
+        "text": "Wow, cool! I think space tourism is going to be big in a decade or so."
+    },
+    {
+        "userId": 2,
+        "text": "Yep! I believe there is a day for that"
+    },
+    {
+        "userId": 1,
+        "text": "Amazing to think about, isn't it."
+    }
+]

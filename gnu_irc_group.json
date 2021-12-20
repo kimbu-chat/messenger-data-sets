@@ -1,0 +1,8002 @@
+[
+    {
+        "userId": 1,
+        "text": "as no way in text"
+    },
+    {
+        "userId": 1,
+        "text": "i could convey how ludicrous it is"
+    },
+    {
+        "userId": 2,
+        "text": "lol"
+    },
+    {
+        "userId": 3,
+        "text": "derek: 50% of the people in your state have been in the sun too long.  25% don't call their mothers enough.  And that one dude in maricopa(sp?) county MIS dept just isn't right."
+    },
+    {
+        "userId": 3,
+        "text": "we're only telling you this cause we care"
+    },
+    {
+        "userId": 1,
+        "text": "hahaha"
+    },
+    {
+        "userId": 2,
+        "text": "jamest: there's only one problem - derek can show them his license to use free software   :)"
+    },
+    {
+        "userId": 1,
+        "text": "andrewm: im a pirate"
+    },
+    {
+        "userId": 1,
+        "text": "oh speaking of that"
+    },
+    {
+        "userId": 4,
+        "text": "Arrr!"
+    },
+    {
+        "userId": 1,
+        "text": "i promised you jamest to explain my oddness"
+    },
+    {
+        "userId": 2,
+        "text": "derek: got your eyepatch and pet parrot?   :)"
+    },
+    {
+        "userId": 1,
+        "text": "um yues"
+    },
+    {
+        "userId": 4,
+        "text": "arr me maties"
+    },
+    {
+        "userId": 1,
+        "text": "http://www.carefree.com/swn/"
+    },
+    {
+        "userId": 1,
+        "text": "will explain things"
+    },
+    {
+        "userId": 1,
+        "text": "i promis"
+    },
+    {
+        "userId": 1,
+        "text": "promis"
+    },
+    {
+        "userId": 1,
+        "text": "promise"
+    },
+    {
+        "userId": 1,
+        "text": "damn jamest you are rubbing off :)"
+    },
+    {
+        "userId": 2,
+        "text": "derek?   in public?"
+    },
+    {
+        "userId": 2,
+        "text": ":)"
+    },
+    {
+        "userId": 3,
+        "text": "All right neighbors.  WTF are you doing with a pirated copy of MS Bob on every machine you own.  That's our intellectual property.  Er"
+    },
+    {
+        "userId": 2,
+        "text": "er"
+    },
+    {
+        "userId": 1,
+        "text": ":)"
+    },
+    {
+        "userId": 1,
+        "text": "andrewm: steve is my father"
+    },
+    {
+        "userId": 1,
+        "text": "and yes that image is really him in a pirate outfit"
+    },
+    {
+        "userId": 1,
+        "text": "his wench kay"
+    },
+    {
+        "userId": 1,
+        "text": "is my mother ;)"
+    },
+    {
+        "userId": 3,
+        "text": "VB.....you poor child"
+    },
+    {
+        "userId": 2,
+        "text": "lol"
+    },
+    {
+        "userId": 1,
+        "text": "jamest: he hates MS really"
+    },
+    {
+        "userId": 1,
+        "text": "he rather likes sun and ibm though"
+    },
+    {
+        "userId": 2,
+        "text": "jamest: it is intellectual property!   earthworms have minds"
+    },
+    {
+        "userId": 1,
+        "text": "he works on solaris"
+    },
+    {
+        "userId": 1,
+        "text": "mostly"
+    },
+    {
+        "userId": 1,
+        "text": "and mainframe"
+    },
+    {
+        "userId": 1,
+        "text": "he thought he was gonna like VB"
+    },
+    {
+        "userId": 1,
+        "text": "then he had to use on a project in flordia"
+    },
+    {
+        "userId": 2,
+        "text": "derek: well"
+    },
+    {
+        "userId": 1,
+        "text": "ever since then he has loathed M$"
+    },
+    {
+        "userId": 3,
+        "text": "jcater: you here?"
+    },
+    {
+        "userId": 1,
+        "text": "go figure :)"
+    },
+    {
+        "userId": 5,
+        "text": "jamest: occasionally"
+    },
+    {
+        "userId": 3,
+        "text": "I have a workarround for windows"
+    },
+    {
+        "userId": 3,
+        "text": "it's fugly"
+    },
+    {
+        "userId": 5,
+        "text": "what? install another os?"
+    },
+    {
+        "userId": 3,
+        "text": "setup.py"
+    },
+    {
+        "userId": 1,
+        "text": "jcater: rofl"
+    },
+    {
+        "userId": 3,
+        "text": "import os"
+    },
+    {
+        "userId": 3,
+        "text": "ah"
+    },
+    {
+        "userId": 3,
+        "text": "anyway"
+    },
+    {
+        "userId": 3,
+        "text": "the setup.cfg makes win install puke"
+    },
+    {
+        "userId": 3,
+        "text": "so we detect os"
+    },
+    {
+        "userId": 5,
+        "text": "um"
+    },
+    {
+        "userId": 3,
+        "text": "then we disown it and say masta created this script"
+    },
+    {
+        "userId": 5,
+        "text": "that defeats the purpose of having a setup.cfg"
+    },
+    {
+        "userId": 3,
+        "text": "or we rename it"
+    },
+    {
+        "userId": 1,
+        "text": "jaemst: can you try"
+    },
+    {
+        "userId": 1,
+        "text": "using"
+    },
+    {
+        "userId": 3,
+        "text": "setup.in"
+    },
+    {
+        "userId": 1,
+        "text": "py2exe instead?"
+    },
+    {
+        "userId": 5,
+        "text": "derek: don't go there :)"
+    },
+    {
+        "userId": 1,
+        "text": "so we can build .exes on linux for windows"
+    },
+    {
+        "userId": 5,
+        "text": "it needs a good setup.py"
+    },
+    {
+        "userId": 3,
+        "text": "derek: the issue is with the windows installer"
+    },
+    {
+        "userId": 3,
+        "text": "it's um"
+    },
+    {
+        "userId": 1,
+        "text": "jamest: this woudl CIRCUMVENT that"
+    },
+    {
+        "userId": 1,
+        "text": "as you would make exe on linux no?"
+    },
+    {
+        "userId": 1,
+        "text": "or do you ahve to run py2exe on windows (probably)"
+    },
+    {
+        "userId": 3,
+        "text": "  File \"\"/usr/lib/python1.5/site-packages/distutils/command/bdist_wininst.py"
+    },
+    {
+        "userId": 3,
+        "text": "raise DistutilsInternalError \\"
+    },
+    {
+        "userId": 3,
+        "text": "distutils.errors.DistutilsInternalError: 'scripts' not included in install_lib"
+    },
+    {
+        "userId": 3,
+        "text": "is the result of trying to build installer on unix"
+    },
+    {
+        "userId": 1,
+        "text": "sigh"
+    },
+    {
+        "userId": 3,
+        "text": "py2exe never has worked cause we had some custom crap in setup.py"
+    },
+    {
+        "userId": 1,
+        "text": "have you all looked at it at all?"
+    },
+    {
+        "userId": 3,
+        "text": "yes"
+    },
+    {
+        "userId": 1,
+        "text": "not obvious fixes?"
+    },
+    {
+        "userId": 3,
+        "text": "it makes nice grunting sounds while flipping me off"
+    },
+    {
+        "userId": 3,
+        "text": "I'm working now to remove that stuff"
+    },
+    {
+        "userId": 5,
+        "text": "jamest: better than a whistling sound"
+    },
+    {
+        "userId": 3,
+        "text": "to try again"
+    },
+    {
+        "userId": 4,
+        "text": "farting sounds"
+    },
+    {
+        "userId": 3,
+        "text": "wt heck"
+    },
+    {
+        "userId": 3,
+        "text": "I'll run py2eve thru it again"
+    },
+    {
+        "userId": 4,
+        "text": "lah"
+    },
+    {
+        "userId": 4,
+        "text": "I'm bored."
+    },
+    {
+        "userId": 5,
+        "text": "bbs"
+    },
+    {
+        "userId": 2,
+        "text": "does anyone know where in CVS neilt put his GCD docs?"
+    },
+    {
+        "userId": 2,
+        "text": "I need to update them"
+    },
+    {
+        "userId": 4,
+        "text": "bbs?"
+    },
+    {
+        "userId": 1,
+        "text": "be back soon"
+    },
+    {
+        "userId": 2,
+        "text": "can I take this as meaning noone reads the docs anyway?"
+    },
+    {
+        "userId": 2,
+        "text": ":)"
+    },
+    {
+        "userId": 1,
+        "text": "i don tknow"
+    },
+    {
+        "userId": 1,
+        "text": "let me loock"
+    },
+    {
+        "userId": 1,
+        "text": "look"
+    },
+    {
+        "userId": 3,
+        "text": "andrewm: they are on his web page"
+    },
+    {
+        "userId": 3,
+        "text": "that's all i knwo"
+    },
+    {
+        "userId": 2,
+        "text": "jamest: er"
+    },
+    {
+        "userId": 1,
+        "text": "gnue/docbook/GNUeModuleGuide/chapters/"
+    },
+    {
+        "userId": 1,
+        "text": "has a businessobjects.sgml file"
+    },
+    {
+        "userId": 1,
+        "text": "that has some stuff"
+    },
+    {
+        "userId": 2,
+        "text": "hey"
+    },
+    {
+        "userId": 5,
+        "text": "docs!"
+    },
+    {
+        "userId": 5,
+        "text": "where?"
+    },
+    {
+        "userId": 2,
+        "text": "jcater: don't worry"
+    },
+    {
+        "userId": 1,
+        "text": "hey my daughter just lost another tooth"
+    },
+    {
+        "userId": 1,
+        "text": "she wants to know if any of you know the toothfairies email address"
+    },
+    {
+        "userId": 5,
+        "text": "refunds@irs.gov"
+    },
+    {
+        "userId": 1,
+        "text": "she is upset that i dont know"
+    },
+    {
+        "userId": 2,
+        "text": "derek: that's a damn good question  :)"
+    },
+    {
+        "userId": 1,
+        "text": "roflmao"
+    },
+    {
+        "userId": 1,
+        "text": "seems tooth fairy lives in New Zealand"
+    },
+    {
+        "userId": 1,
+        "text": "email the Tooth Fairy A New Zealand dental site"
+    },
+    {
+        "userId": 1,
+        "text": "from first hit on google"
+    },
+    {
+        "userId": 2,
+        "text": "wow"
+    },
+    {
+        "userId": 1,
+        "text": "http://www.toothfairy.org"
+    },
+    {
+        "userId": 5,
+        "text": "those domain squatters"
+    },
+    {
+        "userId": 3,
+        "text": "hey"
+    },
+    {
+        "userId": 3,
+        "text": "on a setup"
+    },
+    {
+        "userId": 3,
+        "text": "what if we move things like gfclient to a scripts dir"
+    },
+    {
+        "userId": 3,
+        "text": "and things like dependency checks to a file/dir and setup kinda like the parser config"
+    },
+    {
+        "userId": 5,
+        "text": "huh?"
+    },
+    {
+        "userId": 5,
+        "text": "you lost me after the scripts dir"
+    },
+    {
+        "userId": 3,
+        "text": "ah"
+    },
+    {
+        "userId": 3,
+        "text": "lets say a dependencies.py"
+    },
+    {
+        "userId": 3,
+        "text": "then when setup.py is run (subclassed from gnue-common/gsetup)"
+    },
+    {
+        "userId": 3,
+        "text": "it imports that file"
+    },
+    {
+        "userId": 3,
+        "text": "Gsetup would deal w/ things like checking gnue.conf"
+    },
+    {
+        "userId": 3,
+        "text": "am I still not making any sence?"
+    },
+    {
+        "userId": 2,
+        "text": "jamest: can I answer that?   please?     :)"
+    },
+    {
+        "userId": 3,
+        "text": "sure"
+    },
+    {
+        "userId": 3,
+        "text": "you're leaving so why not be nice to you"
+    },
+    {
+        "userId": 2,
+        "text": "you?   making sense?   I must have missed that    :)"
+    },
+    {
+        "userId": 3,
+        "text": "also"
+    },
+    {
+        "userId": 3,
+        "text": "as I keep getting tripped up in unix/windows differences"
+    },
+    {
+        "userId": 5,
+        "text": "um"
+    },
+    {
+        "userId": 5,
+        "text": "it sounds good in theory"
+    },
+    {
+        "userId": 5,
+        "text": "worth a try"
+    },
+    {
+        "userId": 3,
+        "text": "ok"
+    },
+    {
+        "userId": 3,
+        "text": "sounds like a project for friday"
+    },
+    {
+        "userId": 3,
+        "text": ":)"
+    },
+    {
+        "userId": 3,
+        "text": "l8r"
+    },
+    {
+        "userId": 6,
+        "text": "is there a version of tar and gzip for windows ?"
+    },
+    {
+        "userId": 2,
+        "text": "jamest: are you running away?"
+    },
+    {
+        "userId": 7,
+        "text": "negotive: yaeh probably"
+    },
+    {
+        "userId": 7,
+        "text": "but winzip can handle .tar.gz"
+    },
+    {
+        "userId": 6,
+        "text": "benno : I think there should be a list or something of gnu software that has been ported"
+    },
+    {
+        "userId": 7,
+        "text": "cygnus tools probably have ports though"
+    },
+    {
+        "userId": 6,
+        "text": "benno : I know"
+    },
+    {
+        "userId": 2,
+        "text": "negotive: winzip handles .tgz files  (or .tar.gz files if you change the extension to .tgz)"
+    },
+    {
+        "userId": 7,
+        "text": "cygnus is first stop for unix tools on windoze"
+    },
+    {
+        "userId": 2,
+        "text": "yeah"
+    },
+    {
+        "userId": 7,
+        "text": "and there is a list somewhere"
+    },
+    {
+        "userId": 7,
+        "text": "emacs and vim defiantely have"
+    },
+    {
+        "userId": 7,
+        "text": "actually maybe not vim"
+    },
+    {
+        "userId": 6,
+        "text": "I have vim and NTEmacs"
+    },
+    {
+        "userId": 6,
+        "text": "too bad I don't know all of the commands for emacs"
+    },
+    {
+        "userId": 2,
+        "text": "negotive: that's ok"
+    },
+    {
+        "userId": 6,
+        "text": "hehe"
+    },
+    {
+        "userId": 7,
+        "text": "you only need a reall subset of command to do useful stuff though"
+    },
+    {
+        "userId": 6,
+        "text": ":-)"
+    },
+    {
+        "userId": 2,
+        "text": "benno: well"
+    },
+    {
+        "userId": 6,
+        "text": "no way I have vim :)"
+    },
+    {
+        "userId": 6,
+        "text": "notepad is too complicated for me :-D"
+    },
+    {
+        "userId": 2,
+        "text": "negotive: well"
+    },
+    {
+        "userId": 6,
+        "text": "so don't make fun of me"
+    },
+    {
+        "userId": 2,
+        "text": "er"
+    },
+    {
+        "userId": 6,
+        "text": "hehe"
+    },
+    {
+        "userId": 2,
+        "text": "negotive: well"
+    },
+    {
+        "userId": 6,
+        "text": "hehe"
+    },
+    {
+        "userId": 2,
+        "text": "negotive: tin foil hats are protection against the orbital mind control lasers   :)"
+    },
+    {
+        "userId": 5,
+        "text": "lasers?"
+    },
+    {
+        "userId": 5,
+        "text": "where?"
+    },
+    {
+        "userId": 4,
+        "text": "in orbit"
+    },
+    {
+        "userId": 6,
+        "text": "linux doesn't like my 1mb vid card"
+    },
+    {
+        "userId": 5,
+        "text": "it's bigbrother isn't it?"
+    },
+    {
+        "userId": 4,
+        "text": "the CIA owns em"
+    },
+    {
+        "userId": 6,
+        "text": "oh"
+    },
+    {
+        "userId": 2,
+        "text": "jcater: on satellites"
+    },
+    {
+        "userId": 7,
+        "text": "really? I thought that horrible show Big Brother owned them"
+    },
+    {
+        "userId": 4,
+        "text": "orbital mind control lasers: beaming you your thoughts"
+    },
+    {
+        "userId": 4,
+        "text": "http://www.grawk.net/~nick/proj/sites/personal/old/public_html/pics/lasers.gif"
+    },
+    {
+        "userId": 6,
+        "text": "http://www.deltasoft.com/graphics/screenshots/gem3accs.gif this looks interesting"
+    },
+    {
+        "userId": 5,
+        "text": "orbital:circling::satellite:remote... hmm"
+    },
+    {
+        "userId": 4,
+        "text": "gem!"
+    },
+    {
+        "userId": 6,
+        "text": "nickr : have you used it /"
+    },
+    {
+        "userId": 6,
+        "text": "err...?"
+    },
+    {
+        "userId": 4,
+        "text": "No"
+    },
+    {
+        "userId": 6,
+        "text": "know anything about it ?"
+    },
+    {
+        "userId": 4,
+        "text": "but I recognize it"
+    },
+    {
+        "userId": 4,
+        "text": "um"
+    },
+    {
+        "userId": 6,
+        "text": "so it's like win3.1 is to dos ?"
+    },
+    {
+        "userId": 4,
+        "text": "er"
+    },
+    {
+        "userId": 6,
+        "text": "but for opendos"
+    },
+    {
+        "userId": 2,
+        "text": "well"
+    },
+    {
+        "userId": 4,
+        "text": "for cp/m"
+    },
+    {
+        "userId": 4,
+        "text": "I think."
+    },
+    {
+        "userId": 5,
+        "text": "andrewm: run"
+    },
+    {
+        "userId": 4,
+        "text": "there were some handhelds that used it irrc"
+    },
+    {
+        "userId": 2,
+        "text": "jcater: before I get glued to the chair?   :)"
+    },
+    {
+        "userId": 5,
+        "text": "yes!"
+    },
+    {
+        "userId": 2,
+        "text": "anyway"
+    },
+    {
+        "userId": 7,
+        "text": "gem was heaps cool"
+    },
+    {
+        "userId": 7,
+        "text": "well it sucked but you know.. cool at the time"
+    },
+    {
+        "userId": 6,
+        "text": "I am trying to find a nice DOS that is free"
+    },
+    {
+        "userId": 1,
+        "text": "debian dos"
+    },
+    {
+        "userId": 1,
+        "text": "we debian gnu\\linux"
+    },
+    {
+        "userId": 1,
+        "text": "but just call it dos"
+    },
+    {
+        "userId": 1,
+        "text": "and you wont be disappointed"
+    },
+    {
+        "userId": 6,
+        "text": "ok"
+    },
+    {
+        "userId": 1,
+        "text": "negotive: the tar/gz doesnt work on windows currnetly"
+    },
+    {
+        "userId": 1,
+        "text": "unless you 'hand' install it"
+    },
+    {
+        "userId": 1,
+        "text": "but it does work"
+    },
+    {
+        "userId": 4,
+        "text": "I can warez you a copy of NovellDOS"
+    },
+    {
+        "userId": 4,
+        "text": "back when it was ndos"
+    },
+    {
+        "userId": 4,
+        "text": ";)"
+    },
+    {
+        "userId": 7,
+        "text": "drdos.. my first OS"
+    },
+    {
+        "userId": 6,
+        "text": "nickr : no that is alright"
+    },
+    {
+        "userId": 7,
+        "text": "well calling it an OS is pushing it but anyway"
+    },
+    {
+        "userId": 4,
+        "text": "DRDOS always seemed less evil than msdos"
+    },
+    {
+        "userId": 6,
+        "text": "the Blue Screen of Death was my first OS"
+    },
+    {
+        "userId": 1,
+        "text": "pcdos baby"
+    },
+    {
+        "userId": 4,
+        "text": "pcdos seemed more evil"
+    },
+    {
+        "userId": 4,
+        "text": "yea"
+    },
+    {
+        "userId": 4,
+        "text": "we called it dr. dos anyway"
+    },
+    {
+        "userId": 6,
+        "text": "man I thought there were only like 3 versions of dos around :)"
+    },
+    {
+        "userId": 6,
+        "text": "jcater : right on"
+    },
+    {
+        "userId": 5,
+        "text": "mine still runs"
+    },
+    {
+        "userId": 6,
+        "text": "I used mine too much"
+    },
+    {
+        "userId": 6,
+        "text": "derek : I can't find a debian dos"
+    },
+    {
+        "userId": 7,
+        "text": "lol"
+    },
+    {
+        "userId": 6,
+        "text": "I think someone is pulling my leg here :)"
+    },
+    {
+        "userId": 1,
+        "text": "negotive: yes was teasing"
+    },
+    {
+        "userId": 1,
+        "text": "basically saying install debian"
+    },
+    {
+        "userId": 1,
+        "text": "and you will NOT be disappointed :)"
+    },
+    {
+        "userId": 6,
+        "text": "hehe"
+    },
+    {
+        "userId": 1,
+        "text": "hi Rafterman"
+    },
+    {
+        "userId": 1,
+        "text": "hi negotive"
+    },
+    {
+        "userId": 6,
+        "text": "so I am sticking with slackware right now"
+    },
+    {
+        "userId": 1,
+        "text": "negotive: i will gladly send you cd's"
+    },
+    {
+        "userId": 8,
+        "text": "hu all"
+    },
+    {
+        "userId": 6,
+        "text": "heya derek"
+    },
+    {
+        "userId": 8,
+        "text": "s/hu/hi/"
+    },
+    {
+        "userId": 1,
+        "text": "if bandwidth is an issue"
+    },
+    {
+        "userId": 6,
+        "text": "derek : just that my burner died on me so I can't burn the iso until I get a new one"
+    },
+    {
+        "userId": 1,
+        "text": "Rafterman / negotive did either of you have gnue questions?"
+    },
+    {
+        "userId": 8,
+        "text": "nah"
+    },
+    {
+        "userId": 8,
+        "text": "i'm reading on gnue atm."
+    },
+    {
+        "userId": 1,
+        "text": "Rafterman: are you familiar with us?"
+    },
+    {
+        "userId": 6,
+        "text": "derek : you mean gnue is not the same as gnu ?"
+    },
+    {
+        "userId": 1,
+        "text": "and how did you hear about us"
+    },
+    {
+        "userId": 1,
+        "text": "negotive: nope"
+    },
+    {
+        "userId": 1,
+        "text": "GNUe == GNU Enterprise"
+    },
+    {
+        "userId": 1,
+        "text": "we are a GNU project"
+    },
+    {
+        "userId": 1,
+        "text": "so we are affliated with GNU"
+    },
+    {
+        "userId": 6,
+        "text": "never mine"
+    },
+    {
+        "userId": 6,
+        "text": "cool"
+    },
+    {
+        "userId": 1,
+        "text": "we will gladly answer GNU related questions"
+    },
+    {
+        "userId": 1,
+        "text": "many of us work as volunteers for FSF in one capacity or another anyhow"
+    },
+    {
+        "userId": 6,
+        "text": "is there a gnue site that I can read up on ?"
+    },
+    {
+        "userId": 1,
+        "text": "http://www.gnue.org"
+    },
+    {
+        "userId": 8,
+        "text": "derek: heard about you from benno."
+    },
+    {
+        "userId": 9,
+        "text": "you friggin communist GNU hippies are all alike :P"
+    },
+    {
+        "userId": 1,
+        "text": "chillywilly: thats"
+    },
+    {
+        "userId": 7,
+        "text": "Rafterman == benno.brother"
+    },
+    {
+        "userId": 1,
+        "text": "CRACK SMOKING"
+    },
+    {
+        "userId": 9,
+        "text": "lol"
+    },
+    {
+        "userId": 6,
+        "text": "haha"
+    },
+    {
+        "userId": 5,
+        "text": "derek: you forgot GOAT LUVIN"
+    },
+    {
+        "userId": 6,
+        "text": "derek : it's more like a poor crack smoking communist gnu hippie :)"
+    },
+    {
+        "userId": 8,
+        "text": "derek: who would be the best person to send patches to if/when i patch some of the docs?"
+    },
+    {
+        "userId": 4,
+        "text": "just say no to goat love"
+    },
+    {
+        "userId": 4,
+        "text": "you could make GNUe tshirts that say that"
+    },
+    {
+        "userId": 1,
+        "text": "Rafterman: send to info@gnue.org"
+    },
+    {
+        "userId": 8,
+        "text": "cool"
+    },
+    {
+        "userId": 1,
+        "text": "as that goes to more than one person"
+    },
+    {
+        "userId": 1,
+        "text": "is(benno.brother.age &gt; benno.age)"
+    },
+    {
+        "userId": 7,
+        "text": "nope"
+    },
+    {
+        "userId": 7,
+        "text": "18 vs. 21"
+    },
+    {
+        "userId": 1,
+        "text": "me is suprised university students interested in gnue"
+    },
+    {
+        "userId": 7,
+        "text": "well"
+    },
+    {
+        "userId": 1,
+        "text": "benno: um chillywilly is your age about"
+    },
+    {
+        "userId": 1,
+        "text": "as are others"
+    },
+    {
+        "userId": 7,
+        "text": "i wouldn't count on that :P"
+    },
+    {
+        "userId": 5,
+        "text": "chillywilly: j/k"
+    },
+    {
+        "userId": 9,
+        "text": "jcater: come on now"
+    },
+    {
+        "userId": 5,
+        "text": "derek: all these yung'uns in here"
+    },
+    {
+        "userId": 1,
+        "text": ":)"
+    },
+    {
+        "userId": 1,
+        "text": "but assumes he is older than chillywilly and younger than jamest"
+    },
+    {
+        "userId": 5,
+        "text": "derek: that would be a valid assumption"
+    },
+    {
+        "userId": 9,
+        "text": "he's an old fart"
+    },
+    {
+        "userId": 9,
+        "text": ":P"
+    },
+    {
+        "userId": 9,
+        "text": "j/k"
+    },
+    {
+        "userId": 5,
+        "text": "well"
+    },
+    {
+        "userId": 9,
+        "text": "hehe"
+    },
+    {
+        "userId": 1,
+        "text": "scary thing is im getting old"
+    },
+    {
+        "userId": 1,
+        "text": "remember when i was always youngest at things"
+    },
+    {
+        "userId": 5,
+        "text": "now you're just the guy all the young ppl wish would go away :)"
+    },
+    {
+        "userId": 5,
+        "text": "j/k"
+    },
+    {
+        "userId": 1,
+        "text": "rofl"
+    },
+    {
+        "userId": 9,
+        "text": "jcater: is that how your guys feel about you ;)"
+    },
+    {
+        "userId": 5,
+        "text": "chillywilly: yes"
+    },
+    {
+        "userId": 9,
+        "text": "and they wish you would go away?"
+    },
+    {
+        "userId": 5,
+        "text": "yeah"
+    },
+    {
+        "userId": 9,
+        "text": "really?!?"
+    },
+    {
+        "userId": 5,
+        "text": "ambitious little fart"
+    },
+    {
+        "userId": 5,
+        "text": "of course"
+    },
+    {
+        "userId": 5,
+        "text": "doesn't realize that real work begins"
+    },
+    {
+        "userId": 1,
+        "text": ":)"
+    },
+    {
+        "userId": 5,
+        "text": "when everyone else leaves"
+    },
+    {
+        "userId": 9,
+        "text": "jcater: and you live at the office right?"
+    },
+    {
+        "userId": 5,
+        "text": "I usually go home to take a shower"
+    },
+    {
+        "userId": 5,
+        "text": "but then come back"
+    },
+    {
+        "userId": 7,
+        "text": "its only possible to get stuff done when everyone else leaves"
+    },
+    {
+        "userId": 7,
+        "text": "get peace and quite"
+    },
+    {
+        "userId": 5,
+        "text": "it's amazing how much of a day is pissed away answering questions"
+    },
+    {
+        "userId": 9,
+        "text": ":P"
+    },
+    {
+        "userId": 9,
+        "text": "I'll have you know the pepsi supply is overflowing"
+    },
+    {
+        "userId": 9,
+        "text": "here"
+    },
+    {
+        "userId": 9,
+        "text": "I am good to go"
+    },
+    {
+        "userId": 7,
+        "text": "err pepsi.. evil"
+    },
+    {
+        "userId": 9,
+        "text": "now I just need to get this friggin PHPNuke shit squared away"
+    },
+    {
+        "userId": 1,
+        "text": "yes pepsi evil"
+    },
+    {
+        "userId": 9,
+        "text": "no pepso good"
+    },
+    {
+        "userId": 5,
+        "text": "water is good"
+    },
+    {
+        "userId": 9,
+        "text": "pepsi"
+    },
+    {
+        "userId": 5,
+        "text": "water is free"
+    },
+    {
+        "userId": 9,
+        "text": "water sucks rocks"
+    },
+    {
+        "userId": 5,
+        "text": "(morally and financially)"
+    },
+    {
+        "userId": 5,
+        "text": ":)"
+    },
+    {
+        "userId": 5,
+        "text": "s/suchs//"
+    },
+    {
+        "userId": 9,
+        "text": "masta evi"
+    },
+    {
+        "userId": 9,
+        "text": "evil"
+    },
+    {
+        "userId": 9,
+        "text": "bad masta"
+    },
+    {
+        "userId": 9,
+        "text": "everything evil"
+    },
+    {
+        "userId": 9,
+        "text": "bye"
+    },
+    {
+        "userId": 9,
+        "text": "anyway...."
+    },
+    {
+        "userId": 5,
+        "text": "anyway..."
+    },
+    {
+        "userId": 9,
+        "text": "heh"
+    },
+    {
+        "userId": 5,
+        "text": ".."
+    },
+    {
+        "userId": 9,
+        "text": "I have mor edots"
+    },
+    {
+        "userId": 9,
+        "text": "................."
+    },
+    {
+        "userId": 5,
+        "text": "ooooooooooo"
+    },
+    {
+        "userId": 9,
+        "text": "......................................................................................................."
+    },
+    {
+        "userId": 5,
+        "text": "(but mine are bigger)"
+    },
+    {
+        "userId": 9,
+        "text": "OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOo"
+    },
+    {
+        "userId": 5,
+        "text": "poor chillywilly has dot envy"
+    },
+    {
+        "userId": 9,
+        "text": "nope"
+    },
+    {
+        "userId": 9,
+        "text": "your the only one thatmentioned size"
+    },
+    {
+        "userId": 9,
+        "text": "perhaps you should look in the mirror"
+    },
+    {
+        "userId": 5,
+        "text": "you made it competitive :)"
+    },
+    {
+        "userId": 9,
+        "text": "doesn't mean I am envious"
+    },
+    {
+        "userId": 9,
+        "text": "just means I win"
+    },
+    {
+        "userId": 9,
+        "text": "masta: can you have one pepsi too many?"
+    },
+    {
+        "userId": 5,
+        "text": "(as opposed to stack underflow a couple of days ago)"
+    },
+    {
+        "userId": 9,
+        "text": "eh"
+    },
+    {
+        "userId": 9,
+        "text": "I ned to get me some good drugs"
+    },
+    {
+        "userId": 9,
+        "text": ";)"
+    },
+    {
+        "userId": 9,
+        "text": "but in my experience"
+    },
+    {
+        "userId": 9,
+        "text": "life generally sucks"
+    },
+    {
+        "userId": 5,
+        "text": "no"
+    },
+    {
+        "userId": 5,
+        "text": "existance generally sucks"
+    },
+    {
+        "userId": 9,
+        "text": "ok"
+    },
+    {
+        "userId": 9,
+        "text": "then you die"
+    },
+    {
+        "userId": 5,
+        "text": "when I get depressed"
+    },
+    {
+        "userId": 5,
+        "text": "are you depressed"
+    },
+    {
+        "userId": 5,
+        "text": "cause I have a lot that needs"
+    },
+    {
+        "userId": 5,
+        "text": "programming :)"
+    },
+    {
+        "userId": 9,
+        "text": "hehe"
+    },
+    {
+        "userId": 9,
+        "text": "nope"
+    },
+    {
+        "userId": 9,
+        "text": "I'm \"\"ok"
+    },
+    {
+        "userId": 9,
+        "text": "a little tired"
+    },
+    {
+        "userId": 9,
+        "text": "getting hungry too"
+    },
+    {
+        "userId": 9,
+        "text": "maybe time for midnight snack"
+    },
+    {
+        "userId": 9,
+        "text": "even thought it's"
+    },
+    {
+        "userId": 9,
+        "text": "Fri Jun 29 01:14:39 CDT 2001"
+    },
+    {
+        "userId": 9,
+        "text": "close enough"
+    },
+    {
+        "userId": 9,
+        "text": "I'm not picky today"
+    },
+    {
+        "userId": 9,
+        "text": "is jamest here?"
+    },
+    {
+        "userId": 5,
+        "text": "I think he's gone"
+    },
+    {
+        "userId": 9,
+        "text": "after I login as \"\"God"
+    },
+    {
+        "userId": 9,
+        "text": "can I chage his password or something?"
+    },
+    {
+        "userId": 1,
+        "text": "he is in bed"
+    },
+    {
+        "userId": 9,
+        "text": "fuck!"
+    },
+    {
+        "userId": 5,
+        "text": "chillywilly: it's not that bad"
+    },
+    {
+        "userId": 5,
+        "text": "he'll be back tomorrow"
+    },
+    {
+        "userId": 9,
+        "text": "well who said he could sleep?"
+    },
+    {
+        "userId": 9,
+        "text": "masta?"
+    },
+    {
+        "userId": 9,
+        "text": "you're loosing your touch"
+    },
+    {
+        "userId": 9,
+        "text": ":P"
+    },
+    {
+        "userId": 5,
+        "text": "chillywilly: he lets us take turns"
+    },
+    {
+        "userId": 9,
+        "text": "well I must've missed my turn"
+    },
+    {
+        "userId": 5,
+        "text": "Ok"
+    },
+    {
+        "userId": 5,
+        "text": "get busy"
+    },
+    {
+        "userId": 9,
+        "text": "if chillywilly.sleepy: chillywilly.drink(beverage=pepsi)"
+    },
+    {
+        "userId": 4,
+        "text": "la la la"
+    },
+    {
+        "userId": 9,
+        "text": "it's the smurfs!"
+    },
+    {
+        "userId": 7,
+        "text": "s/if/while"
+    },
+    {
+        "userId": 9,
+        "text": "yeah"
+    },
+    {
+        "userId": 9,
+        "text": "and more true to life"
+    },
+    {
+        "userId": 9,
+        "text": "while chillywilly.isSleepy (): chillywilly.Drink (pepsi)"
+    },
+    {
+        "userId": 9,
+        "text": "a little code cleanup there eh? ;)"
+    },
+    {
+        "userId": 5,
+        "text": "nohup jcater &gt; /dev/null 2&gt;&amp;1"
+    },
+    {
+        "userId": 5,
+        "text": "night"
+    },
+    {
+        "userId": 5,
+        "text": "l86 all y'all gnue ppl"
+    },
+    {
+        "userId": 4,
+        "text": "ugh"
+    },
+    {
+        "userId": 4,
+        "text": "[nickr wakeup];"
+    },
+    {
+        "userId": 9,
+        "text": ":P"
+    },
+    {
+        "userId": 4,
+        "text": "Ouch"
+    },
+    {
+        "userId": 9,
+        "text": "penguins always have plenty of raw fish on hand"
+    },
+    {
+        "userId": 9,
+        "text": "ya know?"
+    },
+    {
+        "userId": 4,
+        "text": "hrm"
+    },
+    {
+        "userId": 4,
+        "text": "and sex"
+    },
+    {
+        "userId": 4,
+        "text": "appearently"
+    },
+    {
+        "userId": 9,
+        "text": "eh?"
+    },
+    {
+        "userId": 4,
+        "text": "satisfied penguins at least"
+    },
+    {
+        "userId": 9,
+        "text": "like tux?"
+    },
+    {
+        "userId": 9,
+        "text": "fat and satisfied"
+    },
+    {
+        "userId": 4,
+        "text": "yea"
+    },
+    {
+        "userId": 4,
+        "text": "Although I think tux looks dumb"
+    },
+    {
+        "userId": 4,
+        "text": "chillywilly: check out my cam"
+    },
+    {
+        "userId": 9,
+        "text": "hey has common and forms been officially released?"
+    },
+    {
+        "userId": 9,
+        "text": "URL?"
+    },
+    {
+        "userId": 4,
+        "text": "http://www.grawk.net/~nick/geeks.php?matchf=name&matchv;=nickr"
+    },
+    {
+        "userId": 9,
+        "text": "ok"
+    },
+    {
+        "userId": 9,
+        "text": "look into the camera and give me the finger or something"
+    },
+    {
+        "userId": 4,
+        "text": "I was mostly just showing off the cute raster lines"
+    },
+    {
+        "userId": 9,
+        "text": "why is it green?"
+    },
+    {
+        "userId": 4,
+        "text": "cause its 0ld sk00l"
+    },
+    {
+        "userId": 9,
+        "text": "did you flip me off?"
+    },
+    {
+        "userId": 9,
+        "text": "I see you playing with your hair"
+    },
+    {
+        "userId": 9,
+        "text": "like brushing it back"
+    },
+    {
+        "userId": 4,
+        "text": "It updates once a minute so its hard to do things like flipping off and stuff"
+    },
+    {
+        "userId": 4,
+        "text": "this is why I need a cron with subminute resolution :P"
+    },
+    {
+        "userId": 9,
+        "text": "just hold it there then"
+    },
+    {
+        "userId": 9,
+        "text": "oh?"
+    },
+    {
+        "userId": 9,
+        "text": "just type with one hand flip off with the other"
+    },
+    {
+        "userId": 4,
+        "text": "there you go"
+    },
+    {
+        "userId": 9,
+        "text": "yay!"
+    },
+    {
+        "userId": 4,
+        "text": "why did you want me to flip you off?"
+    },
+    {
+        "userId": 9,
+        "text": "just to prove it was live man"
+    },
+    {
+        "userId": 4,
+        "text": "You didn't believe me?"
+    },
+    {
+        "userId": 9,
+        "text": "It's just the thing to do"
+    },
+    {
+        "userId": 4,
+        "text": "I see"
+    },
+    {
+        "userId": 4,
+        "text": "I should've saved that shot"
+    },
+    {
+        "userId": 4,
+        "text": "and put that as my printpage"
+    },
+    {
+        "userId": 4,
+        "text": "err frontpage on my site"
+    },
+    {
+        "userId": 4,
+        "text": "3y3 M 2 3133+3"
+    },
+    {
+        "userId": 4,
+        "text": "its a classic"
+    },
+    {
+        "userId": 4,
+        "text": "did you save it perchance?"
+    },
+    {
+        "userId": 9,
+        "text": "yea"
+    },
+    {
+        "userId": 9,
+        "text": "nope"
+    },
+    {
+        "userId": 4,
+        "text": "it was a cool picture"
+    },
+    {
+        "userId": 4,
+        "text": "I want to make tshirts"
+    },
+    {
+        "userId": 10,
+        "text": "hi there"
+    },
+    {
+        "userId": 4,
+        "text": "yuou sure don't go to bed for long"
+    },
+    {
+        "userId": 9,
+        "text": "ummm"
+    },
+    {
+        "userId": 1,
+        "text": "everyone sleeping"
+    },
+    {
+        "userId": 1,
+        "text": "bye bye"
+    },
+    {
+        "userId": 1,
+        "text": "hello you"
+    },
+    {
+        "userId": 1,
+        "text": "good bye you"
+    },
+    {
+        "userId": 11,
+        "text": "bye"
+    },
+    {
+        "userId": 12,
+        "text": "looks like I forgot to log out again"
+    },
+    {
+        "userId": 11,
+        "text": "heh"
+    },
+    {
+        "userId": 12,
+        "text": "hello"
+    },
+    {
+        "userId": 13,
+        "text": "hi"
+    },
+    {
+        "userId": 13,
+        "text": "what's this 'ere channel about?"
+    },
+    {
+        "userId": 12,
+        "text": "gnu enterprise"
+    },
+    {
+        "userId": 12,
+        "text": "www.gnue.org"
+    },
+    {
+        "userId": 12,
+        "text": "business software basically"
+    },
+    {
+        "userId": 13,
+        "text": "oh"
+    },
+    {
+        "userId": 12,
+        "text": "argh!"
+    },
+    {
+        "userId": 12,
+        "text": ":)"
+    },
+    {
+        "userId": 12,
+        "text": "not quite"
+    },
+    {
+        "userId": 12,
+        "text": "think bigger"
+    },
+    {
+        "userId": 12,
+        "text": "more like SAP"
+    },
+    {
+        "userId": 13,
+        "text": "oh!"
+    },
+    {
+        "userId": 12,
+        "text": "or Peoplesoft"
+    },
+    {
+        "userId": 13,
+        "text": "well then... good luck! LOL"
+    },
+    {
+        "userId": 12,
+        "text": ":)"
+    },
+    {
+        "userId": 14,
+        "text": "jamest has multiplied again"
+    },
+    {
+        "userId": 12,
+        "text": ":)"
+    },
+    {
+        "userId": 12,
+        "text": "you're up early"
+    },
+    {
+        "userId": 14,
+        "text": "yip"
+    },
+    {
+        "userId": 14,
+        "text": "with some luck"
+    },
+    {
+        "userId": 14,
+        "text": "this will be good day for gnue"
+    },
+    {
+        "userId": 12,
+        "text": "why?"
+    },
+    {
+        "userId": 14,
+        "text": "am pitching something"
+    },
+    {
+        "userId": 14,
+        "text": "to 12 regional directors"
+    },
+    {
+        "userId": 14,
+        "text": "for hotels like"
+    },
+    {
+        "userId": 14,
+        "text": "Hilton etc"
+    },
+    {
+        "userId": 12,
+        "text": "do me a favor"
+    },
+    {
+        "userId": 12,
+        "text": "if you're about to sell my soul into slavery"
+    },
+    {
+        "userId": 12,
+        "text": "make sure the promises are at least physically feasable"
+    },
+    {
+        "userId": 12,
+        "text": "no more GNUe is better than viagra stuff eh?"
+    },
+    {
+        "userId": 11,
+        "text": "you have a demo for them?"
+    },
+    {
+        "userId": 14,
+        "text": "this is not directly a new thing"
+    },
+    {
+        "userId": 11,
+        "text": "its just a talk?"
+    },
+    {
+        "userId": 12,
+        "text": "wait a minute!"
+    },
+    {
+        "userId": 12,
+        "text": "lets think this thur"
+    },
+    {
+        "userId": 12,
+        "text": "thru"
+    },
+    {
+        "userId": 12,
+        "text": "if hotels like gnue and like masta(a long shot I know)"
+    },
+    {
+        "userId": 12,
+        "text": "they might sponser him to work on gnue more"
+    },
+    {
+        "userId": 12,
+        "text": "which means more bugreports and unreasonable requests"
+    },
+    {
+        "userId": 12,
+        "text": "just exactly how is this a good thing?"
+    },
+    {
+        "userId": 11,
+        "text": "heh"
+    },
+    {
+        "userId": 14,
+        "text": "well"
+    },
+    {
+        "userId": 14,
+        "text": "remember we are all about the user"
+    },
+    {
+        "userId": 14,
+        "text": "so for you its holy hell"
+    },
+    {
+        "userId": 14,
+        "text": "but for the user its a good thing"
+    },
+    {
+        "userId": 12,
+        "text": "we're all about the user?"
+    },
+    {
+        "userId": 12,
+        "text": "i thought it was"
+    },
+    {
+        "userId": 12,
+        "text": "we're about all over the user"
+    },
+    {
+        "userId": 12,
+        "text": "or was it"
+    },
+    {
+        "userId": 12,
+        "text": "it's all over for the user"
+    },
+    {
+        "userId": 14,
+        "text": "WOW"
+    },
+    {
+        "userId": 14,
+        "text": "nearly 4500 visits"
+    },
+    {
+        "userId": 14,
+        "text": "adn"
+    },
+    {
+        "userId": 14,
+        "text": "167000 hits"
+    },
+    {
+        "userId": 14,
+        "text": "in about 15 days"
+    },
+    {
+        "userId": 14,
+        "text": "jamest did you plan on moving old irc logs"
+    },
+    {
+        "userId": 14,
+        "text": "and"
+    },
+    {
+        "userId": 14,
+        "text": "old webalizer logs"
+    },
+    {
+        "userId": 12,
+        "text": "webalizer I didn't"
+    },
+    {
+        "userId": 12,
+        "text": "as it'd be a bit of a pain"
+    },
+    {
+        "userId": 12,
+        "text": "old logs yes"
+    },
+    {
+        "userId": 14,
+        "text": "jamest_ hmm"
+    },
+    {
+        "userId": 14,
+        "text": "why woudl webalizer be a pain?"
+    },
+    {
+        "userId": 14,
+        "text": "if you just move the actual lgo files"
+    },
+    {
+        "userId": 14,
+        "text": "and put in same spot"
+    },
+    {
+        "userId": 12,
+        "text": "If I can move the static html maybe"
+    },
+    {
+        "userId": 14,
+        "text": "wouldnt webalizer rebuild from those?"
+    },
+    {
+        "userId": 14,
+        "text": "but why move static html"
+    },
+    {
+        "userId": 12,
+        "text": "i I had the logs I could rerun"
+    },
+    {
+        "userId": 14,
+        "text": "yes"
+    },
+    {
+        "userId": 14,
+        "text": "thats what i mean"
+    },
+    {
+        "userId": 12,
+        "text": "but i don't have them"
+    },
+    {
+        "userId": 14,
+        "text": "get the logs"
+    },
+    {
+        "userId": 12,
+        "text": "and I'd have to merge my logs in"
+    },
+    {
+        "userId": 14,
+        "text": "and rerun webalizer"
+    },
+    {
+        "userId": 14,
+        "text": "the only PAIN"
+    },
+    {
+        "userId": 14,
+        "text": "woudl be june"
+    },
+    {
+        "userId": 14,
+        "text": "as i woudl throw out"
+    },
+    {
+        "userId": 14,
+        "text": "all other ash logs"
+    },
+    {
+        "userId": 14,
+        "text": "as it was 'setting up' time etc"
+    },
+    {
+        "userId": 12,
+        "text": "btw  -why merge"
+    },
+    {
+        "userId": 14,
+        "text": "so for traffic at least"
+    },
+    {
+        "userId": 12,
+        "text": "why not just move static html to oldlog page"
+    },
+    {
+        "userId": 14,
+        "text": "june would be the only moth"
+    },
+    {
+        "userId": 12,
+        "text": "as the logs go away after a year anyway"
+    },
+    {
+        "userId": 14,
+        "text": "um"
+    },
+    {
+        "userId": 14,
+        "text": "i woudl thik that getting the old logs"
+    },
+    {
+        "userId": 14,
+        "text": "and runnig webalizer"
+    },
+    {
+        "userId": 14,
+        "text": "would be easier"
+    },
+    {
+        "userId": 14,
+        "text": "except for june"
+    },
+    {
+        "userId": 12,
+        "text": "one is a tarball"
+    },
+    {
+        "userId": 14,
+        "text": "for me personally"
+    },
+    {
+        "userId": 12,
+        "text": "the other is me remerging all logs by hand"
+    },
+    {
+        "userId": 14,
+        "text": "i prefer source history"
+    },
+    {
+        "userId": 14,
+        "text": "jamest_ why would you merge anything?"
+    },
+    {
+        "userId": 14,
+        "text": "except for june?"
+    },
+    {
+        "userId": 12,
+        "text": "webalizer time stamps shit"
+    },
+    {
+        "userId": 14,
+        "text": "yeah"
+    },
+    {
+        "userId": 14,
+        "text": "an point?"
+    },
+    {
+        "userId": 12,
+        "text": "so anything I run thru older won't count"
+    },
+    {
+        "userId": 12,
+        "text": "I have to wipe the slate and star with huge log file of everything"
+    },
+    {
+        "userId": 14,
+        "text": "hmmm doesnt understand"
+    },
+    {
+        "userId": 14,
+        "text": "but i will believe you"
+    },
+    {
+        "userId": 12,
+        "text": "I've done it twice here"
+    },
+    {
+        "userId": 12,
+        "text": "and it's not hard"
+    },
+    {
+        "userId": 12,
+        "text": "but there are other things needed done first/more important"
+    },
+    {
+        "userId": 12,
+        "text": "lie the mailing lists"
+    },
+    {
+        "userId": 14,
+        "text": "i will tar and bring old goats files to my machine"
+    },
+    {
+        "userId": 12,
+        "text": "if you get the logs and sit on them"
+    },
+    {
+        "userId": 12,
+        "text": "I'll merge them later"
+    },
+    {
+        "userId": 15,
+        "text": "hi"
+    },
+    {
+        "userId": 14,
+        "text": "hi madlocke"
+    },
+    {
+        "userId": 15,
+        "text": "jamest"
+    },
+    {
+        "userId": 15,
+        "text": "have an alpha version of the diagam ..."
+    },
+    {
+        "userId": 15,
+        "text": "or a ventilator"
+    },
+    {
+        "userId": 12,
+        "text": "I'm here"
+    },
+    {
+        "userId": 15,
+        "text": "jamest_: to which mail address should i send the alpha diagram?"
+    },
+    {
+        "userId": 12,
+        "text": "jamest@gnue.org"
+    },
+    {
+        "userId": 15,
+        "text": "ok"
+    },
+    {
+        "userId": 15,
+        "text": "it's on its way"
+    },
+    {
+        "userId": 12,
+        "text": "madlocke: you poor bastard"
+    },
+    {
+        "userId": 15,
+        "text": ";)"
+    },
+    {
+        "userId": 12,
+        "text": "this thing is huge"
+    },
+    {
+        "userId": 15,
+        "text": "hey it's your software ;)"
+    },
+    {
+        "userId": 15,
+        "text": "you wrote this stuff :)"
+    },
+    {
+        "userId": 12,
+        "text": "looks good what I can see"
+    },
+    {
+        "userId": 12,
+        "text": "I've only got a 17\"\" monitor"
+    },
+    {
+        "userId": 12,
+        "text": "i really like this"
+    },
+    {
+        "userId": 15,
+        "text": "good...."
+    },
+    {
+        "userId": 15,
+        "text": "ok for now i have to leave... have to write some docs..."
+    },
+    {
+        "userId": 15,
+        "text": "will be back tomorrow..."
+    },
+    {
+        "userId": 15,
+        "text": "cu"
+    },
+    {
+        "userId": 12,
+        "text": "l8r"
+    },
+    {
+        "userId": 14,
+        "text": "is this thing on?"
+    },
+    {
+        "userId": 5,
+        "text": "yes"
+    },
+    {
+        "userId": 14,
+        "text": "whats up jack carter"
+    },
+    {
+        "userId": 14,
+        "text": "arent you from the movie get carter?"
+    },
+    {
+        "userId": 5,
+        "text": "surely"
+    },
+    {
+        "userId": 12,
+        "text": "jcater:  hi"
+    },
+    {
+        "userId": 12,
+        "text": "you doing anything to gnue code today?"
+    },
+    {
+        "userId": 5,
+        "text": "probably not"
+    },
+    {
+        "userId": 5,
+        "text": "sorry"
+    },
+    {
+        "userId": 14,
+        "text": "you doing any gnue marketing today?"
+    },
+    {
+        "userId": 5,
+        "text": "this weekend"
+    },
+    {
+        "userId": 5,
+        "text": "ncs marketing today"
+    },
+    {
+        "userId": 10,
+        "text": "bye"
+    },
+    {
+        "userId": 12,
+        "text": "oh"
+    },
+    {
+        "userId": 12,
+        "text": "crap"
+    },
+    {
+        "userId": 12,
+        "text": "gfcvs is a bash script"
+    },
+    {
+        "userId": 5,
+        "text": "damn bluestar!!!"
+    },
+    {
+        "userId": 12,
+        "text": "?"
+    },
+    {
+        "userId": 5,
+        "text": "our DSL provider (Covad)"
+    },
+    {
+        "userId": 5,
+        "text": "going under"
+    },
+    {
+        "userId": 5,
+        "text": "I have to switch to another provider now :("
+    },
+    {
+        "userId": 11,
+        "text": "what is this?  mine is also covad"
+    },
+    {
+        "userId": 11,
+        "text": "are you one of the closing COs they annouced months back"
+    },
+    {
+        "userId": 5,
+        "text": "bluestar service"
+    },
+    {
+        "userId": 11,
+        "text": "BlueStar == Covad Biz Solutions"
+    },
+    {
+        "userId": 11,
+        "text": "mine is covad biz solution"
+    },
+    {
+        "userId": 11,
+        "text": "aka bluestar"
+    },
+    {
+        "userId": 5,
+        "text": "want me to scan my letter?"
+    },
+    {
+        "userId": 12,
+        "text": "Dear Mr Cater"
+    },
+    {
+        "userId": 11,
+        "text": "sure if you don't mind"
+    },
+    {
+        "userId": 12,
+        "text": "  We at covad would like to take this moment to say \"\"Bend Over"
+    },
+    {
+        "userId": 11,
+        "text": "when they annouced closing of a bunch of COs"
+    },
+    {
+        "userId": 12,
+        "text": "Take Care"
+    },
+    {
+        "userId": 11,
+        "text": "jamest: this is partly also the result of non-paying customers.. not ISPs"
+    },
+    {
+        "userId": 11,
+        "text": "BlueStar has excellent pricing and service IMO"
+    },
+    {
+        "userId": 5,
+        "text": "It is the result of their wholesale accounts"
+    },
+    {
+        "userId": 11,
+        "text": "I get 50ms latency across multiple backbones"
+    },
+    {
+        "userId": 5,
+        "text": "not paying"
+    },
+    {
+        "userId": 5,
+        "text": "not their immediate customers"
+    },
+    {
+        "userId": 11,
+        "text": "jcater: they have also specificly mentioned \"\"business customers"
+    },
+    {
+        "userId": 5,
+        "text": "I was told that's what they were referring to"
+    },
+    {
+        "userId": 5,
+        "text": "they could only collect"
+    },
+    {
+        "userId": 5,
+        "text": "30% of their wholesale business"
+    },
+    {
+        "userId": 5,
+        "text": "that's what I was told by my rep at least"
+    },
+    {
+        "userId": 9,
+        "text": "re"
+    },
+    {
+        "userId": 11,
+        "text": "yeah thats probably the main part of it.."
+    },
+    {
+        "userId": 11,
+        "text": "I hope my CO is still not affected"
+    },
+    {
+        "userId": 5,
+        "text": "that's ok"
+    },
+    {
+        "userId": 11,
+        "text": "for one I'm getting free rent where my servers are"
+    },
+    {
+        "userId": 5,
+        "text": "and getting 400K"
+    },
+    {
+        "userId": 5,
+        "text": "service :)"
+    },
+    {
+        "userId": 5,
+        "text": "I think that'll be enough to host our smaller"
+    },
+    {
+        "userId": 5,
+        "text": "websites in house"
+    },
+    {
+        "userId": 5,
+        "text": "(I hope"
+    },
+    {
+        "userId": 11,
+        "text": "should be.."
+    },
+    {
+        "userId": 11,
+        "text": "I know one site was capable of around 600k-1000k hits per day with around 384kbps.."
+    },
+    {
+        "userId": 11,
+        "text": "heavy on the CGI too"
+    },
+    {
+        "userId": 5,
+        "text": "coolness"
+    },
+    {
+        "userId": 11,
+        "text": "one game he wrote was so CGI/processor heavy that it would have required a dual or quad box ;-)"
+    },
+    {
+        "userId": 12,
+        "text": "quick lunch"
+    },
+    {
+        "userId": 5,
+        "text": "pizza! pizza!"
+    },
+    {
+        "userId": 9,
+        "text": "hello ppl"
+    },
+    {
+        "userId": 5,
+        "text": "hello chillywilly"
+    },
+    {
+        "userId": 9,
+        "text": "hiya"
+    },
+    {
+        "userId": 14,
+        "text": "scp me some"
+    },
+    {
+        "userId": 14,
+        "text": "pizza that is"
+    },
+    {
+        "userId": 5,
+        "text": "I only had two slices"
+    },
+    {
+        "userId": 5,
+        "text": "(note the *had*)"
+    },
+    {
+        "userId": 9,
+        "text": "just hoovered them up eh?"
+    },
+    {
+        "userId": 9,
+        "text": "see the k5 article about the M$ ruling?"
+    },
+    {
+        "userId": 5,
+        "text": "where"
+    },
+    {
+        "userId": 9,
+        "text": "hold on"
+    },
+    {
+        "userId": 9,
+        "text": "http://www.kuro5hin.org/?op=displaystory;sid=2001/6/29/04129/3033"
+    },
+    {
+        "userId": 9,
+        "text": "oh here's a good one:"
+    },
+    {
+        "userId": 9,
+        "text": "http://www.gnu.org/philosophy/microsoft-antitrust.html"
+    },
+    {
+        "userId": 9,
+        "text": "Arguing with an Electrical Engineer is liking wrestling with a pig in mud"
+    },
+    {
+        "userId": 9,
+        "text": "s/Electrical//"
+    },
+    {
+        "userId": 4,
+        "text": "I'm king of the world!"
+    },
+    {
+        "userId": 9,
+        "text": "no you're not!"
+    },
+    {
+        "userId": 4,
+        "text": "Yes I am"
+    },
+    {
+        "userId": 9,
+        "text": "nope"
+    },
+    {
+        "userId": 4,
+        "text": "i'm afraid so"
+    },
+    {
+        "userId": 5,
+        "text": "Can I be the Jester of the World?"
+    },
+    {
+        "userId": 9,
+        "text": "yes you can"
+    },
+    {
+        "userId": 4,
+        "text": "jcater: sure"
+    },
+    {
+        "userId": 4,
+        "text": "I decree it"
+    },
+    {
+        "userId": 9,
+        "text": "oh wait that's nickr's job"
+    },
+    {
+        "userId": 5,
+        "text": "king nickr concurs!"
+    },
+    {
+        "userId": 5,
+        "text": ":)"
+    },
+    {
+        "userId": 9,
+        "text": "I am the village idiot of the world"
+    },
+    {
+        "userId": 5,
+        "text": "if you so wish"
+    },
+    {
+        "userId": 4,
+        "text": "So be it!"
+    },
+    {
+        "userId": 9,
+        "text": "lksdhvlkjash d;k jhS;KJDH FLKJS HDF ;KJHSDJFKLHLSKJDHFLKSJHDKLJHSDLKFJHLSKJDHF;KSJDHVG"
+    },
+    {
+        "userId": 5,
+        "text": "those keys sticky again?"
+    },
+    {
+        "userId": 4,
+        "text": "when keyboards attack"
+    },
+    {
+        "userId": 5,
+        "text": "it's always an ugly sight"
+    },
+    {
+        "userId": 9,
+        "text": "no"
+    },
+    {
+        "userId": 9,
+        "text": "I am alos a crazy village idoit"
+    },
+    {
+        "userId": 9,
+        "text": "only if t king nickr decrees so though"
+    },
+    {
+        "userId": 5,
+        "text": "I don't think he has to confirm such unpleasantries.  The Jester can vouch for you."
+    },
+    {
+        "userId": 4,
+        "text": "We already decreed it"
+    },
+    {
+        "userId": 5,
+        "text": "hi neilt"
+    },
+    {
+        "userId": 14,
+        "text": "chillywilly you spillng 'soda' again?"
+    },
+    {
+        "userId": 16,
+        "text": "jcater: hey"
+    },
+    {
+        "userId": 9,
+        "text": "dneighbo: what do you call it 'pop'?"
+    },
+    {
+        "userId": 9,
+        "text": "neilt: what do you call it"
+    },
+    {
+        "userId": 14,
+        "text": "rofl"
+    },
+    {
+        "userId": 4,
+        "text": "We decree that the use of the word 'pop' to describe soda will be punnishable by fifty lashings in the town square"
+    },
+    {
+        "userId": 9,
+        "text": "s/"
+    },
+    {
+        "userId": 9,
+        "text": "nope"
+    },
+    {
+        "userId": 16,
+        "text": "chillywilly: call what?"
+    },
+    {
+        "userId": 9,
+        "text": "thought you were making fun of me again"
+    },
+    {
+        "userId": 14,
+        "text": "re: sticky keys"
+    },
+    {
+        "userId": 16,
+        "text": "chillywilly: again :)"
+    },
+    {
+        "userId": 16,
+        "text": "you mean always :)"
+    },
+    {
+        "userId": 9,
+        "text": "scotty spilled iot"
+    },
+    {
+        "userId": 9,
+        "text": "not me"
+    },
+    {
+        "userId": 9,
+        "text": "I yelled at him too"
+    },
+    {
+        "userId": 12,
+        "text": "note to chillywilly - it's just a keyboard"
+    },
+    {
+        "userId": 12,
+        "text": "was putting in new tile floor in kitchen and had disconnected dishwasher to get it out of way"
+    },
+    {
+        "userId": 12,
+        "text": "was using sink when it hit me"
+    },
+    {
+        "userId": 12,
+        "text": "checked the line and it was pouring water onto floor"
+    },
+    {
+        "userId": 12,
+        "text": "then dumping it right on the monitor top to make a nice sprinkler effect"
+    },
+    {
+        "userId": 12,
+        "text": "I poured water from the keyboard"
+    },
+    {
+        "userId": 12,
+        "text": ":)"
+    },
+    {
+        "userId": 12,
+        "text": "everything else survived :)"
+    },
+    {
+        "userId": 5,
+        "text": "and surprisingly jamest_ came out unscathed"
+    },
+    {
+        "userId": 5,
+        "text": "(by wife"
+    },
+    {
+        "userId": 12,
+        "text": "yip"
+    },
+    {
+        "userId": 14,
+        "text": "haha"
+    },
+    {
+        "userId": 14,
+        "text": "in skimming logs"
+    },
+    {
+        "userId": 14,
+        "text": "translyvanian gov looked at gnue"
+    },
+    {
+        "userId": 12,
+        "text": "?"
+    },
+    {
+        "userId": 12,
+        "text": "that's funny?"
+    },
+    {
+        "userId": 14,
+        "text": "well kind"
+    },
+    {
+        "userId": 12,
+        "text": "first thing I thought of was rocky horror picture show"
+    },
+    {
+        "userId": 12,
+        "text": "dneighbo: you at home?"
+    },
+    {
+        "userId": 3,
+        "text": "am I here this time?"
+    },
+    {
+        "userId": 14,
+        "text": "i think so"
+    },
+    {
+        "userId": 3,
+        "text": "good"
+    },
+    {
+        "userId": 14,
+        "text": "logs are a funny thing"
+    },
+    {
+        "userId": 3,
+        "text": "why?"
+    },
+    {
+        "userId": 3,
+        "text": "btw - debian woody still uses python 1.5.2"
+    },
+    {
+        "userId": 3,
+        "text": "which I take to mean next debian release will be 1.5.2 based not 2.0"
+    },
+    {
+        "userId": 3,
+        "text": "what is newest redhat using?"
+    },
+    {
+        "userId": 5,
+        "text": "RedHat 7.1 -&gt; python 1.5.2"
+    },
+    {
+        "userId": 5,
+        "text": ":("
+    },
+    {
+        "userId": 3,
+        "text": "so if we update we're probably going to have a problem"
+    },
+    {
+        "userId": 3,
+        "text": ":("
+    },
+    {
+        "userId": 14,
+        "text": "hold up"
+    },
+    {
+        "userId": 14,
+        "text": "this is a half and half problem"
+    },
+    {
+        "userId": 14,
+        "text": "the first real viable on large scale version of gnue"
+    },
+    {
+        "userId": 3,
+        "text": "i thought you got that from the store in the dairy section"
+    },
+    {
+        "userId": 14,
+        "text": "probably wont hit until next rev of distros anyhow"
+    },
+    {
+        "userId": 14,
+        "text": "which will have 2.x"
+    },
+    {
+        "userId": 3,
+        "text": "woody is the next debian"
+    },
+    {
+        "userId": 3,
+        "text": "and it has 1.5.2"
+    },
+    {
+        "userId": 14,
+        "text": "so we are talking about different group"
+    },
+    {
+        "userId": 14,
+        "text": "BUT"
+    },
+    {
+        "userId": 14,
+        "text": "the other part of this"
+    },
+    {
+        "userId": 14,
+        "text": "is unlike some applications"
+    },
+    {
+        "userId": 14,
+        "text": "2.x and 1.5.2 coexist nicely"
+    },
+    {
+        "userId": 14,
+        "text": "from what i can tell"
+    },
+    {
+        "userId": 14,
+        "text": "to me it depends on if we are building for future or for now"
+    },
+    {
+        "userId": 14,
+        "text": "i.e. do we plan mass deployment of GNUe really soon?"
+    },
+    {
+        "userId": 14,
+        "text": "if we do"
+    },
+    {
+        "userId": 14,
+        "text": "then 1.5.2 is right choice"
+    },
+    {
+        "userId": 14,
+        "text": "if we plan on limited distribution now"
+    },
+    {
+        "userId": 14,
+        "text": "(except to technology people and early adopters)"
+    },
+    {
+        "userId": 14,
+        "text": "then we are better off using 2.x"
+    },
+    {
+        "userId": 14,
+        "text": "my point being"
+    },
+    {
+        "userId": 14,
+        "text": "for example"
+    },
+    {
+        "userId": 14,
+        "text": "until GNUe its self were in woody"
+    },
+    {
+        "userId": 14,
+        "text": "should we really say our dependencies must be in woody :)"
+    },
+    {
+        "userId": 14,
+        "text": "btw: im all 1.5.2 now on linux adn 2.0 on windows"
+    },
+    {
+        "userId": 14,
+        "text": "so the next effect of this choice has little to no bearing on me"
+    },
+    {
+        "userId": 14,
+        "text": ":)"
+    },
+    {
+        "userId": 14,
+        "text": "and they all ran off. :)"
+    },
+    {
+        "userId": 3,
+        "text": "run away run away"
+    },
+    {
+        "userId": 3,
+        "text": "I'm cool with whatever just pointing out what I noticed"
+    },
+    {
+        "userId": 9,
+        "text": "does this mean I can use glib 2.0?!?"
+    },
+    {
+        "userId": 9,
+        "text": "j/k"
+    },
+    {
+        "userId": 3,
+        "text": ":)"
+    },
+    {
+        "userId": 3,
+        "text": "gnue system requirements"
+    },
+    {
+        "userId": 9,
+        "text": "GObject is so much nicer"
+    },
+    {
+        "userId": 3,
+        "text": "python - cvs 7/15/2001"
+    },
+    {
+        "userId": 9,
+        "text": "ah"
+    },
+    {
+        "userId": 3,
+        "text": "glib - cvs 7/14/2001"
+    },
+    {
+        "userId": 3,
+        "text": "wxWindows - cvs 6/14/2001 thru 6/16/2001 (nothing newer/older)"
+    },
+    {
+        "userId": 3,
+        "text": "FAQ #1 - Why does GNUe require cvs everything?"
+    },
+    {
+        "userId": 9,
+        "text": "because we like ti that way"
+    },
+    {
+        "userId": 9,
+        "text": "s/ti/it"
+    },
+    {
+        "userId": 3,
+        "text": "A: You dont like it?!  Why do you go crying home to mommy?  Loser."
+    },
+    {
+        "userId": 14,
+        "text": "rofl"
+    },
+    {
+        "userId": 14,
+        "text": "just for clarification"
+    },
+    {
+        "userId": 14,
+        "text": "usually i am against going newer stuff"
+    },
+    {
+        "userId": 14,
+        "text": "BUT"
+    },
+    {
+        "userId": 14,
+        "text": "since i think our realistic adoption date for most"
+    },
+    {
+        "userId": 14,
+        "text": "is &gt; 6months"
+    },
+    {
+        "userId": 14,
+        "text": "im not too worried"
+    },
+    {
+        "userId": 14,
+        "text": "but in case of something like a new gnome"
+    },
+    {
+        "userId": 14,
+        "text": "orbit"
+    },
+    {
+        "userId": 14,
+        "text": "i am more leary if a package cant co exist with older version"
+    },
+    {
+        "userId": 9,
+        "text": "no seriously though"
+    },
+    {
+        "userId": 9,
+        "text": "really"
+    },
+    {
+        "userId": 9,
+        "text": "probably sysdamins anyway"
+    },
+    {
+        "userId": 3,
+        "text": "get this....I pull laptop from drawer (i was last to use it)"
+    },
+    {
+        "userId": 3,
+        "text": "the poweron username default"
+    },
+    {
+        "userId": 3,
+        "text": "the password ***********"
+    },
+    {
+        "userId": 9,
+        "text": "don't you think people could handle compiling a newer lib?"
+    },
+    {
+        "userId": 3,
+        "text": "i change the name to jamest and press enter"
+    },
+    {
+        "userId": 3,
+        "text": "the piece of shit remember my password"
+    },
+    {
+        "userId": 3,
+        "text": "why in the name of all that is good would the damn thing save the password of the last person to use it"
+    },
+    {
+        "userId": 9,
+        "text": "we could even make it easy for them and package up some things for them to install"
+    },
+    {
+        "userId": 3,
+        "text": "i think that ight be pushing a bit chillywilly"
+    },
+    {
+        "userId": 3,
+        "text": "is'nt 2.0 still cvs only"
+    },
+    {
+        "userId": 9,
+        "text": "yes"
+    },
+    {
+        "userId": 9,
+        "text": "some inheritance would be nice"
+    },
+    {
+        "userId": 9,
+        "text": "doesn't matter now"
+    },
+    {
+        "userId": 3,
+        "text": ":)"
+    },
+    {
+        "userId": 9,
+        "text": "er"
+    },
+    {
+        "userId": 9,
+        "text": "someone is playing with services"
+    },
+    {
+        "userId": 9,
+        "text": "isn;t that nice how to topic stays now?"
+    },
+    {
+        "userId": 9,
+        "text": ":)"
+    },
+    {
+        "userId": 3,
+        "text": ":)"
+    },
+    {
+        "userId": 14,
+        "text": "um yeah real nice"
+    },
+    {
+        "userId": 14,
+        "text": "too bad we have to reset it weekly cause it dies"
+    },
+    {
+        "userId": 14,
+        "text": "btw: i spoke with lilo for a few hours the other night"
+    },
+    {
+        "userId": 14,
+        "text": "really cool guy"
+    },
+    {
+        "userId": 9,
+        "text": "lilo is a nice guy"
+    },
+    {
+        "userId": 14,
+        "text": "was asking him about conferencing technologies etc"
+    },
+    {
+        "userId": 14,
+        "text": "that oculd perhaps be used"
+    },
+    {
+        "userId": 9,
+        "text": "dneighbo: I know it doesn't always come back"
+    },
+    {
+        "userId": 14,
+        "text": "say using OPN's network"
+    },
+    {
+        "userId": 14,
+        "text": "and we started talking (well he started educating me on some of it)"
+    },
+    {
+        "userId": 9,
+        "text": "really?!?"
+    },
+    {
+        "userId": 14,
+        "text": "there is a neat project they are doing"
+    },
+    {
+        "userId": 14,
+        "text": "called corridors"
+    },
+    {
+        "userId": 14,
+        "text": "that woudl be IMHO"
+    },
+    {
+        "userId": 14,
+        "text": "a possible way to circumvent"
+    },
+    {
+        "userId": 14,
+        "text": "current EDI technology and way of thinking"
+    },
+    {
+        "userId": 14,
+        "text": "so got talking to him about it more"
+    },
+    {
+        "userId": 14,
+        "text": "i definitely will be keeping tabs on it"
+    },
+    {
+        "userId": 9,
+        "text": "EDI == Enterprise Data Interface?"
+    },
+    {
+        "userId": 14,
+        "text": "http://corridors.sourceforge.net/"
+    },
+    {
+        "userId": 14,
+        "text": "EDI = Electronic Data Interchange"
+    },
+    {
+        "userId": 14,
+        "text": "currently EDI is how ALL major retail vendors"
+    },
+    {
+        "userId": 14,
+        "text": "swap goods"
+    },
+    {
+        "userId": 14,
+        "text": "there are about 3 to 5 large EDI providers (VAN's)"
+    },
+    {
+        "userId": 9,
+        "text": "hrrrmm"
+    },
+    {
+        "userId": 14,
+        "text": "VAN == Value Added Network"
+    },
+    {
+        "userId": 14,
+        "text": "they cost is OBNOXIOUS"
+    },
+    {
+        "userId": 14,
+        "text": "to transport documents"
+    },
+    {
+        "userId": 14,
+        "text": "chillywilly : to put in perspective"
+    },
+    {
+        "userId": 14,
+        "text": "client here"
+    },
+    {
+        "userId": 14,
+        "text": "doing maybe 30 million in business"
+    },
+    {
+        "userId": 14,
+        "text": "is paying next to 35k per MONTH"
+    },
+    {
+        "userId": 14,
+        "text": "for EDI services"
+    },
+    {
+        "userId": 14,
+        "text": "mind you"
+    },
+    {
+        "userId": 14,
+        "text": "this service does NOTHING"
+    },
+    {
+        "userId": 14,
+        "text": "other than transport data"
+    },
+    {
+        "userId": 14,
+        "text": "which last time i checked"
+    },
+    {
+        "userId": 14,
+        "text": "the internet does pretty well"
+    },
+    {
+        "userId": 14,
+        "text": "so its a routing issue"
+    },
+    {
+        "userId": 14,
+        "text": "to make sure mailbags of EDI sets"
+    },
+    {
+        "userId": 14,
+        "text": "go to right place"
+    },
+    {
+        "userId": 14,
+        "text": "the idea is make a free version of this"
+    },
+    {
+        "userId": 14,
+        "text": "and use internet as transport"
+    },
+    {
+        "userId": 14,
+        "text": "and do some nominal"
+    },
+    {
+        "userId": 14,
+        "text": "fee to cover server costs"
+    },
+    {
+        "userId": 14,
+        "text": "of the routing hubs"
+    },
+    {
+        "userId": 14,
+        "text": "BUT"
+    },
+    {
+        "userId": 14,
+        "text": "you see"
+    },
+    {
+        "userId": 14,
+        "text": "corridors might circumvent this"
+    },
+    {
+        "userId": 14,
+        "text": "with its more p2p nature"
+    },
+    {
+        "userId": 14,
+        "text": "when you bundle a mailbag"
+    },
+    {
+        "userId": 14,
+        "text": "it goes out in the hall"
+    },
+    {
+        "userId": 14,
+        "text": "walks down the cooridor"
+    },
+    {
+        "userId": 14,
+        "text": "and sees if you partner is home"
+    },
+    {
+        "userId": 14,
+        "text": "if they are"
+    },
+    {
+        "userId": 14,
+        "text": "then it drops them a mail bag"
+    },
+    {
+        "userId": 14,
+        "text": "other wise it returns home"
+    },
+    {
+        "userId": 14,
+        "text": "(oversimplified of course)"
+    },
+    {
+        "userId": 14,
+        "text": "but now you ahve eliminated the REAL barrier for Free Software to become a stake holder in this game"
+    },
+    {
+        "userId": 14,
+        "text": "and is costly VAN data centers for routing/hubbing"
+    },
+    {
+        "userId": 9,
+        "text": "interesting"
+    },
+    {
+        "userId": 9,
+        "text": "I like p2p technologies"
+    },
+    {
+        "userId": 9,
+        "text": "they give the power back to the useres"
+    },
+    {
+        "userId": 9,
+        "text": "in a sense"
+    },
+    {
+        "userId": 4,
+        "text": "erm"
+    },
+    {
+        "userId": 4,
+        "text": "unless they are like Napster"
+    },
+    {
+        "userId": 9,
+        "text": "napster isn't true p2p"
+    },
+    {
+        "userId": 4,
+        "text": "True"
+    },
+    {
+        "userId": 4,
+        "text": "Hrm"
+    },
+    {
+        "userId": 9,
+        "text": "nickr: ?"
+    },
+    {
+        "userId": 9,
+        "text": "hi Mr_You"
+    },
+    {
+        "userId": 4,
+        "text": "chillywilly: www.grawk.net/news/"
+    },
+    {
+        "userId": 11,
+        "text": "hi"
+    },
+    {
+        "userId": 9,
+        "text": "why is it call onThursday?"
+    },
+    {
+        "userId": 9,
+        "text": "called"
+    },
+    {
+        "userId": 4,
+        "text": "chillywilly: because its supposed to come out on thursday"
+    },
+    {
+        "userId": 14,
+        "text": "bye all wish me luck"
+    },
+    {
+        "userId": 4,
+        "text": "good"
+    },
+    {
+        "userId": 4,
+        "text": "woop"
+    },
+    {
+        "userId": 4,
+        "text": "its just hard to get motivated to write it when no one sends any news items"
+    },
+    {
+        "userId": 9,
+        "text": "luck on what?"
+    },
+    {
+        "userId": 11,
+        "text": "pitchin GNUe to hotel directors"
+    },
+    {
+        "userId": 9,
+        "text": "aaaah"
+    },
+    {
+        "userId": 9,
+        "text": "for that contract job eh?"
+    },
+    {
+        "userId": 9,
+        "text": "oh I remember now"
+    },
+    {
+        "userId": 11,
+        "text": "pI dunno"
+    },
+    {
+        "userId": 9,
+        "text": "he was talking about this the pther day"
+    },
+    {
+        "userId": 17,
+        "text": "jamest: you there?"
+    },
+    {
+        "userId": 9,
+        "text": "hi sklein"
+    },
+    {
+        "userId": 17,
+        "text": "hi chillywilly"
+    },
+    {
+        "userId": 17,
+        "text": "what's happening?"
+    },
+    {
+        "userId": 9,
+        "text": "doing a little designing"
+    },
+    {
+        "userId": 17,
+        "text": "with designer?"
+    },
+    {
+        "userId": 9,
+        "text": "no"
+    },
+    {
+        "userId": 9,
+        "text": "for GEAS"
+    },
+    {
+        "userId": 17,
+        "text": "ahhh"
+    },
+    {
+        "userId": 17,
+        "text": "what's that?"
+    },
+    {
+        "userId": 17,
+        "text": "will that handle business logic?"
+    },
+    {
+        "userId": 9,
+        "text": "the library that  takes care of executing methods of the business objects"
+    },
+    {
+        "userId": 9,
+        "text": "yes"
+    },
+    {
+        "userId": 3,
+        "text": "sklein: here"
+    },
+    {
+        "userId": 17,
+        "text": "are you looking at Louis's theory of op stuff?"
+    },
+    {
+        "userId": 3,
+        "text": "me? when did he post it"
+    },
+    {
+        "userId": 3,
+        "text": "?"
+    },
+    {
+        "userId": 17,
+        "text": "jamest: that was for chilly"
+    },
+    {
+        "userId": 9,
+        "text": "ummm"
+    },
+    {
+        "userId": 9,
+        "text": "I do not do much with the packages"
+    },
+    {
+        "userId": 17,
+        "text": "my question for you is this: I think we are getting close to needing a startup screen that switches to various forms"
+    },
+    {
+        "userId": 9,
+        "text": "er"
+    },
+    {
+        "userId": 9,
+        "text": "I just"
+    },
+    {
+        "userId": 17,
+        "text": "would it be a waste of my time to try and hack the wxPython demo to create something?"
+    },
+    {
+        "userId": 17,
+        "text": "jamest: did you get my question?"
+    },
+    {
+        "userId": 17,
+        "text": "chillywilly: I'll get back to you in a bit.  Two conversations is an overload for me :)"
+    },
+    {
+        "userId": 9,
+        "text": "k"
+    },
+    {
+        "userId": 17,
+        "text": "jamest: did you get my question about the startup screen?"
+    },
+    {
+        "userId": 17,
+        "text": "jamest: I guess you stepped away.  I was asking about the screen -- call it a startup screen or a business process screen -- that controls what forms are brought up"
+    },
+    {
+        "userId": 17,
+        "text": "I would expect it to contain a menu and a bunch of tables that call gnuef with whatever.gfd"
+    },
+    {
+        "userId": 17,
+        "text": "BTW"
+    },
+    {
+        "userId": 17,
+        "text": "you are = youre"
+    },
+    {
+        "userId": 17,
+        "text": "youre = your"
+    },
+    {
+        "userId": 11,
+        "text": "has Stan"
+    },
+    {
+        "userId": 17,
+        "text": "chillywilly: Louis posts at pages.infinit.net/chalou  His stuff includes theory of op that implies business logic for the accounting system.  Thats what I was asking about"
+    },
+    {
+        "userId": 17,
+        "text": "Mr_You did you see my picture at www.lastchancejazz.com?"
+    },
+    {
+        "userId": 3,
+        "text": "sklein: I can add that to the todo"
+    },
+    {
+        "userId": 3,
+        "text": "not quite what we had in mind long term"
+    },
+    {
+        "userId": 9,
+        "text": "sklein: the modules/package people will be writing the python code to implement the business logic"
+    },
+    {
+        "userId": 3,
+        "text": "but it ought to be any easy hack"
+    },
+    {
+        "userId": 17,
+        "text": "jamest: would it be a waste of my time to try and hack it up from the wxPython demo?"
+    },
+    {
+        "userId": 17,
+        "text": "it would be a learning experience"
+    },
+    {
+        "userId": 17,
+        "text": "as well"
+    },
+    {
+        "userId": 9,
+        "text": "I am just making methods so you can plug other languages in there and so it runs methods in another process so methods cannot crash the netire server"
+    },
+    {
+        "userId": 11,
+        "text": "I don't see any pictures"
+    },
+    {
+        "userId": 3,
+        "text": "well"
+    },
+    {
+        "userId": 3,
+        "text": "that would be fine"
+    },
+    {
+        "userId": 3,
+        "text": "you talking the demo framework"
+    },
+    {
+        "userId": 17,
+        "text": "Mr_You: you need to look at the LC Jazz Band and then click on tittletattle"
+    },
+    {
+        "userId": 3,
+        "text": "or just using the demo samples"
+    },
+    {
+        "userId": 17,
+        "text": "jamest: I would be using mostly the demo main"
+    },
+    {
+        "userId": 3,
+        "text": "something else to keep in mind"
+    },
+    {
+        "userId": 17,
+        "text": "and substituting a table for theirs"
+    },
+    {
+        "userId": 17,
+        "text": "and getting rid of a lot of stuff"
+    },
+    {
+        "userId": 3,
+        "text": "if we do cross platform gnuef (a must) then a wxpython based launcher is of limited use"
+    },
+    {
+        "userId": 3,
+        "text": "but I'm not about to stop you from doing it"
+    },
+    {
+        "userId": 11,
+        "text": "cool"
+    },
+    {
+        "userId": 11,
+        "text": "how long you been playing those?"
+    },
+    {
+        "userId": 17,
+        "text": "jamest: you talking about curses based stuff?"
+    },
+    {
+        "userId": 17,
+        "text": "Mr_You: oh"
+    },
+    {
+        "userId": 3,
+        "text": "curses yes"
+    },
+    {
+        "userId": 3,
+        "text": "and eventually html"
+    },
+    {
+        "userId": 3,
+        "text": "but I'm not sure it'd apply there"
+    },
+    {
+        "userId": 17,
+        "text": "html?"
+    },
+    {
+        "userId": 17,
+        "text": "web based later"
+    },
+    {
+        "userId": 3,
+        "text": "yes"
+    },
+    {
+        "userId": 11,
+        "text": "I've been playing guitar for about 12 years total.. starting my jazz phase"
+    },
+    {
+        "userId": 3,
+        "text": "gnuef UI system is via drivers"
+    },
+    {
+        "userId": 3,
+        "text": "it's undergoing a cleanup soon"
+    },
+    {
+        "userId": 17,
+        "text": "jamest:  I guess we will need two versions then or is it possible to do both with the same code?"
+    },
+    {
+        "userId": 3,
+        "text": "hmmmm"
+    },
+    {
+        "userId": 3,
+        "text": "if you keep it clean and not completely bury app logic in the UI"
+    },
+    {
+        "userId": 11,
+        "text": "is this a \"\"workaround\"\" for the multiple forms in one client request?"
+    },
+    {
+        "userId": 3,
+        "text": "then we can reuse much of the code I'd hope"
+    },
+    {
+        "userId": 3,
+        "text": "it's possible to do with same code"
+    },
+    {
+        "userId": 3,
+        "text": "ideally what you want would just be a fancy gfd file"
+    },
+    {
+        "userId": 17,
+        "text": "I'd hope to extend it to do business processes"
+    },
+    {
+        "userId": 3,
+        "text": "but our triggers are not to the point yet we can do this easily"
+    },
+    {
+        "userId": 17,
+        "text": "where there were steps of the process and you picked the step you wanted to do"
+    },
+    {
+        "userId": 3,
+        "text": "you're talking workflow right"
+    },
+    {
+        "userId": 17,
+        "text": "not exactly yet"
+    },
+    {
+        "userId": 17,
+        "text": "just business processes"
+    },
+    {
+        "userId": 3,
+        "text": "gotcha"
+    },
+    {
+        "userId": 3,
+        "text": "click here to enter a sale"
+    },
+    {
+        "userId": 3,
+        "text": "here to write a check"
+    },
+    {
+        "userId": 17,
+        "text": "eventually"
+    },
+    {
+        "userId": 3,
+        "text": "etc"
+    },
+    {
+        "userId": 17,
+        "text": "exactly"
+    },
+    {
+        "userId": 3,
+        "text": "man"
+    },
+    {
+        "userId": 3,
+        "text": "argh"
+    },
+    {
+        "userId": 3,
+        "text": "hmmmm"
+    },
+    {
+        "userId": 3,
+        "text": "and you're not talking about a worring about limiting what  users see based on who they are"
+    },
+    {
+        "userId": 17,
+        "text": "well"
+    },
+    {
+        "userId": 3,
+        "text": "eventually being the key word :)"
+    },
+    {
+        "userId": 17,
+        "text": "if it isn't on the screen they can't do it can they :)"
+    },
+    {
+        "userId": 3,
+        "text": "i wonder if you could just extend the gfd syntax to include a task attribute for forms"
+    },
+    {
+        "userId": 17,
+        "text": "and if they can't see the gfd they can't do it unless they can hack geas"
+    },
+    {
+        "userId": 17,
+        "text": "task attribute?"
+    },
+    {
+        "userId": 3,
+        "text": "then have your app parse forms in the forms dir at sstartup"
+    },
+    {
+        "userId": 17,
+        "text": "ahhh"
+    },
+    {
+        "userId": 17,
+        "text": "self-registration"
+    },
+    {
+        "userId": 3,
+        "text": "right"
+    },
+    {
+        "userId": 3,
+        "text": "then it just presents a list of tasks defined"
+    },
+    {
+        "userId": 17,
+        "text": "however"
+    },
+    {
+        "userId": 3,
+        "text": "if a form doesn't have a task listed then it doesn't appear"
+    },
+    {
+        "userId": 3,
+        "text": "yes"
+    },
+    {
+        "userId": 3,
+        "text": "Or"
+    },
+    {
+        "userId": 17,
+        "text": "so it might be better for the process list to control"
+    },
+    {
+        "userId": 17,
+        "text": "things"
+    },
+    {
+        "userId": 3,
+        "text": "have a task.conf in the /usr/local/gnue/etc dir"
+    },
+    {
+        "userId": 3,
+        "text": "where you could define tasks"
+    },
+    {
+        "userId": 3,
+        "text": "and forms for tasks"
+    },
+    {
+        "userId": 17,
+        "text": "that could be the location of the table"
+    },
+    {
+        "userId": 17,
+        "text": "the business process table"
+    },
+    {
+        "userId": 17,
+        "text": "It might also be the answer of now I do this without screwing up the clean cvs I just created"
+    },
+    {
+        "userId": 3,
+        "text": "I'm just thinking if you can do alot of the planning/config outside the app"
+    },
+    {
+        "userId": 3,
+        "text": "then we can hook into it with anything we need later"
+    },
+    {
+        "userId": 3,
+        "text": "argh!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+    },
+    {
+        "userId": 17,
+        "text": "I would prefer creating just a table"
+    },
+    {
+        "userId": 17,
+        "text": "why the arghhh!!!???"
+    },
+    {
+        "userId": 9,
+        "text": "what did you do now jamest?"
+    },
+    {
+        "userId": 9,
+        "text": ";)"
+    },
+    {
+        "userId": 3,
+        "text": "windows"
+    },
+    {
+        "userId": 3,
+        "text": "table in what format?"
+    },
+    {
+        "userId": 17,
+        "text": "some kind of delimiting"
+    },
+    {
+        "userId": 17,
+        "text": "ASCII"
+    },
+    {
+        "userId": 17,
+        "text": "file naming bothering you?"
+    },
+    {
+        "userId": 3,
+        "text": "no"
+    },
+    {
+        "userId": 17,
+        "text": "what about windows python?"
+    },
+    {
+        "userId": 3,
+        "text": "distutils on windows and distutils on unix don't work the same"
+    },
+    {
+        "userId": 3,
+        "text": "for a small module installed in the default location you're fine"
+    },
+    {
+        "userId": 3,
+        "text": "when installing a real app you are oh so toast"
+    },
+    {
+        "userId": 3,
+        "text": "sklein: the table would be ok but I suggest you look at the modules page on python.org"
+    },
+    {
+        "userId": 17,
+        "text": "OK"
+    },
+    {
+        "userId": 3,
+        "text": "as they have lots of work already done for you"
+    },
+    {
+        "userId": 3,
+        "text": "we're using their config system in gnue-common for the connections file and gead.conf"
+    },
+    {
+        "userId": 3,
+        "text": "geas.conf"
+    },
+    {
+        "userId": 3,
+        "text": "and it's dead simple to use"
+    },
+    {
+        "userId": 17,
+        "text": "OK I'll look at it.  If I fall flat"
+    },
+    {
+        "userId": 17,
+        "text": "Nothing ventured nothing gained"
+    },
+    {
+        "userId": 17,
+        "text": "jamest: second item.  FYI I'm preparing a tickler email to the group at Singapore U.  It's been about a month since I heard from them"
+    },
+    {
+        "userId": 3,
+        "text": "can you refresh my memory"
+    },
+    {
+        "userId": 3,
+        "text": "is this the group trying to get into gov"
+    },
+    {
+        "userId": 17,
+        "text": "They have the paper on XML templating (or what they call frames)"
+    },
+    {
+        "userId": 17,
+        "text": "I asked for further info.  They responded they were interested but that was a month ago"
+    },
+    {
+        "userId": 17,
+        "text": "since we seem to be escalating progress"
+    },
+    {
+        "userId": 3,
+        "text": "ok"
+    },
+    {
+        "userId": 17,
+        "text": "and I think they have the tool"
+    },
+    {
+        "userId": 17,
+        "text": "just an FYI for you and derek"
+    },
+    {
+        "userId": 17,
+        "text": "at least I want to know more about their XML commands"
+    },
+    {
+        "userId": 17,
+        "text": "so if we have to do it ourselves we will have a better idea of how they do it"
+    },
+    {
+        "userId": 17,
+        "text": "well"
+    },
+    {
+        "userId": 3,
+        "text": "l8r sklein"
+    },
+    {
+        "userId": 3,
+        "text": "damn windows"
+    },
+    {
+        "userId": 3,
+        "text": "get this error"
+    },
+    {
+        "userId": 3,
+        "text": "Case mismatch for module name GConfig"
+    },
+    {
+        "userId": 3,
+        "text": "but I can't change it as unix is case sensitive"
+    },
+    {
+        "userId": 4,
+        "text": "haha"
+    },
+    {
+        "userId": 4,
+        "text": "hahahah"
+    },
+    {
+        "userId": 9,
+        "text": "windows is so friggin lame"
+    },
+    {
+        "userId": 3,
+        "text": "l8r"
+    },
+    {
+        "userId": 11,
+        "text": "man compaq is rockin.."
+    },
+    {
+        "userId": 9,
+        "text": "why?"
+    },
+    {
+        "userId": 11,
+        "text": "GPLing Linux kernel patches for clustering"
+    },
+    {
+        "userId": 11,
+        "text": "opensource.compaq.com"
+    },
+    {
+        "userId": 9,
+        "text": "kewl"
+    },
+    {
+        "userId": 11,
+        "text": "I guess they are porting their Unixware (SCO) code to linux"
+    },
+    {
+        "userId": 4,
+        "text": "Neat"
+    },
+    {
+        "userId": 4,
+        "text": "compaq is"
+    },
+    {
+        "userId": 4,
+        "text": "well"
+    },
+    {
+        "userId": 11,
+        "text": "the fact that its going to be GPLed is very impressive"
+    },
+    {
+        "userId": 9,
+        "text": "kewl"
+    },
+    {
+        "userId": 9,
+        "text": "I have new respect for compaq"
+    },
+    {
+        "userId": 11,
+        "text": "I dunno if OpenAFS is GPLed"
+    },
+    {
+        "userId": 11,
+        "text": "I don't think so"
+    },
+    {
+        "userId": 4,
+        "text": "Well they also completely funded early linuxes for the iPAQ"
+    },
+    {
+        "userId": 4,
+        "text": "oand they still host and aid free os projects for the ipaq"
+    },
+    {
+        "userId": 11,
+        "text": "IBM owns OpenAFS (Andrew File System).. there's going to be a battle for the next-gen network file system"
+    },
+    {
+        "userId": 4,
+        "text": "I think that Compaq inherited some of the less evilness from DEC"
+    },
+    {
+        "userId": 11,
+        "text": "for \"\"clustered\"\" disconnected file access"
+    },
+    {
+        "userId": 11,
+        "text": "nick: yeah"
+    },
+    {
+        "userId": 4,
+        "text": "yea"
+    },
+    {
+        "userId": 4,
+        "text": "coda is supposedly the descendent of afs"
+    },
+    {
+        "userId": 4,
+        "text": "coda addressses a lot of the limitations"
+    },
+    {
+        "userId": 11,
+        "text": "coda itself has its limitations tho"
+    },
+    {
+        "userId": 11,
+        "text": "intermezzo and some others are trying to do better"
+    },
+    {
+        "userId": 11,
+        "text": "inter-mezzo"
+    },
+    {
+        "userId": 4,
+        "text": "whoa"
+    },
+    {
+        "userId": 4,
+        "text": "thats nifty-keen"
+    },
+    {
+        "userId": 11,
+        "text": "JFS is GPLed"
+    },
+    {
+        "userId": 11,
+        "text": "IBM JFS"
+    },
+    {
+        "userId": 4,
+        "text": "Yes"
+    },
+    {
+        "userId": 4,
+        "text": "so is XFS"
+    },
+    {
+        "userId": 11,
+        "text": "yup"
+    },
+    {
+        "userId": 11,
+        "text": "corps are always so bad ;-)"
+    },
+    {
+        "userId": 9,
+        "text": "they're coming around"
+    },
+    {
+        "userId": 11,
+        "text": "hey nickr"
+    },
+    {
+        "userId": 11,
+        "text": "Hewlett-Packard's Scheduler Plugin System (v6)"
+    },
+    {
+        "userId": 11,
+        "text": "A system to allow new schedulers to be loaded into the Linux kernel through pluggable modules."
+    },
+    {
+        "userId": 11,
+        "text": "http://sourceforge.net/projects/pluginsched/"
+    },
+    {
+        "userId": 4,
+        "text": "Neat"
+    },
+    {
+        "userId": 9,
+        "text": "cool"
+    },
+    {
+        "userId": 11,
+        "text": "The Open Source Database Benchmark"
+    },
+    {
+        "userId": 11,
+        "text": "boy I'd love to take that check from Oracle"
+    },
+    {
+        "userId": 11,
+        "text": "how much $1 million or somethin crazy?"
+    },
+    {
+        "userId": 11,
+        "text": "heh"
+    },
+    {
+        "userId": 11,
+        "text": "actually the use a patched version of sourceforge.. the patch is available"
+    },
+    {
+        "userId": 9,
+        "text": "when you generate a gpg key where what s the file name for it?"
+    },
+    {
+        "userId": 3,
+        "text": "dunno"
+    },
+    {
+        "userId": 9,
+        "text": "well Anil wants me to send him my key so he can send me a password to the FD box"
+    },
+    {
+        "userId": 9,
+        "text": "er"
+    },
+    {
+        "userId": 9,
+        "text": "I still have you key jamest ;)"
+    },
+    {
+        "userId": 9,
+        "text": "oh wait don't you need to use gnupg to get at it?"
+    },
+    {
+        "userId": 9,
+        "text": "doh!"
+    },
+    {
+        "userId": 9,
+        "text": "time to rtfm again"
+    },
+    {
+        "userId": 3,
+        "text": "you have to create the key IIRC"
+    },
+    {
+        "userId": 9,
+        "text": "I have one created"
+    },
+    {
+        "userId": 9,
+        "text": "how do I sedn him it?"
+    },
+    {
+        "userId": 9,
+        "text": "I have your key and my jey in my databse"
+    },
+    {
+        "userId": 9,
+        "text": "database"
+    },
+    {
+        "userId": 9,
+        "text": "s/jey/key"
+    },
+    {
+        "userId": 9,
+        "text": "I alos have mutt setup to use keys too"
+    },
+    {
+        "userId": 3,
+        "text": "i don't recall"
+    },
+    {
+        "userId": 3,
+        "text": "you pass some args to gpg i think"
+    },
+    {
+        "userId": 3,
+        "text": "something about amour"
+    },
+    {
+        "userId": 9,
+        "text": "I should have a mutt macro here that does it for me iirc"
+    },
+    {
+        "userId": 3,
+        "text": "hey jcater"
+    },
+    {
+        "userId": 5,
+        "text": "hi"
+    },
+    {
+        "userId": 5,
+        "text": "how goes the battle?"
+    },
+    {
+        "userId": 3,
+        "text": "it's working"
+    },
+    {
+        "userId": 5,
+        "text": "coolness"
+    },
+    {
+        "userId": 3,
+        "text": "but you'll want to grab new cvs before you do anything"
+    },
+    {
+        "userId": 4,
+        "text": "the battle goes well"
+    },
+    {
+        "userId": 3,
+        "text": "well"
+    },
+    {
+        "userId": 3,
+        "text": "it's fugly"
+    },
+    {
+        "userId": 3,
+        "text": "and lots of handholding"
+    },
+    {
+        "userId": 3,
+        "text": "but tomorrow I can polish"
+    },
+    {
+        "userId": 3,
+        "text": "i didn't touch designer btw"
+    },
+    {
+        "userId": 5,
+        "text": "ok"
+    },
+    {
+        "userId": 3,
+        "text": "you working tonight"
+    },
+    {
+        "userId": 3,
+        "text": "?"
+    },
+    {
+        "userId": 3,
+        "text": "ok everything is checked in"
+    },
+    {
+        "userId": 5,
+        "text": "um"
+    },
+    {
+        "userId": 5,
+        "text": "I'm debating about trying that \"\"sleep\"\" thing"
+    },
+    {
+        "userId": 5,
+        "text": "I've heard ppl at work talk about"
+    },
+    {
+        "userId": 4,
+        "text": "fugly sounds like snuggly"
+    },
+    {
+        "userId": 3,
+        "text": "that's where I'm headed"
+    },
+    {
+        "userId": 3,
+        "text": "have taekwondo testing tomorrow at 10am to try and earn next belt"
+    },
+    {
+        "userId": 3,
+        "text": "need to rest up :)"
+    },
+    {
+        "userId": 5,
+        "text": "if I can't sleep"
+    },
+    {
+        "userId": 5,
+        "text": "but otherwise..."
+    },
+    {
+        "userId": 3,
+        "text": "ok"
+    },
+    {
+        "userId": 3,
+        "text": "tomorrow"
+    },
+    {
+        "userId": 3,
+        "text": "id appreciate a second shakedown of everything"
+    },
+    {
+        "userId": 5,
+        "text": "ok"
+    },
+    {
+        "userId": 3,
+        "text": "to make sure I didn't break anything"
+    },
+    {
+        "userId": 3,
+        "text": "you going to write installer for gfdes?"
+    },
+    {
+        "userId": 5,
+        "text": "yes"
+    },
+    {
+        "userId": 3,
+        "text": "cool"
+    },
+    {
+        "userId": 5,
+        "text": "I'll study your fugliness"
+    },
+    {
+        "userId": 5,
+        "text": "and add to my fugliness"
+    },
+    {
+        "userId": 3,
+        "text": "its bad"
+    },
+    {
+        "userId": 3,
+        "text": "real bad"
+    },
+    {
+        "userId": 5,
+        "text": "well"
+    },
+    {
+        "userId": 5,
+        "text": "something until we"
+    },
+    {
+        "userId": 3,
+        "text": "but I didn't want to risk new install system holding back release"
+    },
+    {
+        "userId": 5,
+        "text": "can get a \"\"real\"\" installer"
+    },
+    {
+        "userId": 3,
+        "text": "ok"
+    },
+    {
+        "userId": 3,
+        "text": "l8r"
+    },
+    {
+        "userId": 5,
+        "text": "l86"
+    },
+    {
+        "userId": 4,
+        "text": "gah"
+    },
+    {
+        "userId": 4,
+        "text": "I'm bored"
+    },
+    {
+        "userId": 4,
+        "text": "cw!"
+    },
+    {
+        "userId": 9,
+        "text": "nickr!"
+    },
+    {
+        "userId": 5,
+        "text": "darn cable modem!"
+    },
+    {
+        "userId": 5,
+        "text": "jamest: you here?"
+    },
+    {
+        "userId": 18,
+        "text": "nope"
+    },
+    {
+        "userId": 18,
+        "text": "he no here"
+    },
+    {
+        "userId": 18,
+        "text": "me things"
+    },
+    {
+        "userId": 18,
+        "text": "thinks"
+    },
+    {
+        "userId": 5,
+        "text": "bbs"
+    },
+    {
+        "userId": 3,
+        "text": "I'm here"
+    },
+    {
+        "userId": 3,
+        "text": "and alone it seems"
+    },
+    {
+        "userId": 3,
+        "text": "howdy"
+    },
+    {
+        "userId": 3,
+        "text": "hey neilt"
+    },
+    {
+        "userId": 16,
+        "text": "just checking email now"
+    },
+    {
+        "userId": 16,
+        "text": "jamest: yes"
+    },
+    {
+        "userId": 3,
+        "text": "cool"
+    },
+    {
+        "userId": 16,
+        "text": "I assume that i still need PyXML"
+    },
+    {
+        "userId": 3,
+        "text": "forms 0.0.9 and desginer 0.0.1 are comming out this weekend"
+    },
+    {
+        "userId": 3,
+        "text": "yip"
+    },
+    {
+        "userId": 16,
+        "text": "so firist i have to get the dependenciens workign"
+    },
+    {
+        "userId": 16,
+        "text": "with my typeing thats probably going to be a problem"
+    },
+    {
+        "userId": 3,
+        "text": "hey makki"
+    },
+    {
+        "userId": 19,
+        "text": "hello"
+    },
+    {
+        "userId": 3,
+        "text": "makki: your nick seems familiar"
+    },
+    {
+        "userId": 3,
+        "text": "you been in here before?"
+    },
+    {
+        "userId": 19,
+        "text": "sometimes yes"
+    },
+    {
+        "userId": 19,
+        "text": "but not that often"
+    },
+    {
+        "userId": 20,
+        "text": "# Appears as ANNA."
+    },
+    {
+        "userId": 3,
+        "text": "hi"
+    },
+    {
+        "userId": 3,
+        "text": "new to GNUe?"
+    },
+    {
+        "userId": 20,
+        "text": "(#G7::E010M1Tderek) hello"
+    },
+    {
+        "userId": 1,
+        "text": "?/"
+    },
+    {
+        "userId": 3,
+        "text": ":)"
+    },
+    {
+        "userId": 1,
+        "text": "who is me2000?"
+    },
+    {
+        "userId": 3,
+        "text": "you comming back?"
+    },
+    {
+        "userId": 1,
+        "text": "they pinged me"
+    },
+    {
+        "userId": 1,
+        "text": "ctcp timed me"
+    },
+    {
+        "userId": 1,
+        "text": "and then posted something to this channel w/ my name but i dont know who it is"
+    },
+    {
+        "userId": 1,
+        "text": "im here for a minute"
+    },
+    {
+        "userId": 1,
+        "text": "just checking in"
+    },
+    {
+        "userId": 1,
+        "text": "before back to company"
+    },
+    {
+        "userId": 3,
+        "text": "you going to be back tonight?"
+    },
+    {
+        "userId": 1,
+        "text": "yes"
+    },
+    {
+        "userId": 1,
+        "text": "will be on tonight"
+    },
+    {
+        "userId": 3,
+        "text": "i need someone who can test rpms"
+    },
+    {
+        "userId": 3,
+        "text": "and someone to help go thru samples"
+    },
+    {
+        "userId": 3,
+        "text": "and clean them up/verify they work"
+    },
+    {
+        "userId": 1,
+        "text": "i will do that"
+    },
+    {
+        "userId": 1,
+        "text": "put .rpm in your homedir"
+    },
+    {
+        "userId": 3,
+        "text": "I'm not ready"
+    },
+    {
+        "userId": 3,
+        "text": "but close"
+    },
+    {
+        "userId": 1,
+        "text": "and let me know what i need to do to make sure old system is clean"
+    },
+    {
+        "userId": 1,
+        "text": "also if you help me :)"
+    },
+    {
+        "userId": 1,
+        "text": "i can get X working on debian"
+    },
+    {
+        "userId": 3,
+        "text": "huh?"
+    },
+    {
+        "userId": 1,
+        "text": "and then will have good box to test with :)"
+    },
+    {
+        "userId": 3,
+        "text": "ah ok"
+    },
+    {
+        "userId": 3,
+        "text": "you still have RH box?"
+    },
+    {
+        "userId": 3,
+        "text": "hi"
+    },
+    {
+        "userId": 21,
+        "text": "good morning"
+    },
+    {
+        "userId": 3,
+        "text": "new to gnue?"
+    },
+    {
+        "userId": 1,
+        "text": "hi ScreenSaver"
+    },
+    {
+        "userId": 21,
+        "text": "yes"
+    },
+    {
+        "userId": 1,
+        "text": "jamest: have mozilla 9.2 running"
+    },
+    {
+        "userId": 1,
+        "text": "was running 0.8 so suppose it cant get worse :)"
+    },
+    {
+        "userId": 21,
+        "text": "everytime i can here"
+    },
+    {
+        "userId": 3,
+        "text": "derek: I switched to it today too"
+    },
+    {
+        "userId": 3,
+        "text": "it is nice"
+    },
+    {
+        "userId": 1,
+        "text": "jamest: good we can comiserate in a week"
+    },
+    {
+        "userId": 3,
+        "text": "ScreenSaver: glad you think so"
+    },
+    {
+        "userId": 1,
+        "text": "when we find out what evil lies within :)"
+    },
+    {
+        "userId": 1,
+        "text": "ScreenSaver: any questions we can answer for you?"
+    },
+    {
+        "userId": 3,
+        "text": "derek: any objecttions to gnuef moving to forms"
+    },
+    {
+        "userId": 3,
+        "text": "wait"
+    },
+    {
+        "userId": 3,
+        "text": "not this close to release :)"
+    },
+    {
+        "userId": 21,
+        "text": "yes"
+    },
+    {
+        "userId": 21,
+        "text": "perhaps"
+    },
+    {
+        "userId": 1,
+        "text": ";)"
+    },
+    {
+        "userId": 1,
+        "text": "i agree"
+    },
+    {
+        "userId": 1,
+        "text": "make it forms"
+    },
+    {
+        "userId": 21,
+        "text": "i were here already some weeks ago"
+    },
+    {
+        "userId": 3,
+        "text": "ScreenSaver: ok"
+    },
+    {
+        "userId": 21,
+        "text": "someone told me what gnue exactly is and that it won't be a project like linux-kontor"
+    },
+    {
+        "userId": 21,
+        "text": "linux-kontor is right now 'sleeping'"
+    },
+    {
+        "userId": 21,
+        "text": "in the next few weeks i have to made a decision"
+    },
+    {
+        "userId": 21,
+        "text": "for a erp solution"
+    },
+    {
+        "userId": 1,
+        "text": "make a decision for gnue :)"
+    },
+    {
+        "userId": 3,
+        "text": "ScreenSaver: what do you require exactly?"
+    },
+    {
+        "userId": 21,
+        "text": "this program should be flexible and of course cheap. at the moment i have three programms which are matching these criterions"
+    },
+    {
+        "userId": 1,
+        "text": "sind Sie deutsch?"
+    },
+    {
+        "userId": 21,
+        "text": "my english isn't the best one"
+    },
+    {
+        "userId": 21,
+        "text": "of course"
+    },
+    {
+        "userId": 21,
+        "text": "where do you know it from (host name)?"
+    },
+    {
+        "userId": 1,
+        "text": "wir haben sterreichische Teambauteile"
+    },
+    {
+        "userId": 21,
+        "text": "sher gut"
+    },
+    {
+        "userId": 21,
+        "text": "sehr"
+    },
+    {
+        "userId": 1,
+        "text": "wenn Sie Probleme bersetzend haben"
+    },
+    {
+        "userId": 21,
+        "text": "but you aren't from austria"
+    },
+    {
+        "userId": 1,
+        "text": "no"
+    },
+    {
+        "userId": 1,
+        "text": "ich spreche nicht den Deutsch"
+    },
+    {
+        "userId": 21,
+        "text": "but you are quick with your dictionary (quicker than i)"
+    },
+    {
+        "userId": 1,
+        "text": ":)"
+    },
+    {
+        "userId": 1,
+        "text": "im trying hard to learn"
+    },
+    {
+        "userId": 1,
+        "text": "your language is very hard to learn"
+    },
+    {
+        "userId": 21,
+        "text": "perhaps"
+    },
+    {
+        "userId": 1,
+        "text": "what are the other 3 programs that match the criteria?"
+    },
+    {
+        "userId": 21,
+        "text": "all these programms are from small and middel size companies here in germany"
+    },
+    {
+        "userId": 1,
+        "text": "GNUe ist jung"
+    },
+    {
+        "userId": 21,
+        "text": "i think two of them uses the cach DB"
+    },
+    {
+        "userId": 1,
+        "text": " wenn Sie bereit sind"
+    },
+    {
+        "userId": 21,
+        "text": "sorry"
+    },
+    {
+        "userId": 1,
+        "text": ":)"
+    },
+    {
+        "userId": 1,
+        "text": "yes the transaltion is probably really bad"
+    },
+    {
+        "userId": 21,
+        "text": "of course"
+    },
+    {
+        "userId": 1,
+        "text": "um in english"
+    },
+    {
+        "userId": 1,
+        "text": "if you are willing to put some effort into GNUe"
+    },
+    {
+        "userId": 1,
+        "text": "what did you plan to use gnue for?"
+    },
+    {
+        "userId": 21,
+        "text": "sounds nice"
+    },
+    {
+        "userId": 1,
+        "text": "and on what scale"
+    },
+    {
+        "userId": 3,
+        "text": "and when do you need it in production use?"
+    },
+    {
+        "userId": 1,
+        "text": "what operating systems"
+    },
+    {
+        "userId": 1,
+        "text": "etc"
+    },
+    {
+        "userId": 21,
+        "text": "about 40 employees"
+    },
+    {
+        "userId": 1,
+        "text": "what operating system?"
+    },
+    {
+        "userId": 1,
+        "text": "where in germany are you?"
+    },
+    {
+        "userId": 21,
+        "text": "office workplaces Windows"
+    },
+    {
+        "userId": 1,
+        "text": "hmmm"
+    },
+    {
+        "userId": 1,
+        "text": "if you need complete solution today"
+    },
+    {
+        "userId": 21,
+        "text": "Saxonie"
+    },
+    {
+        "userId": 1,
+        "text": "i wonder what reinhard (austria) company might be able to offer you"
+    },
+    {
+        "userId": 1,
+        "text": "as they have commerical ERP currently"
+    },
+    {
+        "userId": 1,
+        "text": "that is german based (i.e. supports the language and currency)"
+    },
+    {
+        "userId": 1,
+        "text": "and has large install base"
+    },
+    {
+        "userId": 1,
+        "text": "he is working on porting it and his customers to GNUe"
+    },
+    {
+        "userId": 21,
+        "text": "i already have three commercial ones"
+    },
+    {
+        "userId": 1,
+        "text": "ah ok"
+    },
+    {
+        "userId": 1,
+        "text": "so you are able to slowly move to something free?"
+    },
+    {
+        "userId": 21,
+        "text": "i only have to choose"
+    },
+    {
+        "userId": 1,
+        "text": "GNUe is growing quickly"
+    },
+    {
+        "userId": 1,
+        "text": "but it is not fully functional ERP right now"
+    },
+    {
+        "userId": 21,
+        "text": "what's the name of the companie in AT"
+    },
+    {
+        "userId": 1,
+        "text": "wenn Sie planen auf dem Installieren"
+    },
+    {
+        "userId": 1,
+        "text": "http://members.aon.at/bytewise/"
+    },
+    {
+        "userId": 3,
+        "text": "www.bytewise.at"
+    },
+    {
+        "userId": 1,
+        "text": "jamest same thing :)"
+    },
+    {
+        "userId": 3,
+        "text": "easier to remember"
+    },
+    {
+        "userId": 3,
+        "text": "for me anyway"
+    },
+    {
+        "userId": 1,
+        "text": "me too"
+    },
+    {
+        "userId": 1,
+        "text": "i just typed it in"
+    },
+    {
+        "userId": 1,
+        "text": "to see if i membered right"
+    },
+    {
+        "userId": 1,
+        "text": "and it refreshed"
+    },
+    {
+        "userId": 1,
+        "text": "so i cut and pasted what it was :)"
+    },
+    {
+        "userId": 1,
+        "text": "ScreenSaver: i must make disclaimer"
+    },
+    {
+        "userId": 1,
+        "text": "but in this case bytewise is moving to free software in the near term"
+    },
+    {
+        "userId": 1,
+        "text": ":)"
+    },
+    {
+        "userId": 21,
+        "text": "i looked at it"
+    },
+    {
+        "userId": 1,
+        "text": "bbl"
+    },
+    {
+        "userId": 21,
+        "text": "but the problem is"
+    },
+    {
+        "userId": 3,
+        "text": "ok"
+    },
+    {
+        "userId": 3,
+        "text": "when do you need this system functional?"
+    },
+    {
+        "userId": 21,
+        "text": "before the end of this year"
+    },
+    {
+        "userId": 21,
+        "text": "what status has gnue"
+    },
+    {
+        "userId": 21,
+        "text": "?"
+    },
+    {
+        "userId": 3,
+        "text": "as of right now"
+    },
+    {
+        "userId": 3,
+        "text": "  forms - The UI system - is working on windows"
+    },
+    {
+        "userId": 21,
+        "text": "is is ready for making some basic test"
+    },
+    {
+        "userId": 3,
+        "text": "yes"
+    },
+    {
+        "userId": 3,
+        "text": "basically forms"
+    },
+    {
+        "userId": 3,
+        "text": "there are known issues with all of them"
+    },
+    {
+        "userId": 3,
+        "text": "the first release of designer is this weekend (I'm wrapping it up now)"
+    },
+    {
+        "userId": 21,
+        "text": "so i can try to make for example an application for creating invoices"
+    },
+    {
+        "userId": 3,
+        "text": "well"
+    },
+    {
+        "userId": 3,
+        "text": "printing the invoice will be an issue"
+    },
+    {
+        "userId": 21,
+        "text": "what can i do with the designer"
+    },
+    {
+        "userId": 3,
+        "text": "as reports isn't hitting release state for a few more weeks"
+    },
+    {
+        "userId": 3,
+        "text": "you can create user interfaces that forms will display for data entry"
+    },
+    {
+        "userId": 3,
+        "text": "you can see screenshots of all of this if you like"
+    },
+    {
+        "userId": 3,
+        "text": "you want a URL?"
+    },
+    {
+        "userId": 21,
+        "text": "yes"
+    },
+    {
+        "userId": 3,
+        "text": "geas itself also works"
+    },
+    {
+        "userId": 3,
+        "text": "www.gnue.org"
+    },
+    {
+        "userId": 3,
+        "text": "then click the screenshots section on the left hand side"
+    },
+    {
+        "userId": 3,
+        "text": "there you can choose from forms or designer shots"
+    },
+    {
+        "userId": 21,
+        "text": "i see"
+    },
+    {
+        "userId": 3,
+        "text": "as for geas the major issue we still face for serious production use"
+    },
+    {
+        "userId": 3,
+        "text": "is authentication/security"
+    },
+    {
+        "userId": 3,
+        "text": "it does do username/password auth"
+    },
+    {
+        "userId": 3,
+        "text": "but it's easy for a person to bypass"
+    },
+    {
+        "userId": 3,
+        "text": "we're addressing this now"
+    },
+    {
+        "userId": 3,
+        "text": "also...."
+    },
+    {
+        "userId": 3,
+        "text": "gnue-config (odd name)"
+    },
+    {
+        "userId": 21,
+        "text": "ok"
+    },
+    {
+        "userId": 3,
+        "text": "is a supply-chain/accounting system that is under development in cvs"
+    },
+    {
+        "userId": 21,
+        "text": "what's about printing?"
+    },
+    {
+        "userId": 3,
+        "text": "that's reports job"
+    },
+    {
+        "userId": 3,
+        "text": "and it's not ready yet"
+    },
+    {
+        "userId": 3,
+        "text": "what I do"
+    },
+    {
+        "userId": 3,
+        "text": "is write custom print apps and tie to buttons on forms"
+    },
+    {
+        "userId": 3,
+        "text": "(it's a hack I know)"
+    },
+    {
+        "userId": 21,
+        "text": "how do you split business logic and presentation"
+    },
+    {
+        "userId": 3,
+        "text": "geas"
+    },
+    {
+        "userId": 3,
+        "text": "it allows the user to define business objects with methods"
+    },
+    {
+        "userId": 3,
+        "text": "and you can access it like  a database in forms"
+    },
+    {
+        "userId": 21,
+        "text": "like ejb?"
+    },
+    {
+        "userId": 3,
+        "text": "I cant say"
+    },
+    {
+        "userId": 3,
+        "text": "tears = years"
+    },
+    {
+        "userId": 3,
+        "text": "and I'm not a geas expert"
+    },
+    {
+        "userId": 3,
+        "text": "if neil or reinhard were arround they'd be much more helpfull"
+    },
+    {
+        "userId": 3,
+        "text": "after forms 0.1.0 is released (soon)"
+    },
+    {
+        "userId": 21,
+        "text": "in the frontend you only define wich functions are called"
+    },
+    {
+        "userId": 3,
+        "text": "right now forms has 2 modes"
+    },
+    {
+        "userId": 3,
+        "text": "well"
+    },
+    {
+        "userId": 3,
+        "text": "forms has one mode"
+    },
+    {
+        "userId": 3,
+        "text": "2-tier"
+    },
+    {
+        "userId": 3,
+        "text": "    you can link to oracle"
+    },
+    {
+        "userId": 3,
+        "text": "    you can add triggers to entry fields"
+    },
+    {
+        "userId": 3,
+        "text": "in this mode geas is a database and nothgin more"
+    },
+    {
+        "userId": 3,
+        "text": "however geas does have it's own triggers/methods for business objects"
+    },
+    {
+        "userId": 21,
+        "text": "the way most bad apps are written is 2-tier i think."
+    },
+    {
+        "userId": 3,
+        "text": "after 0.1.0 of forms is out (2-3 weeks)"
+    },
+    {
+        "userId": 3,
+        "text": "we're bringing forms N-tier on line"
+    },
+    {
+        "userId": 3,
+        "text": "that'll tie form and geas together tightly so that forms can query geas methods and call them if needed"
+    },
+    {
+        "userId": 21,
+        "text": "i understand"
+    },
+    {
+        "userId": 3,
+        "text": "right now my understanding is that geas triggers work fine"
+    },
+    {
+        "userId": 3,
+        "text": "so you can alter a field in 2-tier forms and \"\"save\"\" the changes"
+    },
+    {
+        "userId": 3,
+        "text": "upon saving geas w/ fire it's triggers to manipulate the data"
+    },
+    {
+        "userId": 3,
+        "text": "you know how to use cvs?"
+    },
+    {
+        "userId": 21,
+        "text": "a little"
+    },
+    {
+        "userId": 3,
+        "text": "ah"
+    },
+    {
+        "userId": 3,
+        "text": "hmmm"
+    },
+    {
+        "userId": 21,
+        "text": "but at the moment"
+    },
+    {
+        "userId": 3,
+        "text": "http://subversions.gnu.org/cgi-bin/cvsweb/gnue/gnue-config/"
+    },
+    {
+        "userId": 3,
+        "text": "is our cvs tree on-line"
+    },
+    {
+        "userId": 3,
+        "text": "brb"
+    },
+    {
+        "userId": 3,
+        "text": "basically geas reads these files when it starts up"
+    },
+    {
+        "userId": 3,
+        "text": "creates the needed db structures to provide object persistance automatically"
+    },
+    {
+        "userId": 3,
+        "text": "bbs"
+    },
+    {
+        "userId": 21,
+        "text": "ok"
+    },
+    {
+        "userId": 21,
+        "text": "but csvweb isn't working i think"
+    },
+    {
+        "userId": 21,
+        "text": "shouldn't i be able to browse the tree"
+    },
+    {
+        "userId": 3,
+        "text": "yes"
+    },
+    {
+        "userId": 3,
+        "text": "hmmm"
+    },
+    {
+        "userId": 3,
+        "text": "http://www.gnuenterprise.org/~neilt/sc.html"
+    },
+    {
+        "userId": 3,
+        "text": "would be a good place to look too"
+    },
+    {
+        "userId": 3,
+        "text": "hey neilt"
+    },
+    {
+        "userId": 16,
+        "text": "hey"
+    },
+    {
+        "userId": 16,
+        "text": "back at you"
+    },
+    {
+        "userId": 3,
+        "text": "you going to be arround for a bit?"
+    },
+    {
+        "userId": 16,
+        "text": "yes"
+    },
+    {
+        "userId": 3,
+        "text": "cool"
+    },
+    {
+        "userId": 3,
+        "text": "any chance to try wxMac?"
+    },
+    {
+        "userId": 16,
+        "text": "i looked at the poll data and it said that accounting was 2:1 wanted over all others"
+    },
+    {
+        "userId": 21,
+        "text": "neilt's page is interesting"
+    },
+    {
+        "userId": 16,
+        "text": "i did not see wxmac in that list"
+    },
+    {
+        "userId": 3,
+        "text": "neilt: :)"
+    },
+    {
+        "userId": 16,
+        "text": "so i am banging out accounting stuff"
+    },
+    {
+        "userId": 16,
+        "text": "right now"
+    },
+    {
+        "userId": 16,
+        "text": "ScreenSaver: in what way"
+    },
+    {
+        "userId": 16,
+        "text": "ScreenSaver: what page?"
+    },
+    {
+        "userId": 21,
+        "text": "accountig package"
+    },
+    {
+        "userId": 21,
+        "text": "http://www.gnuenterprise.org/~neilt/sc.html"
+    },
+    {
+        "userId": 16,
+        "text": "ahh"
+    },
+    {
+        "userId": 16,
+        "text": "but coming along"
+    },
+    {
+        "userId": 16,
+        "text": "that page is the collection of docs for class designs for GEAS"
+    },
+    {
+        "userId": 16,
+        "text": "and a few proposals"
+    },
+    {
+        "userId": 21,
+        "text": "would it possible to use these files right now with geas?"
+    },
+    {
+        "userId": 16,
+        "text": "we have not had time to integrate that stuff into the core web site"
+    },
+    {
+        "userId": 21,
+        "text": "e.g. invoice.gcd"
+    },
+    {
+        "userId": 16,
+        "text": "ScreenSaver: yes"
+    },
+    {
+        "userId": 21,
+        "text": "would it be possible"
+    },
+    {
+        "userId": 21,
+        "text": "nice"
+    },
+    {
+        "userId": 16,
+        "text": "but we are a bit behind in implemented forms and reports"
+    },
+    {
+        "userId": 16,
+        "text": "and geas methods are not very good right now"
+    },
+    {
+        "userId": 21,
+        "text": "what do you mean?"
+    },
+    {
+        "userId": 16,
+        "text": "and we need some improvements in the geas driver in forms"
+    },
+    {
+        "userId": 16,
+        "text": "i understand that theimproved geas driver is next up after this release"
+    },
+    {
+        "userId": 16,
+        "text": "of forms this weekend"
+    },
+    {
+        "userId": 16,
+        "text": "i mean that we have gcd files"
+    },
+    {
+        "userId": 21,
+        "text": "what is this geas driver?"
+    },
+    {
+        "userId": 16,
+        "text": "in forms"
+    },
+    {
+        "userId": 3,
+        "text": "the interface between forms and geas"
+    },
+    {
+        "userId": 16,
+        "text": "there are drivers for postgresql"
+    },
+    {
+        "userId": 3,
+        "text": "and we're about to break almost all of them :)"
+    },
+    {
+        "userId": 3,
+        "text": "ScreenSaver: what backend are you using?"
+    },
+    {
+        "userId": 21,
+        "text": "perhaps i should try it"
+    },
+    {
+        "userId": 3,
+        "text": "try what?"
+    },
+    {
+        "userId": 21,
+        "text": "in the erp?"
+    },
+    {
+        "userId": 21,
+        "text": "geas and forms"
+    },
+    {
+        "userId": 3,
+        "text": "yes"
+    },
+    {
+        "userId": 3,
+        "text": "geas only uses postgresql and mysql backends"
+    },
+    {
+        "userId": 21,
+        "text": "informix"
+    },
+    {
+        "userId": 16,
+        "text": "ScreenSaver: but if you wanted to write an informix driver its not too complicated"
+    },
+    {
+        "userId": 16,
+        "text": "and we would be real happy"
+    },
+    {
+        "userId": 21,
+        "text": "what does geas do with these gcd files."
+    },
+    {
+        "userId": 3,
+        "text": "creates the defined objects and manages them"
+    },
+    {
+        "userId": 16,
+        "text": "it creates SQL tables and manages the access from forms via CORBA ORG"
+    },
+    {
+        "userId": 16,
+        "text": "ORB"
+    },
+    {
+        "userId": 21,
+        "text": "perhaps i first should get a deeper knowledge in the gnue system."
+    },
+    {
+        "userId": 21,
+        "text": "i understood"
+    },
+    {
+        "userId": 16,
+        "text": "ScreenSaver: none of the rest of us understood what we were doing when we wrote the code ;)"
+    },
+    {
+        "userId": 3,
+        "text": "lol"
+    },
+    {
+        "userId": 21,
+        "text": "what will happen if there are already data in these tables"
+    },
+    {
+        "userId": 16,
+        "text": "depends on the changes"
+    },
+    {
+        "userId": 16,
+        "text": "if the column exists"
+    },
+    {
+        "userId": 16,
+        "text": "you have to do it manually"
+    },
+    {
+        "userId": 16,
+        "text": "using SQL"
+    },
+    {
+        "userId": 16,
+        "text": "so it really only creates tables during the first start and on the next startup"
+    },
+    {
+        "userId": 16,
+        "text": "it will add columns or tables that dont exists"
+    },
+    {
+        "userId": 21,
+        "text": "e.g adding a property to a object"
+    },
+    {
+        "userId": 16,
+        "text": "and report if the tables do no agree with the class definitions"
+    },
+    {
+        "userId": 21,
+        "text": "ok"
+    },
+    {
+        "userId": 16,
+        "text": "and new property equates to a new column"
+    },
+    {
+        "userId": 21,
+        "text": "what's about the frontend"
+    },
+    {
+        "userId": 16,
+        "text": "not sure i understand"
+    },
+    {
+        "userId": 21,
+        "text": "how can it interact with geas?"
+    },
+    {
+        "userId": 16,
+        "text": "it interacts with geas through CORBA ORB"
+    },
+    {
+        "userId": 21,
+        "text": "ok"
+    },
+    {
+        "userId": 16,
+        "text": "so there is an IDL file that defines an API"
+    },
+    {
+        "userId": 16,
+        "text": "for the interaction"
+    },
+    {
+        "userId": 16,
+        "text": "and the front end can be any thing that works with CORBA"
+    },
+    {
+        "userId": 16,
+        "text": "we use Python"
+    },
+    {
+        "userId": 16,
+        "text": "but have example of Java and C"
+    },
+    {
+        "userId": 16,
+        "text": "in cvs"
+    },
+    {
+        "userId": 21,
+        "text": "ok"
+    },
+    {
+        "userId": 21,
+        "text": "that's sounds like if you are going to create a gnu-sap?"
+    },
+    {
+        "userId": 16,
+        "text": "we have a major difference"
+    },
+    {
+        "userId": 16,
+        "text": "but functionality we cover the same business functions"
+    },
+    {
+        "userId": 16,
+        "text": "that difference"
+    },
+    {
+        "userId": 16,
+        "text": "is that we manage complexity better"
+    },
+    {
+        "userId": 21,
+        "text": "i don't know sap very good."
+    },
+    {
+        "userId": 16,
+        "text": "so our system will scale better from small business"
+    },
+    {
+        "userId": 16,
+        "text": "to larger multi-national"
+    },
+    {
+        "userId": 16,
+        "text": "for the small business"
+    },
+    {
+        "userId": 16,
+        "text": "we also use objects for the n-tier (geas)"
+    },
+    {
+        "userId": 21,
+        "text": "most small and middel size solutions are bad"
+    },
+    {
+        "userId": 16,
+        "text": "yes a lot of solutions have tried to migrate from one size to another and its difficult"
+    },
+    {
+        "userId": 16,
+        "text": "we are designing our system with that in mind"
+    },
+    {
+        "userId": 21,
+        "text": "about 50% is made in a visual-basic way"
+    },
+    {
+        "userId": 16,
+        "text": "i wont go there"
+    },
+    {
+        "userId": 21,
+        "text": "using the gui-designer"
+    },
+    {
+        "userId": 21,
+        "text": "which task does the report-server do?"
+    },
+    {
+        "userId": 3,
+        "text": "you will be able to use it to generate output in various formats"
+    },
+    {
+        "userId": 21,
+        "text": "and what is the status right now?"
+    },
+    {
+        "userId": 3,
+        "text": "a few weeks till we see any kind of release"
+    },
+    {
+        "userId": 3,
+        "text": "IIRC it's output an XML file of the output"
+    },
+    {
+        "userId": 3,
+        "text": "but does no conversion to other formats"
+    },
+    {
+        "userId": 21,
+        "text": "how is the report-server attached to the geas or the frontend?"
+    },
+    {
+        "userId": 3,
+        "text": "right now it's not"
+    },
+    {
+        "userId": 3,
+        "text": "it's proof of concept"
+    },
+    {
+        "userId": 16,
+        "text": "and when it does it will use CORBA ORB just"
+    },
+    {
+        "userId": 16,
+        "text": "like forms does"
+    },
+    {
+        "userId": 21,
+        "text": "so there is no way to print something?"
+    },
+    {
+        "userId": 3,
+        "text": "nothing packaged"
+    },
+    {
+        "userId": 16,
+        "text": "yet"
+    },
+    {
+        "userId": 3,
+        "text": "you could probaably use reports"
+    },
+    {
+        "userId": 3,
+        "text": "but it's by no means an end user product"
+    },
+    {
+        "userId": 3,
+        "text": "and it's not a server"
+    },
+    {
+        "userId": 21,
+        "text": "ok"
+    },
+    {
+        "userId": 16,
+        "text": "jamest: its supposed to be a server"
+    },
+    {
+        "userId": 3,
+        "text": "yes"
+    },
+    {
+        "userId": 3,
+        "text": "it's proof of concept code now"
+    },
+    {
+        "userId": 16,
+        "text": "ok"
+    },
+    {
+        "userId": 3,
+        "text": "of the reporting engine"
+    },
+    {
+        "userId": 3,
+        "text": "designer has been higher on the TODO"
+    },
+    {
+        "userId": 3,
+        "text": "afk?"
+    },
+    {
+        "userId": 22,
+        "text": "yes"
+    },
+    {
+        "userId": 22,
+        "text": "you need something"
+    },
+    {
+        "userId": 3,
+        "text": "what is afk?"
+    },
+    {
+        "userId": 21,
+        "text": "i think that was enough gnue for today"
+    },
+    {
+        "userId": 22,
+        "text": "away from keyboard"
+    },
+    {
+        "userId": 21,
+        "text": "away from keyboard"
+    },
+    {
+        "userId": 3,
+        "text": "ScreenSaver: thanks for stopping by"
+    },
+    {
+        "userId": 3,
+        "text": "neil-afk: if you return pre-releases of"
+    },
+    {
+        "userId": 3,
+        "text": "gnuef"
+    },
+    {
+        "userId": 21,
+        "text": "again this session was very nice"
+    },
+    {
+        "userId": 3,
+        "text": "will be at www.gnuenterprise.org/downloads/prereleases"
+    },
+    {
+        "userId": 3,
+        "text": "ScreenSaver: glad to hear it"
+    },
+    {
+        "userId": 22,
+        "text": "ScreenSaver: and your welcome back anytime"
+    },
+    {
+        "userId": 22,
+        "text": "jamest: i am around"
+    },
+    {
+        "userId": 3,
+        "text": "neil-afk: I'm uploading now case you wish to play"
+    },
+    {
+        "userId": 22,
+        "text": "if you need anything /msg me"
+    },
+    {
+        "userId": 3,
+        "text": "I must leave for a while myself"
+    },
+    {
+        "userId": 22,
+        "text": "ok"
+    },
+    {
+        "userId": 3,
+        "text": "once uploads are complete"
+    },
+    {
+        "userId": 3,
+        "text": "I need testers if you can spare time"
+    },
+    {
+        "userId": 3,
+        "text": "if not I already suckered derek into the job"
+    },
+    {
+        "userId": 22,
+        "text": "jamest: btw did you pass your test"
+    },
+    {
+        "userId": 21,
+        "text": "sorry again for my bad and slow english"
+    },
+    {
+        "userId": 3,
+        "text": "neil-afk: I won't know till tuesday :("
+    },
+    {
+        "userId": 22,
+        "text": "jamest: will good luck"
+    },
+    {
+        "userId": 22,
+        "text": "ScreenSaver: no need to appolagize"
+    },
+    {
+        "userId": 22,
+        "text": "we have people all over the world working in GNUe"
+    },
+    {
+        "userId": 3,
+        "text": "ScreenSaver: no problem"
+    },
+    {
+        "userId": 3,
+        "text": "ScreenSaver: and I'm american and talk the worst of all of us"
+    },
+    {
+        "userId": 22,
+        "text": "so we dont even notice"
+    },
+    {
+        "userId": 21,
+        "text": "here in germany it's 1.24 in the morning"
+    },
+    {
+        "userId": 21,
+        "text": "i thing i have to go to bed"
+    },
+    {
+        "userId": 16,
+        "text": "we have several people in austria and france"
+    },
+    {
+        "userId": 16,
+        "text": "that work on gnue"
+    },
+    {
+        "userId": 16,
+        "text": "ScreenSaver: ok later"
+    },
+    {
+        "userId": 16,
+        "text": "sklein: whats up"
+    },
+    {
+        "userId": 21,
+        "text": "austria sounds good (native language)"
+    },
+    {
+        "userId": 16,
+        "text": "look for reinhard"
+    },
+    {
+        "userId": 21,
+        "text": "bye"
+    },
+    {
+        "userId": 17,
+        "text": "neilt: I didn't include it in my email"
+    },
+    {
+        "userId": 3,
+        "text": "bye"
+    },
+    {
+        "userId": 16,
+        "text": "he and i are working on the supply chain stuff"
+    },
+    {
+        "userId": 17,
+        "text": "mignt=might"
+    },
+    {
+        "userId": 21,
+        "text": "and thanks again"
+    },
+    {
+        "userId": 17,
+        "text": "that's why I try to cc: him"
+    },
+    {
+        "userId": 17,
+        "text": "on every message"
+    },
+    {
+        "userId": 16,
+        "text": "sklein: he is subscribed to accounting list"
+    },
+    {
+        "userId": 16,
+        "text": "so if we send to accounting list he will get it"
+    },
+    {
+        "userId": 17,
+        "text": "ahh"
+    },
+    {
+        "userId": 17,
+        "text": "so we move the discussion there or cc both lists"
+    },
+    {
+        "userId": 16,
+        "text": "i think for gl stuff"
+    },
+    {
+        "userId": 16,
+        "text": "we do on accounting list"
+    },
+    {
+        "userId": 17,
+        "text": "OK"
+    },
+    {
+        "userId": 16,
+        "text": "if we have bigger picture stuff"
+    },
+    {
+        "userId": 16,
+        "text": "then we might have to go back to discuss"
+    },
+    {
+        "userId": 16,
+        "text": "list"
+    },
+    {
+        "userId": 17,
+        "text": "as I said in my email"
+    },
+    {
+        "userId": 16,
+        "text": "I was just trying to shake some trees"
+    },
+    {
+        "userId": 17,
+        "text": "well keep shaking and I will shake too"
+    },
+    {
+        "userId": 17,
+        "text": ":)"
+    },
+    {
+        "userId": 3,
+        "text": "sklein: I haven't read them yet"
+    },
+    {
+        "userId": 3,
+        "text": "pushing windows release out"
+    },
+    {
+        "userId": 3,
+        "text": "but will read tonight"
+    },
+    {
+        "userId": 17,
+        "text": "jamest:  I had some success hacking the wxpython demo to get it to run forms"
+    },
+    {
+        "userId": 17,
+        "text": "a little success is dangerous :)"
+    },
+    {
+        "userId": 17,
+        "text": "I may actually learn something"
+    },
+    {
+        "userId": 3,
+        "text": "cool"
+    },
+    {
+        "userId": 16,
+        "text": "sklein: did you have anythink else i was actually leaving when you logged on"
+    },
+    {
+        "userId": 16,
+        "text": "thought i would see if you needed anything"
+    },
+    {
+        "userId": 17,
+        "text": "neilt: no"
+    },
+    {
+        "userId": 16,
+        "text": "thanks"
+    },
+    {
+        "userId": 16,
+        "text": "nick /neil-afk"
+    },
+    {
+        "userId": 3,
+        "text": "sklein: I'm looking for testers"
+    },
+    {
+        "userId": 3,
+        "text": "http://www.gnuenterprise.org/downloads/"
+    },
+    {
+        "userId": 3,
+        "text": "if you are interested :)"
+    },
+    {
+        "userId": 17,
+        "text": "jamest:  I was thinking of making the business process definition file an XML"
+    },
+    {
+        "userId": 17,
+        "text": "my success was very small"
+    },
+    {
+        "userId": 17,
+        "text": "I got the form to show up"
+    },
+    {
+        "userId": 17,
+        "text": "but it proved I could make it happen"
+    },
+    {
+        "userId": 17,
+        "text": "wxwindows does some crazy things like turning a / to a \\"
+    },
+    {
+        "userId": 17,
+        "text": "in the menu list"
+    },
+    {
+        "userId": 3,
+        "text": "sklein: I need to leave for a bit"
+    },
+    {
+        "userId": 3,
+        "text": "with wife"
+    },
+    {
+        "userId": 3,
+        "text": "but I'll be back later"
+    },
+    {
+        "userId": 17,
+        "text": "OK go.  just wanted you to know I'm making progress and thinking big"
+    },
+    {
+        "userId": 3,
+        "text": "if you have something you want to share feel free to mail it to me"
+    },
+    {
+        "userId": 17,
+        "text": "OK"
+    },
+    {
+        "userId": 17,
+        "text": "enjoy your evening"
+    },
+    {
+        "userId": 3,
+        "text": "the xml thing I'd interested in hearing more about later"
+    },
+    {
+        "userId": 3,
+        "text": "bbl"
+    },
+    {
+        "userId": 17,
+        "text": "I'll email it to you"
+    },
+    {
+        "userId": 3,
+        "text": "Food for thought:"
+    },
+    {
+        "userId": 3,
+        "text": "Lindsay picked up a curling iron today at store.  Looking at warnings that came with it we hit #7....."
+    },
+    {
+        "userId": 3,
+        "text": "Do not use while sleeping."
+    },
+    {
+        "userId": 23,
+        "text": "Hello"
+    },
+    {
+        "userId": 23,
+        "text": "whose bot is 'bigbrother'?"
+    },
+    {
+        "userId": 3,
+        "text": "ours"
+    },
+    {
+        "userId": 16,
+        "text": "jamest: you around"
+    },
+    {
+        "userId": 23,
+        "text": "whoever maintains it should be advised"
+    },
+    {
+        "userId": 23,
+        "text": "the bot identifies with nickserv every single minute of its existence and has some 5000 entries in the last week of services log"
+    },
+    {
+        "userId": 1,
+        "text": "cdlu: sounds like bigbrother is watching your log too"
+    },
+    {
+        "userId": 23,
+        "text": "well it's pretty hard to miss"
+    },
+    {
+        "userId": 23,
+        "text": "we do look at logs for things relatively frequently"
+    },
+    {
+        "userId": 23,
+        "text": "and when every fourth line is an identify for bigbrother"
+    },
+    {
+        "userId": 1,
+        "text": ":)"
+    },
+    {
+        "userId": 1,
+        "text": "well he is efficent at watching you"
+    },
+    {
+        "userId": 1,
+        "text": "email jamest@gnue.org"
+    },
+    {
+        "userId": 1,
+        "text": "and let him know the issues it is causing"
+    },
+    {
+        "userId": 1,
+        "text": "he is the admin of bigbroterh"
+    },
+    {
+        "userId": 1,
+        "text": "s/bigroterh/bigbrother"
+    },
+    {
+        "userId": 23,
+        "text": "k"
+    },
+    {
+        "userId": 5,
+        "text": "hello bigbrother"
+    },
+    {
+        "userId": 24,
+        "text": "hi makki"
+    },
+    {
+        "userId": 1,
+        "text": "you have any questions about gnue?"
+    },
+    {
+        "userId": 12,
+        "text": "i do"
+    },
+    {
+        "userId": 12,
+        "text": "My brain is full"
+    },
+    {
+        "userId": 5,
+        "text": "hehe"
+    },
+    {
+        "userId": 25,
+        "text": "yesterday.. I was only able to \"\"relax\"\" in the car while driving a few times between 8am and 1am :-("
+    },
+    {
+        "userId": 1,
+        "text": "jamest_ you cant 'quit'"
+    },
+    {
+        "userId": 1,
+        "text": "it violates the code slave agreement of 1994"
+    },
+    {
+        "userId": 1,
+        "text": "must run. bye bye"
+    },
+    {
+        "userId": 25,
+        "text": "hi ToyMan"
+    },
+    {
+        "userId": 26,
+        "text": "Hi - trying a new identity - this is stuq from yest."
+    },
+    {
+        "userId": 25,
+        "text": "I dunno.."
+    },
+    {
+        "userId": 25,
+        "text": "oops"
+    },
+    {
+        "userId": 25,
+        "text": "whats the Toy mean?"
+    },
+    {
+        "userId": 26,
+        "text": "my company is Design Science *Toys*"
+    },
+    {
+        "userId": 25,
+        "text": "cool"
+    },
+    {
+        "userId": 26,
+        "text": "what's the \"\"Mr_You"
+    },
+    {
+        "userId": 26,
+        "text": "?"
+    },
+    {
+        "userId": 26,
+        "text": "mean?"
+    },
+    {
+        "userId": 25,
+        "text": "inside joke\"\" with some high school friends.. when I joined IRC back in 95 or so"
+    },
+    {
+        "userId": 26,
+        "text": "a name with history..."
+    },
+    {
+        "userId": 25,
+        "text": "lunch for me"
+    },
+    {
+        "userId": 9,
+        "text": "masta!"
+    },
+    {
+        "userId": 1,
+        "text": "hi chillywilly"
+    },
+    {
+        "userId": 1,
+        "text": "full room in here"
+    },
+    {
+        "userId": 1,
+        "text": "jamest / jamest_ are logs working? i see bigbrother is back"
+    },
+    {
+        "userId": 5,
+        "text": "derek: yes"
+    },
+    {
+        "userId": 27,
+        "text": "why yes"
+    },
+    {
+        "userId": 27,
+        "text": "as jcater said"
+    },
+    {
+        "userId": 5,
+        "text": "see"
+    },
+    {
+        "userId": 9,
+        "text": "galeon is da bomb"
+    },
+    {
+        "userId": 1,
+        "text": "i also think netscape mail has improved like 300 fold from M9-M17 days"
+    },
+    {
+        "userId": 1,
+        "text": "er mozilla mail"
+    },
+    {
+        "userId": 9,
+        "text": "hehe"
+    },
+    {
+        "userId": 9,
+        "text": "same difference"
+    },
+    {
+        "userId": 9,
+        "text": "they keep taking and bastardizing mozilla aource into nutscrape 6"
+    },
+    {
+        "userId": 9,
+        "text": "6.x"
+    },
+    {
+        "userId": 1,
+        "text": "hi ToyMan"
+    },
+    {
+        "userId": 26,
+        "text": "hi derek"
+    },
+    {
+        "userId": 26,
+        "text": "the zip disk thing is going to take awhile"
+    },
+    {
+        "userId": 26,
+        "text": "you got an anon ftp site I could use?"
+    },
+    {
+        "userId": 1,
+        "text": "yes and no"
+    },
+    {
+        "userId": 26,
+        "text": "??"
+    },
+    {
+        "userId": 1,
+        "text": "generally we dont allow ftp connections"
+    },
+    {
+        "userId": 1,
+        "text": "only secure connections via ssh"
+    },
+    {
+        "userId": 26,
+        "text": "what's that ssh file copy thingy again?"
+    },
+    {
+        "userId": 1,
+        "text": "on *nix scp"
+    },
+    {
+        "userId": 26,
+        "text": "that's it - let me check"
+    },
+    {
+        "userId": 9,
+        "text": "scp is cooler"
+    },
+    {
+        "userId": 26,
+        "text": "got it on my BSD box"
+    },
+    {
+        "userId": 1,
+        "text": "jamest / jamest_ you here?"
+    },
+    {
+        "userId": 26,
+        "text": "it would be a VERY patient download - 50 megs done in chunks"
+    },
+    {
+        "userId": 12,
+        "text": "I am here"
+    },
+    {
+        "userId": 1,
+        "text": "if stu can get scp/ssh working"
+    },
+    {
+        "userId": 1,
+        "text": "can you make him an account on ash so he can scp 50 megs"
+    },
+    {
+        "userId": 5,
+        "text": "jamest: this is for you: www.gnuenterprise.org/~jcater/poem.txt"
+    },
+    {
+        "userId": 9,
+        "text": "jcater: you are a work-a-holic"
+    },
+    {
+        "userId": 12,
+        "text": "jcater: did you get my msg?"
+    },
+    {
+        "userId": 5,
+        "text": "ye"
+    },
+    {
+        "userId": 5,
+        "text": "yes"
+    },
+    {
+        "userId": 5,
+        "text": "still thinking"
+    },
+    {
+        "userId": 12,
+        "text": "derek: what are we transfering btw?"
+    },
+    {
+        "userId": 1,
+        "text": "roflmao"
+    },
+    {
+        "userId": 1,
+        "text": "jamest_: um goat p0rn what else"
+    },
+    {
+        "userId": 9,
+        "text": "jcater: nice poem"
+    },
+    {
+        "userId": 12,
+        "text": "jcater: :)"
+    },
+    {
+        "userId": 1,
+        "text": "no seriously stu has toy company that has m$ access based system"
+    },
+    {
+        "userId": 1,
+        "text": "he woudl rather it run on freeBSD w/ GNUe"
+    },
+    {
+        "userId": 1,
+        "text": "he is willing to let us a take a look at doing a gnue conversion"
+    },
+    {
+        "userId": 1,
+        "text": "the 50megs is his current system"
+    },
+    {
+        "userId": 12,
+        "text": "ok"
+    },
+    {
+        "userId": 25,
+        "text": "M$ access bug is infamous for randomly losing records :-(((((("
+    },
+    {
+        "userId": 26,
+        "text": "yes"
+    },
+    {
+        "userId": 25,
+        "text": "I'm not sure how M4 fixed or is going to fix that bug.. if I recall you had to export ALL the data perform the fix"
+    },
+    {
+        "userId": 26,
+        "text": "nothing lost so far (running 1 year) but I'm paranoid"
+    },
+    {
+        "userId": 26,
+        "text": "backups of backups"
+    },
+    {
+        "userId": 25,
+        "text": "but you won't know if its lost unless you happen to look for that record"
+    },
+    {
+        "userId": 25,
+        "text": "yeah backups are good"
+    },
+    {
+        "userId": 25,
+        "text": "the scaring thing when it came out was that many doctors offices run access"
+    },
+    {
+        "userId": 26,
+        "text": "well"
+    },
+    {
+        "userId": 9,
+        "text": "using a real database is better though"
+    },
+    {
+        "userId": 9,
+        "text": "sorry"
+    },
+    {
+        "userId": 12,
+        "text": "stuart are you seeing any of my private msgs to you?"
+    },
+    {
+        "userId": 26,
+        "text": "no"
+    },
+    {
+        "userId": 12,
+        "text": "I'm trying to setup your account"
+    },
+    {
+        "userId": 12,
+        "text": "i need a username you like"
+    },
+    {
+        "userId": 26,
+        "text": "first (almost) time using IRC"
+    },
+    {
+        "userId": 26,
+        "text": "ToyMan will do"
+    },
+    {
+        "userId": 12,
+        "text": "names like sadisticFreak are all aliased to derek so you can't have them"
+    },
+    {
+        "userId": 26,
+        "text": "ahh.. new tabby thing"
+    },
+    {
+        "userId": 1,
+        "text": "toyman what version of access you using?"
+    },
+    {
+        "userId": 1,
+        "text": "as i would almost go out on a limb and say it might not be too bad to convert your data to PostGRES"
+    },
+    {
+        "userId": 1,
+        "text": "and still ahve it work with access front end"
+    },
+    {
+        "userId": 1,
+        "text": "though i would rather just replace whole thing with GNUe :)"
+    },
+    {
+        "userId": 5,
+        "text": "hehe"
+    },
+    {
+        "userId": 26,
+        "text": "what I worry about is all the unsupported extensions that postgres wouldn't know what to do with"
+    },
+    {
+        "userId": 12,
+        "text": "ah"
+    },
+    {
+        "userId": 5,
+        "text": "argh!"
+    },
+    {
+        "userId": 12,
+        "text": "i really need to get that domain moved to ash.gnuenterprise.org"
+    },
+    {
+        "userId": 5,
+        "text": "I was looking at lxr last night"
+    },
+    {
+        "userId": 5,
+        "text": "you mind if I install it on ash?"
+    },
+    {
+        "userId": 12,
+        "text": "please do"
+    },
+    {
+        "userId": 5,
+        "text": "I was thinking of doing an hourly update (to make it a little more useful)? or is that too often?"
+    },
+    {
+        "userId": 12,
+        "text": "I've already got the cvs sync setup"
+    },
+    {
+        "userId": 5,
+        "text": "how often is it syncing?"
+    },
+    {
+        "userId": 12,
+        "text": "daily"
+    },
+    {
+        "userId": 12,
+        "text": "i've got the link in /etc/cron.daily/"
+    },
+    {
+        "userId": 5,
+        "text": "ok"
+    },
+    {
+        "userId": 12,
+        "text": "you can bump up"
+    },
+    {
+        "userId": 26,
+        "text": "derek: using access '97"
+    },
+    {
+        "userId": 5,
+        "text": "hey bigbrother... you doing timestamps yet?"
+    },
+    {
+        "userId": 12,
+        "text": "ToyMan: derek was booted when gnue.org went down"
+    },
+    {
+        "userId": 12,
+        "text": "jcater: I shut them off originally"
+    },
+    {
+        "userId": 26,
+        "text": "oh well"
+    },
+    {
+        "userId": 5,
+        "text": "jamest_: any particular reason why?"
+    },
+    {
+        "userId": 28,
+        "text": "man i am sick"
+    },
+    {
+        "userId": 28,
+        "text": "for two weeks or even more i was working 8:00 a.m. to 11:00 p.m. or like that"
+    },
+    {
+        "userId": 28,
+        "text": "_real_ work of course :)"
+    },
+    {
+        "userId": 28,
+        "text": "and now i see light at the end of the tunnel"
+    },
+    {
+        "userId": 28,
+        "text": "and i finished work for today at 8:00 p.m."
+    },
+    {
+        "userId": 28,
+        "text": "and i should spend some time with wife or just watch tv or hang around with friends"
+    },
+    {
+        "userId": 28,
+        "text": "but what do i do????"
+    },
+    {
+        "userId": 28,
+        "text": "gnue!!!"
+    },
+    {
+        "userId": 28,
+        "text": "seems like noone can get me off my computer :)"
+    },
+    {
+        "userId": 9,
+        "text": "hehe"
+    },
+    {
+        "userId": 25,
+        "text": "heh"
+    },
+    {
+        "userId": 9,
+        "text": "reinhard: go do something non-computerish before your wife murders you"
+    },
+    {
+        "userId": 28,
+        "text": ":)"
+    },
+    {
+        "userId": 12,
+        "text": "good reinhard good"
+    },
+    {
+        "userId": 12,
+        "text": "don't listen to the others about life"
+    },
+    {
+        "userId": 12,
+        "text": "they lie"
+    },
+    {
+        "userId": 12,
+        "text": "gnue is life"
+    },
+    {
+        "userId": 12,
+        "text": "life is gnue"
+    },
+    {
+        "userId": 25,
+        "text": "hehe"
+    },
+    {
+        "userId": 9,
+        "text": "heh"
+    },
+    {
+        "userId": 28,
+        "text": "nite all"
+    },
+    {
+        "userId": 9,
+        "text": "hey guys"
+    },
+    {
+        "userId": 9,
+        "text": "http://linuxtoday.com/news_story.php3?ltsn=2001-07-19-010-20-PR-CY"
+    },
+    {
+        "userId": 9,
+        "text": "good stuff happening"
+    },
+    {
+        "userId": 9,
+        "text": "something enterprise related"
+    },
+    {
+        "userId": 9,
+        "text": "http://linuxtoday.com/news_story.php3?ltsn=2001-07-19-007-20-PR-HE"
+    },
+    {
+        "userId": 25,
+        "text": "post to gnuenterprise.org"
+    },
+    {
+        "userId": 9,
+        "text": "http://www.boycottadobe.com/"
+    },
+    {
+        "userId": 9,
+        "text": "adobe are really some bastards"
+    },
+    {
+        "userId": 29,
+        "text": "back in"
+    },
+    {
+        "userId": 12,
+        "text": "you didn't miss anything"
+    },
+    {
+        "userId": 12,
+        "text": "we're kinda quiet lately"
+    },
+    {
+        "userId": 12,
+        "text": "bbl"
+    },
+    {
+        "userId": 16,
+        "text": "chillywilly: you here?"
+    },
+    {
+        "userId": 14,
+        "text": "who hoo"
+    },
+    {
+        "userId": 14,
+        "text": "is unixGh0d here?"
+    },
+    {
+        "userId": 14,
+        "text": "anyone know how to use sort or sed worth a stink?"
+    },
+    {
+        "userId": 14,
+        "text": "i need to sort a tab delimited file"
+    },
+    {
+        "userId": 14,
+        "text": "i cant get sort to work how i expect it to"
+    },
+    {
+        "userId": 16,
+        "text": "nope"
+    },
+    {
+        "userId": 7,
+        "text": "morning all"
+    },
+    {
+        "userId": 3,
+        "text": "morning"
+    },
+    {
+        "userId": 7,
+        "text": "have you had a chance to look at the patch I sent?"
+    },
+    {
+        "userId": 3,
+        "text": "IIRC it got worked in"
+    },
+    {
+        "userId": 7,
+        "text": "ok cool"
+    },
+    {
+        "userId": 1,
+        "text": "jamest: you here?"
+    },
+    {
+        "userId": 5,
+        "text": "uh"
+    },
+    {
+        "userId": 1,
+        "text": "jcater: i have been gone all day because.............."
+    },
+    {
+        "userId": 1,
+        "text": "of 'code red'"
+    },
+    {
+        "userId": 1,
+        "text": ";)"
+    },
+    {
+        "userId": 5,
+        "text": "the new mountain dew drink?"
+    },
+    {
+        "userId": 1,
+        "text": "it seems to have attacked the cisco equipment"
+    },
+    {
+        "userId": 1,
+        "text": "of qwest (teleco)"
+    },
+    {
+        "userId": 1,
+        "text": "and dsl services are affected"
+    },
+    {
+        "userId": 1,
+        "text": "code red = nasty worm virus"
+    },
+    {
+        "userId": 5,
+        "text": "icky"
+    },
+    {
+        "userId": 1,
+        "text": "twas designed to exploit IIS"
+    },
+    {
+        "userId": 1,
+        "text": "and it does so"
+    },
+    {
+        "userId": 1,
+        "text": "it plants itself and propogates like hell"
+    },
+    {
+        "userId": 1,
+        "text": "but a SIDE EFFECT"
+    },
+    {
+        "userId": 1,
+        "text": "it is queries anythign with an IP when trying ot propogate"
+    },
+    {
+        "userId": 1,
+        "text": "the 'finger' it sends"
+    },
+    {
+        "userId": 1,
+        "text": "hangs cisco routers :)"
+    },
+    {
+        "userId": 1,
+        "text": "so you have to upgrade firmware or reboot after everyattack"
+    },
+    {
+        "userId": 7,
+        "text": "yay :)"
+    },
+    {
+        "userId": 1,
+        "text": "currently most IPs are reporting about an attack every 10 minutes"
+    },
+    {
+        "userId": 7,
+        "text": "there was another dodgy fix"
+    },
+    {
+        "userId": 1,
+        "text": "if you grep your access logs for NNNNNNNNN you will probably see how often its hit you"
+    },
+    {
+        "userId": 1,
+        "text": "trying to plant itself"
+    },
+    {
+        "userId": 1,
+        "text": "benno: turning off webmin features doesnt work :("
+    },
+    {
+        "userId": 1,
+        "text": "it still toasts"
+    },
+    {
+        "userId": 1,
+        "text": "anyhow found it interesting as first time ever been effected by such a thing"
+    },
+    {
+        "userId": 7,
+        "text": "yeah turning off doesn't work"
+    },
+    {
+        "userId": 7,
+        "text": "(just parrotting what i read on /. so it could be full of it ;)"
+    },
+    {
+        "userId": 1,
+        "text": "i cant test as i cant log into it :("
+    },
+    {
+        "userId": 1,
+        "text": "and network admin gone for day"
+    },
+    {
+        "userId": 7,
+        "text": "oh crap :("
+    },
+    {
+        "userId": 5,
+        "text": "so? we only have to put up w/you for 10 minutes?"
+    },
+    {
+        "userId": 1,
+        "text": "jcater: you let jamest escape again?"
+    },
+    {
+        "userId": 1,
+        "text": "jcater: nope"
+    },
+    {
+        "userId": 1,
+        "text": "im at home now"
+    },
+    {
+        "userId": 5,
+        "text": "hehe"
+    },
+    {
+        "userId": 5,
+        "text": "now we just have to worry about the \"\"wife\"\" virus"
+    },
+    {
+        "userId": 1,
+        "text": "she isnt here"
+    },
+    {
+        "userId": 5,
+        "text": "argh!"
+    },
+    {
+        "userId": 1,
+        "text": "ive got work for work to do so i will leave you alone :)"
+    },
+    {
+        "userId": 3,
+        "text": "/msg jcater you still have the DoS_Masta script I sent you?"
+    },
+    {
+        "userId": 1,
+        "text": "however"
+    },
+    {
+        "userId": 1,
+        "text": "from LinuxWorldExpo"
+    },
+    {
+        "userId": 1,
+        "text": "that are free entries into exhibit hall"
+    },
+    {
+        "userId": 1,
+        "text": "about 150-300 i assume"
+    },
+    {
+        "userId": 1,
+        "text": "were we gonna do postcard marketing?"
+    },
+    {
+        "userId": 5,
+        "text": "sure"
+    },
+    {
+        "userId": 1,
+        "text": "or do you get bulkmail discounts?"
+    },
+    {
+        "userId": 1,
+        "text": "i can mail them to you priority mail"
+    },
+    {
+        "userId": 5,
+        "text": "I don't think I get bulk mail discounts"
+    },
+    {
+        "userId": 5,
+        "text": "will have to check"
+    },
+    {
+        "userId": 1,
+        "text": "ok i can mail then"
+    },
+    {
+        "userId": 1,
+        "text": "i want to get postcard marketing slicks at some point"
+    },
+    {
+        "userId": 1,
+        "text": "hmmm we need to find way to fund forms developers"
+    },
+    {
+        "userId": 3,
+        "text": "We at the Buy those loser forms developers a new car foundation need your help"
+    },
+    {
+        "userId": 1,
+        "text": ":)"
+    },
+    {
+        "userId": 3,
+        "text": "Everyday wuss python coder are forced to walk to and from the places they need to go."
+    },
+    {
+        "userId": 1,
+        "text": "hmm maybe we could use gnucomm/bayonne to automate the telemarketing?"
+    },
+    {
+        "userId": 3,
+        "text": "Out of their natural basement environment"
+    },
+    {
+        "userId": 3,
+        "text": "Besides......."
+    },
+    {
+        "userId": 1,
+        "text": "piss we need security soon"
+    },
+    {
+        "userId": 1,
+        "text": ":)"
+    },
+    {
+        "userId": 1,
+        "text": "was going to write expense report application"
+    },
+    {
+        "userId": 1,
+        "text": "from corporate perspecitve"
+    },
+    {
+        "userId": 1,
+        "text": "but this is problematic"
+    },
+    {
+        "userId": 3,
+        "text": "<camera pans away from announcer to show jcater in his dust puppy t-shirt"
+    },
+    {
+        "userId": 1,
+        "text": "and if you made so only corporate can deal with expense report it defeats purpose"
+    },
+    {
+        "userId": 3,
+        "text": "Do you really want things like this roaming your neighborhood?"
+    },
+    {
+        "userId": 1,
+        "text": "roflmao"
+    },
+    {
+        "userId": 1,
+        "text": "i almost fell out of chair"
+    },
+    {
+        "userId": 4,
+        "text": "ahahah"
+    },
+    {
+        "userId": 1,
+        "text": "is there way in deisgner to make form bigger?"
+    },
+    {
+        "userId": 3,
+        "text": "nope"
+    },
+    {
+        "userId": 1,
+        "text": "yip"
+    },
+    {
+        "userId": 1,
+        "text": "there is :)"
+    },
+    {
+        "userId": 1,
+        "text": "yeah"
+    },
+    {
+        "userId": 3,
+        "text": "how"
+    },
+    {
+        "userId": 3,
+        "text": "I was just trying that"
+    },
+    {
+        "userId": 1,
+        "text": "go to the form in the tree"
+    },
+    {
+        "userId": 1,
+        "text": "then in property editor"
+    },
+    {
+        "userId": 1,
+        "text": "change its attrbutes"
+    },
+    {
+        "userId": 1,
+        "text": ":)"
+    },
+    {
+        "userId": 3,
+        "text": ":)"
+    },
+    {
+        "userId": 1,
+        "text": "crap my eye and caay ceys arent worceeng"
+    },
+    {
+        "userId": 3,
+        "text": "dude"
+    },
+    {
+        "userId": 3,
+        "text": "was at clients today"
+    },
+    {
+        "userId": 3,
+        "text": "one of their machines wasn't running their invoice lookup program"
+    },
+    {
+        "userId": 3,
+        "text": "i took look at it"
+    },
+    {
+        "userId": 3,
+        "text": "it was a pre-0.0.1 forms"
+    },
+    {
+        "userId": 3,
+        "text": "I had wrappered up"
+    },
+    {
+        "userId": 3,
+        "text": "no menus"
+    },
+    {
+        "userId": 1,
+        "text": "et es weerd my eye cay and comma dont worc"
+    },
+    {
+        "userId": 1,
+        "text": "they are all en verteecal row"
+    },
+    {
+        "userId": 3,
+        "text": "like a blast from the past man"
+    },
+    {
+        "userId": 1,
+        "text": ":)"
+    },
+    {
+        "userId": 3,
+        "text": "that's ok"
+    },
+    {
+        "userId": 1,
+        "text": "fsc"
+    },
+    {
+        "userId": 3,
+        "text": ":)"
+    },
+    {
+        "userId": 1,
+        "text": "me cant type quet"
+    },
+    {
+        "userId": 1,
+        "text": "joy joy joy"
+    },
+    {
+        "userId": 1,
+        "text": "still all busted"
+    },
+    {
+        "userId": 1,
+        "text": "and seeing how i is in my password"
+    },
+    {
+        "userId": 1,
+        "text": "i cant get back into my laptop and i have work that i need for tomorrow on there..."
+    },
+    {
+        "userId": 3,
+        "text": "plug in external keyboard"
+    },
+    {
+        "userId": 1,
+        "text": "sigh a feel long night with dell tonight and tomorrow"
+    },
+    {
+        "userId": 1,
+        "text": "jamest: DUH!!!!!"
+    },
+    {
+        "userId": 3,
+        "text": "ok"
+    },
+    {
+        "userId": 3,
+        "text": ":P"
+    },
+    {
+        "userId": 1,
+        "text": "dont have one"
+    },
+    {
+        "userId": 1,
+        "text": "well the keyboard works"
+    },
+    {
+        "userId": 1,
+        "text": "BUT"
+    },
+    {
+        "userId": 1,
+        "text": "means no mouse"
+    },
+    {
+        "userId": 3,
+        "text": "the touchpad doesn't work?"
+    },
+    {
+        "userId": 1,
+        "text": "as only one ps/2 input and i dont have the magic splitter"
+    },
+    {
+        "userId": 1,
+        "text": "sure it works"
+    },
+    {
+        "userId": 1,
+        "text": "but using external keyboard"
+    },
+    {
+        "userId": 5,
+        "text": "mice are for wussies"
+    },
+    {
+        "userId": 5,
+        "text": "(unless you are using designer"
+    },
+    {
+        "userId": 5,
+        "text": "is mandatory)"
+    },
+    {
+        "userId": 1,
+        "text": "i was planning on designer"
+    },
+    {
+        "userId": 1,
+        "text": "thats what i was doing when it broked"
+    },
+    {
+        "userId": 3,
+        "text": "rock!"
+    },
+    {
+        "userId": 1,
+        "text": "well good news"
+    },
+    {
+        "userId": 7,
+        "text": "no way!"
+    },
+    {
+        "userId": 1,
+        "text": "and the FIRST person i talked to was the person that could help"
+    },
+    {
+        "userId": 1,
+        "text": "the bad news"
+    },
+    {
+        "userId": 3,
+        "text": "/msg jcater that new toastDereksHardware config option worked"
+    },
+    {
+        "userId": 1,
+        "text": "they cant get someone out tomorrow"
+    },
+    {
+        "userId": 1,
+        "text": "which means is monday before fixed"
+    },
+    {
+        "userId": 1,
+        "text": "guess that means im done for tonight"
+    },
+    {
+        "userId": 1,
+        "text": "i suppose i could try to get stuff to work on windows?"
+    },
+    {
+        "userId": 3,
+        "text": "sure"
+    },
+    {
+        "userId": 1,
+        "text": "nah... see you guys tomorrow"
+    },
+    {
+        "userId": 1,
+        "text": "bye bye"
+    },
+    {
+        "userId": 3,
+        "text": "/msg jcater you finding that the gnuef internals aren't quite right for the new drivers :)"
+    },
+    {
+        "userId": 5,
+        "text": "/msg jamest I think we should gut and start all over"
+    },
+    {
+        "userId": 3,
+        "text": "argh!"
+    },
+    {
+        "userId": 9,
+        "text": "lol"
+    },
+    {
+        "userId": 5,
+        "text": "/msg jamest let's con chillywilly into doing it"
+    },
+    {
+        "userId": 3,
+        "text": "/msg jcater he'll never know what hit him"
+    },
+    {
+        "userId": 3,
+        "text": ":)"
+    },
+    {
+        "userId": 9,
+        "text": "haha! this isn't your typical desktop publising winders box"
+    },
+    {
+        "userId": 9,
+        "text": "there's no segfaults here"
+    },
+    {
+        "userId": 5,
+        "text": "I'm pretty impressed with KOffice's offerings"
+    },
+    {
+        "userId": 5,
+        "text": "I may just have to switch over to KDE and KOffice for basic DP"
+    },
+    {
+        "userId": 9,
+        "text": "*sigh*"
+    },
+    {
+        "userId": 9,
+        "text": "KDE guys are such bastards"
+    },
+    {
+        "userId": 5,
+        "text": "And ximian gnome guys are the light of the earth"
+    },
+    {
+        "userId": 9,
+        "text": "ximian isn't Gnome"
+    },
+    {
+        "userId": 7,
+        "text": "http://it.mycareer.com.au/news/2001/07/17/FFXBO2R47PC.html?NWeeklyH"
+    },
+    {
+        "userId": 3,
+        "text": "and I'm an all arround great guy"
+    },
+    {
+        "userId": 9,
+        "text": "what are they gonna do when the code syas copyright FSF eh?"
+    },
+    {
+        "userId": 5,
+        "text": "who?"
+    },
+    {
+        "userId": 9,
+        "text": "they can't take over Gnome they don't really have rights to the core code anyway"
+    },
+    {
+        "userId": 5,
+        "text": "I'm going back to my hole"
+    },
+    {
+        "userId": 5,
+        "text": "benno: cool"
+    },
+    {
+        "userId": 7,
+        "text": "nice to see some of the governments in this country aren't as totally stupid as our federal government"
+    },
+    {
+        "userId": 9,
+        "text": "btw"
+    },
+    {
+        "userId": 30,
+        "text": "i don't suppose someone would be able to fill me in on the meaning/origin of:"
+    },
+    {
+        "userId": 30,
+        "text": "Waddaya mean \"\"Moo! M-Moo! Moo! Moo!\"\"?....\"\"Sheep ya dern fool!"
+    },
+    {
+        "userId": 3,
+        "text": "old droopy cartoon"
+    },
+    {
+        "userId": 3,
+        "text": "jcater put \"\"Moo!\"\" as the status"
+    },
+    {
+        "userId": 3,
+        "text": "made me think of it"
+    },
+    {
+        "userId": 30,
+        "text": "fair nuf then."
+    },
+    {
+        "userId": 3,
+        "text": "so I vandalized his baby"
+    },
+    {
+        "userId": 3,
+        "text": "It should actually be Ba"
+    },
+    {
+        "userId": 5,
+        "text": "um"
+    },
+    {
+        "userId": 5,
+        "text": "jamest"
+    },
+    {
+        "userId": 5,
+        "text": "where oh where is jamest"
+    },
+    {
+        "userId": 5,
+        "text": "didn't dose off did he?"
+    },
+    {
+        "userId": 5,
+        "text": "btb"
+    },
+    {
+        "userId": 5,
+        "text": "brb"
+    },
+    {
+        "userId": 5,
+        "text": "did that slacker ever show up"
+    },
+    {
+        "userId": 5,
+        "text": "err"
+    },
+    {
+        "userId": 30,
+        "text": "nope"
+    },
+    {
+        "userId": 30,
+        "text": "jcater: in TreeView"
+    },
+    {
+        "userId": 30,
+        "text": "it seems to be like it would be better if it reverted to a sibling first"
+    }
+]
